@@ -1748,3 +1748,395 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.27-13.30.38:276][613]LogTexture: Display: Building textures: Metal_007_Metallic (AutoDXT, 1024X1024)
 [2020.06.27-13.30.38:308][613]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Marc\Desktop\a\textures\Metal_007_Normal.jpg)
 [2020.06.27-13.30.38:332][613]LogTexture: Display: Building textures: Metal_007_Normal (BC5, 1024X1024)
+[2020.06.27-13.35.39:621][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.06.27-13.35.41:199][714]LogSlate: Window 'Delete Assets' being destroyed
+[2020.06.27-13.35.41:448][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.06.27-13.35.55:470][ 54]LogFactory: FactoryCreateFile: StaticMesh with GLTFImportFactory (0 0 C:\Users\Marc\Desktop\scene.gltf)
+[2020.06.27-13.35.55:470][ 54]C:\Users\Marc\Desktop\scene.gltf
+[2020.06.27-13.35.57:646][ 54]LogSlate: Window 'glTF Import Options' being destroyed
+[2020.06.27-13.35.59:202][ 54]LogTexture: Display: Building textures: 0_Barbed_baseColor (AutoDXT, 1024X1024)
+[2020.06.27-13.35.59:327][ 54]LogTexture: Display: Building textures: 1_Barbed_metallicRoughness (AutoDXT, 1024X1024)
+[2020.06.27-13.35.59:354][ 54]LogTexture: Display: Building textures: 1_Barbed_metallicRoughness (AutoDXT, 1024X1024)
+[2020.06.27-13.35.59:380][ 54]LogTexture: Display: Building textures: 1_Barbed_metallicRoughness (AutoDXT, 1024X1024)
+[2020.06.27-13.35.59:413][ 54]LogTexture: Display: Building textures: 2_Barbed_normal (AutoDXT, 1024X1024)
+[2020.06.27-13.35.59:451][ 54]LogTexture: Display: Building textures: 2_Barbed_normal (AutoDXT, 1024X1024)
+[2020.06.27-13.35.59:487][ 54]LogMaterial: Display: Missing cached shader map for material Barbed, compiling. 
+[2020.06.27-13.35.59:501][ 54]LogStaticMesh: Generando la malla estática 0_Barbed_Wire_By_Daftvid_Barbed_0...
+[2020.06.27-13.36.00:678][ 54]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2020.06.27-13.36.00:678][ 54]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 20
+[2020.06.27-13.36.00:678][ 54]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2020.06.27-13.36.00:678][ 54]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2020.06.27-13.36.00:678][ 54]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2020.06.27-13.36.00:678][ 54]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.06.27-13.36.00:678][ 54]LogStaticMesh: Built static mesh [1.18s] /Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/Barbed_Wire/0_Barbed_Wire_By_Daftvid_Barbed_0.0_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.36.00:884][ 54]LogStaticMesh: Generando la malla estática 1_Barbed_Wire_By_Daftvid_Barbed_0...
+[2020.06.27-13.36.01:725][ 54]LogStaticMesh: Built static mesh [0.84s] /Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/Barbed_Wire/1_Barbed_Wire_By_Daftvid_Barbed_0.1_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.36.01:913][ 54]LogStaticMesh: Generando la malla estática 2_Barbed_Wire_By_Daftvid_Barbed_0...
+[2020.06.27-13.36.02:729][ 54]LogStaticMesh: Built static mesh [0.82s] /Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/Barbed_Wire/2_Barbed_Wire_By_Daftvid_Barbed_0.2_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.36.02:912][ 54]LogStaticMesh: Generando la malla estática 3_Barbed_Wire_By_Daftvid_Barbed_0...
+[2020.06.27-13.36.03:739][ 54]LogStaticMesh: Built static mesh [0.83s] /Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/Barbed_Wire/3_Barbed_Wire_By_Daftvid_Barbed_0.3_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.36.03:918][ 54]LogStaticMesh: Generando la malla estática 4_Barbed_Wire_By_Daftvid_Barbed_0...
+[2020.06.27-13.36.04:741][ 54]LogStaticMesh: Built static mesh [0.82s] /Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/Barbed_Wire/4_Barbed_Wire_By_Daftvid_Barbed_0.4_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.36.04:929][ 54]LogStaticMesh: Generando la malla estática 5_Barbed_Wire_By_Daftvid_Barbed_0...
+[2020.06.27-13.36.05:745][ 54]LogStaticMesh: Built static mesh [0.82s] /Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/Barbed_Wire/5_Barbed_Wire_By_Daftvid_Barbed_0.5_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.36.05:927][ 54]LogStaticMesh: Generando la malla estática 6_Barbed_Wire_By_Daftvid_Barbed_0...
+[2020.06.27-13.36.06:765][ 54]LogStaticMesh: Built static mesh [0.84s] /Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/Barbed_Wire/6_Barbed_Wire_By_Daftvid_Barbed_0.6_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.36.06:950][ 54]LogStaticMesh: Generando la malla estática 7_Barbed_Wire_By_Daftvid_Barbed_0...
+[2020.06.27-13.36.07:745][ 54]LogStaticMesh: Built static mesh [0.79s] /Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/Barbed_Wire/7_Barbed_Wire_By_Daftvid_Barbed_0.7_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.36.07:930][ 54]LogStaticMesh: Generando la malla estática 8_Barbed_Wire_By_Daftvid_Barbed_0...
+[2020.06.27-13.36.08:402][ 54]LogStaticMesh: Built static mesh [0.47s] /Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/Barbed_Wire/8_Barbed_Wire_By_Daftvid_Barbed_0.8_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.36.13:409][527]LogActorFactory: Actor Factory created 0_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.36.13:409][527]LogActorFactory: Actor Factory created 1_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.36.13:410][527]LogActorFactory: Actor Factory created 2_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.36.13:410][527]LogActorFactory: Actor Factory created 3_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.36.13:410][527]LogActorFactory: Actor Factory created 4_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.36.13:410][527]LogActorFactory: Actor Factory created 5_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.36.13:411][527]LogActorFactory: Actor Factory created 6_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.36.13:411][527]LogActorFactory: Actor Factory created 7_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.36.13:411][527]LogActorFactory: Actor Factory created 8_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.36.14:454][632]LogActorFactory: Actor Factory created 0_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.36.14:465][632]LogActorFactory: Actor Factory created 1_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.36.14:476][632]LogActorFactory: Actor Factory created 2_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.36.14:488][632]LogActorFactory: Actor Factory created 3_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.36.14:500][632]LogActorFactory: Actor Factory created 4_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.36.14:513][632]LogActorFactory: Actor Factory created 5_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.36.14:525][632]LogActorFactory: Actor Factory created 6_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.36.14:537][632]LogActorFactory: Actor Factory created 7_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.36.14:549][632]LogActorFactory: Actor Factory created 8_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.36.18:754][ 73]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.27-13.36.20:440][265]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.27-13.36.27:405][ 86]Cmd: TRANSACTION UNDO
+[2020.06.27-13.36.27:405][ 86]LogEditorTransaction: Undo Crear actores
+[2020.06.27-13.36.33:611][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.06.27-13.36.35:746][725]LogSlate: Window 'Delete Assets' being destroyed
+[2020.06.27-13.36.35:982][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.06.27-13.36.37:649][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2020.06.27-13.36.39:355][918]LogSlate: Window 'Delete Assets' being destroyed
+[2020.06.27-13.36.39:429][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.06.27-13.36.58:550][831]LogFactory: FactoryCreateFile: StaticMesh with GLTFImportFactory (0 0 ../../../../../../Users/Marc/Desktop/scene.gltf)
+[2020.06.27-13.36.58:550][831]../../../../../../Users/Marc/Desktop/scene.gltf
+[2020.06.27-13.37.04:402][831]LogSlate: Window 'glTF Import Options' being destroyed
+[2020.06.27-13.37.05:932][831]LogTexture: Display: Building textures: 0_Barbed_baseColor (AutoDXT, 1024X1024)
+[2020.06.27-13.37.06:059][831]LogTexture: Display: Building textures: 1_Barbed_metallicRoughness (AutoDXT, 1024X1024)
+[2020.06.27-13.37.06:084][831]LogTexture: Display: Building textures: 1_Barbed_metallicRoughness (AutoDXT, 1024X1024)
+[2020.06.27-13.37.06:112][831]LogTexture: Display: Building textures: 1_Barbed_metallicRoughness (AutoDXT, 1024X1024)
+[2020.06.27-13.37.06:144][831]LogTexture: Display: Building textures: 2_Barbed_normal (AutoDXT, 1024X1024)
+[2020.06.27-13.37.06:181][831]LogTexture: Display: Building textures: 2_Barbed_normal (AutoDXT, 1024X1024)
+[2020.06.27-13.37.06:219][831]LogMaterial: Display: Missing cached shader map for material Barbed, compiling. 
+[2020.06.27-13.37.06:229][831]LogStaticMesh: Generando la malla estática 0_Barbed_Wire_By_Daftvid_Barbed_0...
+[2020.06.27-13.37.07:358][831]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2020.06.27-13.37.07:359][831]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 20
+[2020.06.27-13.37.07:359][831]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2020.06.27-13.37.07:359][831]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2020.06.27-13.37.07:359][831]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2020.06.27-13.37.07:359][831]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.06.27-13.37.07:359][831]LogStaticMesh: Built static mesh [1.13s] /Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/0_Barbed_Wire_By_Daftvid_Barbed_0.0_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.37.07:564][831]LogStaticMesh: Generando la malla estática 1_Barbed_Wire_By_Daftvid_Barbed_0...
+[2020.06.27-13.37.08:402][831]LogStaticMesh: Built static mesh [0.84s] /Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/1_Barbed_Wire_By_Daftvid_Barbed_0.1_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.37.08:584][831]LogStaticMesh: Generando la malla estática 2_Barbed_Wire_By_Daftvid_Barbed_0...
+[2020.06.27-13.37.09:400][831]LogStaticMesh: Built static mesh [0.82s] /Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/2_Barbed_Wire_By_Daftvid_Barbed_0.2_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.37.09:584][831]LogStaticMesh: Generando la malla estática 3_Barbed_Wire_By_Daftvid_Barbed_0...
+[2020.06.27-13.37.10:415][831]LogStaticMesh: Built static mesh [0.83s] /Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/3_Barbed_Wire_By_Daftvid_Barbed_0.3_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.37.10:590][831]LogStaticMesh: Generando la malla estática 4_Barbed_Wire_By_Daftvid_Barbed_0...
+[2020.06.27-13.37.11:409][831]LogStaticMesh: Built static mesh [0.82s] /Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/4_Barbed_Wire_By_Daftvid_Barbed_0.4_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.37.11:591][831]LogStaticMesh: Generando la malla estática 5_Barbed_Wire_By_Daftvid_Barbed_0...
+[2020.06.27-13.37.12:409][831]LogStaticMesh: Built static mesh [0.82s] /Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/5_Barbed_Wire_By_Daftvid_Barbed_0.5_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.37.12:587][831]LogStaticMesh: Generando la malla estática 6_Barbed_Wire_By_Daftvid_Barbed_0...
+[2020.06.27-13.37.13:422][831]LogStaticMesh: Built static mesh [0.84s] /Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/6_Barbed_Wire_By_Daftvid_Barbed_0.6_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.37.13:601][831]LogStaticMesh: Generando la malla estática 7_Barbed_Wire_By_Daftvid_Barbed_0...
+[2020.06.27-13.37.14:390][831]LogStaticMesh: Built static mesh [0.79s] /Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/7_Barbed_Wire_By_Daftvid_Barbed_0.7_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.37.14:570][831]LogStaticMesh: Generando la malla estática 8_Barbed_Wire_By_Daftvid_Barbed_0...
+[2020.06.27-13.37.15:047][831]LogStaticMesh: Built static mesh [0.48s] /Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/8_Barbed_Wire_By_Daftvid_Barbed_0.8_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.37.18:469][151]LogActorFactory: Actor Factory created 8_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.37.18:953][207]LogActorFactory: Actor Factory created 8_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.37.21:992][556]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.27-13.37.26:311][ 69]Cmd: TRANSACTION UNDO
+[2020.06.27-13.37.26:311][ 69]LogEditorTransaction: Undo Crear actores
+[2020.06.27-13.37.28:731][283]LogActorFactory: Actor Factory created 8_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.37.28:731][283]LogActorFactory: Actor Factory created 0_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.37.28:731][283]LogActorFactory: Actor Factory created 1_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.37.28:731][283]LogActorFactory: Actor Factory created 2_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.37.28:732][283]LogActorFactory: Actor Factory created 3_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.37.28:732][283]LogActorFactory: Actor Factory created 4_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.37.28:732][283]LogActorFactory: Actor Factory created 5_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.37.28:732][283]LogActorFactory: Actor Factory created 6_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.37.28:733][283]LogActorFactory: Actor Factory created 7_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.37.29:185][334]LogActorFactory: Actor Factory created 8_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.37.29:197][334]LogActorFactory: Actor Factory created 0_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.37.29:209][334]LogActorFactory: Actor Factory created 1_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.37.29:221][334]LogActorFactory: Actor Factory created 2_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.37.29:233][334]LogActorFactory: Actor Factory created 3_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.37.29:245][334]LogActorFactory: Actor Factory created 4_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.37.29:257][334]LogActorFactory: Actor Factory created 5_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.37.29:268][334]LogActorFactory: Actor Factory created 6_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.37.29:280][334]LogActorFactory: Actor Factory created 7_Barbed_Wire_By_Daftvid_Barbed_0
+[2020.06.27-13.37.59:922][971]Cmd: DELETE
+[2020.06.27-13.37.59:922][971]Cmd: ACTOR DELETE
+[2020.06.27-13.37.59:928][971]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.27-13.37.59:929][971]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.27-13.37.59:929][971]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.27-13.37.59:929][971]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.27-13.37.59:929][971]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.27-13.37.59:929][971]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.27-13.37.59:929][971]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.27-13.37.59:930][971]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.27-13.37.59:930][971]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.27-13.37.59:940][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.06.27-13.37.59:947][971]LogEditorActor: Deleted 9 Actors (0.025 secs)
+[2020.06.27-13.38.29:180][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2020.06.27-13.38.29:224][566]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMap_Auto371A095974FFFE5894152AE8197AF6936.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto3.umap'
+[2020.06.27-13.38.29:227][566]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.058
+[2020.06.27-13.38.29:227][566]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.058
+[2020.06.27-13.38.29:228][566]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/Textures/2_Barbed_normal] ([1] browsable assets)...
+[2020.06.27-13.38.29:235][566]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/Textures/2_Barbed_normal.2_Barbed_normal]
+[2020.06.27-13.38.29:235][566]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/Textures/2_Barbed_normal]
+[2020.06.27-13.38.29:248][566]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/2_Barbed_normal_Auto3905A9356411828901BB3DABF57C5B005.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Autosaves/Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/Textures/2_Barbed_normal_Auto3.uasset'
+[2020.06.27-13.38.29:249][566]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/Textures/1_Barbed_metallicRoughness] ([1] browsable assets)...
+[2020.06.27-13.38.29:263][566]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/Textures/1_Barbed_metallicRoughness.1_Barbed_metallicRoughness]
+[2020.06.27-13.38.29:263][566]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/Textures/1_Barbed_metallicRoughness]
+[2020.06.27-13.38.29:272][566]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/1_Barbed_metallicRoughness_Auto398838692400D4EF9A8F9BFA242434922.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Autosaves/Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/Textures/1_Barbed_metallicRoughness_Auto3.uasset'
+[2020.06.27-13.38.29:273][566]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/0_Barbed_Wire_By_Daftvid_Barbed_0] ([1] browsable assets)...
+[2020.06.27-13.38.29:292][566]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/0_Barbed_Wire_By_Daftvid_Barbed_0.0_Barbed_Wire_By_Daftvid_Barbed_0]
+[2020.06.27-13.38.29:292][566]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/0_Barbed_Wire_By_Daftvid_Barbed_0]
+[2020.06.27-13.38.29:403][566]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/0_Barbed_Wire_By_Daftvid_Barbed_0BEDE78D485BDFABD72FEBA68675EB42.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Autosaves/Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/0_Barbed_Wire_By_Daftvid_Barbed_0_Auto3.uasset'
+[2020.06.27-13.38.29:404][566]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/1_Barbed_Wire_By_Daftvid_Barbed_0] ([1] browsable assets)...
+[2020.06.27-13.38.29:413][566]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/1_Barbed_Wire_By_Daftvid_Barbed_0.1_Barbed_Wire_By_Daftvid_Barbed_0]
+[2020.06.27-13.38.29:413][566]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/1_Barbed_Wire_By_Daftvid_Barbed_0]
+[2020.06.27-13.38.29:517][566]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/1_Barbed_Wire_By_Daftvid_Barbed_688582C944B62D2A768583A7422E3C15.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Autosaves/Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/1_Barbed_Wire_By_Daftvid_Barbed_0_Auto3.uasset'
+[2020.06.27-13.38.29:518][566]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/2_Barbed_Wire_By_Daftvid_Barbed_0] ([1] browsable assets)...
+[2020.06.27-13.38.29:528][566]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/2_Barbed_Wire_By_Daftvid_Barbed_0.2_Barbed_Wire_By_Daftvid_Barbed_0]
+[2020.06.27-13.38.29:529][566]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/2_Barbed_Wire_By_Daftvid_Barbed_0]
+[2020.06.27-13.38.29:636][566]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/2_Barbed_Wire_By_Daftvid_Barbed_7870275A48353196FADBA6B669130A82.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Autosaves/Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/2_Barbed_Wire_By_Daftvid_Barbed_0_Auto3.uasset'
+[2020.06.27-13.38.29:636][566]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/3_Barbed_Wire_By_Daftvid_Barbed_0] ([1] browsable assets)...
+[2020.06.27-13.38.29:646][566]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/3_Barbed_Wire_By_Daftvid_Barbed_0.3_Barbed_Wire_By_Daftvid_Barbed_0]
+[2020.06.27-13.38.29:646][566]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/3_Barbed_Wire_By_Daftvid_Barbed_0]
+[2020.06.27-13.38.29:750][566]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/3_Barbed_Wire_By_Daftvid_Barbed_3ECE73AF4139DDE7CF1F98BCABA9D65F.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Autosaves/Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/3_Barbed_Wire_By_Daftvid_Barbed_0_Auto3.uasset'
+[2020.06.27-13.38.29:751][566]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/4_Barbed_Wire_By_Daftvid_Barbed_0] ([1] browsable assets)...
+[2020.06.27-13.38.29:763][566]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/4_Barbed_Wire_By_Daftvid_Barbed_0.4_Barbed_Wire_By_Daftvid_Barbed_0]
+[2020.06.27-13.38.29:763][566]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/4_Barbed_Wire_By_Daftvid_Barbed_0]
+[2020.06.27-13.38.29:870][566]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/4_Barbed_Wire_By_Daftvid_Barbed_E4EC7A934DAFCE00F6991D95A5C831F3.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Autosaves/Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/4_Barbed_Wire_By_Daftvid_Barbed_0_Auto3.uasset'
+[2020.06.27-13.38.29:871][566]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/5_Barbed_Wire_By_Daftvid_Barbed_0] ([1] browsable assets)...
+[2020.06.27-13.38.29:880][566]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/5_Barbed_Wire_By_Daftvid_Barbed_0.5_Barbed_Wire_By_Daftvid_Barbed_0]
+[2020.06.27-13.38.29:880][566]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/5_Barbed_Wire_By_Daftvid_Barbed_0]
+[2020.06.27-13.38.29:989][566]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/5_Barbed_Wire_By_Daftvid_Barbed_EC2788164C1C58534A27909B8ACA4224.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Autosaves/Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/5_Barbed_Wire_By_Daftvid_Barbed_0_Auto3.uasset'
+[2020.06.27-13.38.29:990][566]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/6_Barbed_Wire_By_Daftvid_Barbed_0] ([1] browsable assets)...
+[2020.06.27-13.38.30:000][566]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/6_Barbed_Wire_By_Daftvid_Barbed_0.6_Barbed_Wire_By_Daftvid_Barbed_0]
+[2020.06.27-13.38.30:000][566]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/6_Barbed_Wire_By_Daftvid_Barbed_0]
+[2020.06.27-13.38.30:108][566]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/6_Barbed_Wire_By_Daftvid_Barbed_CBE18C524D7CE4ED94CE14B0CF0F505E.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Autosaves/Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/6_Barbed_Wire_By_Daftvid_Barbed_0_Auto3.uasset'
+[2020.06.27-13.38.30:108][566]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/7_Barbed_Wire_By_Daftvid_Barbed_0] ([1] browsable assets)...
+[2020.06.27-13.38.30:118][566]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/7_Barbed_Wire_By_Daftvid_Barbed_0.7_Barbed_Wire_By_Daftvid_Barbed_0]
+[2020.06.27-13.38.30:118][566]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/7_Barbed_Wire_By_Daftvid_Barbed_0]
+[2020.06.27-13.38.30:222][566]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/7_Barbed_Wire_By_Daftvid_Barbed_C8FCA2FB4E6E63C0C471ABBAF211C0AD.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Autosaves/Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/7_Barbed_Wire_By_Daftvid_Barbed_0_Auto3.uasset'
+[2020.06.27-13.38.30:223][566]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/8_Barbed_Wire_By_Daftvid_Barbed_0] ([1] browsable assets)...
+[2020.06.27-13.38.30:234][566]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/8_Barbed_Wire_By_Daftvid_Barbed_0.8_Barbed_Wire_By_Daftvid_Barbed_0]
+[2020.06.27-13.38.30:234][566]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/8_Barbed_Wire_By_Daftvid_Barbed_0]
+[2020.06.27-13.38.30:314][566]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/8_Barbed_Wire_By_Daftvid_Barbed_28DE3E84430B4D7098B249BF3BECBB2A.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Autosaves/Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/8_Barbed_Wire_By_Daftvid_Barbed_0_Auto3.uasset'
+[2020.06.27-13.38.30:315][566]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/Materials/Barbed] ([1] browsable assets)...
+[2020.06.27-13.38.30:325][566]OBJ SavePackage:     Rendered thumbnail for [Material /Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/Materials/Barbed.Barbed]
+[2020.06.27-13.38.30:325][566]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/Materials/Barbed]
+[2020.06.27-13.38.30:338][566]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Barbed_Auto33C5CC3B849D3FCFCAD0C468316B19345.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Autosaves/Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/Materials/Barbed_Auto3.uasset'
+[2020.06.27-13.38.30:338][566]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/Textures/0_Barbed_baseColor] ([1] browsable assets)...
+[2020.06.27-13.38.30:346][566]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/Textures/0_Barbed_baseColor.0_Barbed_baseColor]
+[2020.06.27-13.38.30:346][566]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/Textures/0_Barbed_baseColor]
+[2020.06.27-13.38.30:356][566]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/0_Barbed_baseColor_Auto320827A6349824386C513D6AE8F07CC8B.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Autosaves/Game/FirstPersonBP/Assets/Synthetic/Barbed_Wire/Textures/0_Barbed_baseColor_Auto3.uasset'
+[2020.06.27-13.38.30:357][566]LogFileHelpers: Auto-saving content packages took 1.130
+[2020.06.27-13.38.51:149][418]LogFactory: FactoryCreateFile: StaticMesh with GLTFImportFactory (0 0 C:\Users\Marc\Desktop\scene.gltf)
+[2020.06.27-13.38.51:149][418]C:\Users\Marc\Desktop\scene.gltf
+[2020.06.27-13.38.57:007][418]LogSlate: Window 'glTF Import Options' being destroyed
+[2020.06.27-13.38.57:126][418]LogTexture: Display: Building textures: 0_Scene_-_Root_baseColor (AutoDXT, 2048X2048)
+[2020.06.27-13.38.57:743][418]LogTexture: Display: Building textures: 1_Scene_-_Root_metallicRoughness (AutoDXT, 2048X2048)
+[2020.06.27-13.38.58:119][418]LogTexture: Display: Building textures: 1_Scene_-_Root_metallicRoughness (AutoDXT, 2048X2048)
+[2020.06.27-13.38.58:563][418]LogTexture: Display: Building textures: 1_Scene_-_Root_metallicRoughness (AutoDXT, 2048X2048)
+[2020.06.27-13.38.59:043][418]LogTexture: Display: Building textures: 2_Scene_-_Root_normal (AutoDXT, 2048X2048)
+[2020.06.27-13.38.59:622][418]LogTexture: Display: Building textures: 2_Scene_-_Root_normal (AutoDXT, 2048X2048)
+[2020.06.27-13.39.00:172][418]LogMaterial: Display: Missing cached shader map for material Scene_-_Root, compiling. 
+[2020.06.27-13.39.00:183][418]LogStaticMesh: Generando la malla estática 0_Cylinder025__0...
+[2020.06.27-13.39.00:203][418]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2020.06.27-13.39.00:203][418]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 20
+[2020.06.27-13.39.00:203][418]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2020.06.27-13.39.00:203][418]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2020.06.27-13.39.00:203][418]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2020.06.27-13.39.00:203][418]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.06.27-13.39.00:203][418]LogStaticMesh: Built static mesh [0.02s] /Game/FirstPersonBP/Assets/Synthetic/Column/0_Cylinder025__0.0_Cylinder025__0
+[2020.06.27-13.39.02:005][606]LogActorFactory: Actor Factory created 0_Cylinder025__0
+[2020.06.27-13.39.02:437][656]LogActorFactory: Actor Factory created 0_Cylinder025__0
+[2020.06.27-13.39.13:213][891]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.27-13.39.16:472][249]LogSlate: Took 0.006409 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.06.27-13.39.18:965][540]Cmd: DELETE
+[2020.06.27-13.39.18:965][540]Cmd: ACTOR DELETE
+[2020.06.27-13.39.18:968][540]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.27-13.39.18:978][540]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.06.27-13.39.18:981][540]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2020.06.27-13.39.24:149][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.06.27-13.39.25:798][128]LogSlate: Window 'Delete Assets' being destroyed
+[2020.06.27-13.39.25:872][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.06.27-13.39.32:835][640]LogFactory: FactoryCreateFile: StaticMesh with GLTFImportFactory (0 0 C:\Users\Marc\Desktop\scene.gltf)
+[2020.06.27-13.39.32:835][640]C:\Users\Marc\Desktop\scene.gltf
+[2020.06.27-13.39.37:318][640]LogSlate: Window 'glTF Import Options' being destroyed
+[2020.06.27-13.39.37:434][640]LogTexture: Display: Building textures: 0_Scene_-_Root_baseColor (AutoDXT, 2048X2048)
+[2020.06.27-13.39.38:048][640]LogTexture: Display: Building textures: 1_Scene_-_Root_metallicRoughness (AutoDXT, 2048X2048)
+[2020.06.27-13.39.38:439][640]LogTexture: Display: Building textures: 1_Scene_-_Root_metallicRoughness (AutoDXT, 2048X2048)
+[2020.06.27-13.39.38:889][640]LogTexture: Display: Building textures: 1_Scene_-_Root_metallicRoughness (AutoDXT, 2048X2048)
+[2020.06.27-13.39.39:363][640]LogTexture: Display: Building textures: 2_Scene_-_Root_normal (AutoDXT, 2048X2048)
+[2020.06.27-13.39.39:939][640]LogTexture: Display: Building textures: 2_Scene_-_Root_normal (AutoDXT, 2048X2048)
+[2020.06.27-13.39.40:484][640]LogMaterial: Display: Missing cached shader map for material Scene_-_Root, compiling. 
+[2020.06.27-13.39.40:495][640]LogStaticMesh: Generando la malla estática 0_Cylinder025__0...
+[2020.06.27-13.39.40:513][640]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2020.06.27-13.39.40:513][640]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 20
+[2020.06.27-13.39.40:513][640]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2020.06.27-13.39.40:513][640]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2020.06.27-13.39.40:513][640]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2020.06.27-13.39.40:513][640]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.06.27-13.39.40:513][640]LogStaticMesh: Built static mesh [0.02s] /Game/FirstPersonBP/Assets/Synthetic/Column/0_Cylinder025__0.0_Cylinder025__0
+[2020.06.27-13.39.43:324][950]LogActorFactory: Actor Factory created 0_Cylinder025__0
+[2020.06.27-13.39.43:572][978]LogActorFactory: Actor Factory created 0_Cylinder025__0
+[2020.06.27-13.39.58:894][759]Cmd: DELETE
+[2020.06.27-13.39.58:894][759]Cmd: ACTOR DELETE
+[2020.06.27-13.39.58:897][759]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.27-13.39.58:907][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.06.27-13.39.58:911][759]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2020.06.27-13.43.25:054][199]LogFactory: FactoryCreateFile: StaticMesh with GLTFImportFactory (0 0 C:\Users\Marc\Desktop\scene.gltf)
+[2020.06.27-13.43.25:054][199]C:\Users\Marc\Desktop\scene.gltf
+[2020.06.27-13.43.30:684][199]LogSlate: Window 'glTF Import Options' being destroyed
+[2020.06.27-13.43.30:714][199]LogTexture: Display: Building textures: 0_lambert1_baseColor (AutoDXT, 1024X1024)
+[2020.06.27-13.43.30:800][199]LogTexture: Display: Building textures: 1_lambert1_metallicRoughness (AutoDXT, 1024X1024)
+[2020.06.27-13.43.30:847][199]LogTexture: Display: Building textures: 1_lambert1_metallicRoughness (AutoDXT, 1024X1024)
+[2020.06.27-13.43.30:910][199]LogTexture: Display: Building textures: 2_lambert1_normal (AutoDXT, 1024X1024)
+[2020.06.27-13.43.30:991][199]LogTexture: Display: Building textures: 2_lambert1_normal (AutoDXT, 1024X1024)
+[2020.06.27-13.43.31:077][199]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.06.27-13.43.31:087][199]LogStaticMesh: Generando la malla estática 0_pCube2_lambert1_0...
+[2020.06.27-13.43.31:092][199]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2020.06.27-13.43.31:092][199]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 20
+[2020.06.27-13.43.31:092][199]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2020.06.27-13.43.31:092][199]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2020.06.27-13.43.31:092][199]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2020.06.27-13.43.31:092][199]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.06.27-13.43.31:092][199]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPersonBP/Assets/Synthetic/rusted_metal_beam/0_pCube2_lambert1_0.0_pCube2_lambert1_0
+[2020.06.27-13.43.33:323][437]LogActorFactory: Actor Factory created 0_pCube2_lambert1_0
+[2020.06.27-13.43.33:526][457]LogActorFactory: Actor Factory created 0_pCube2_lambert1_0
+[2020.06.27-13.43.36:951][861]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.27-13.43.47:085][ 41]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.27-13.43.53:077][730]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.27-13.44.00:284][576]Cmd: DELETE
+[2020.06.27-13.44.00:284][576]Cmd: ACTOR DELETE
+[2020.06.27-13.44.00:287][576]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.27-13.44.00:296][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.06.27-13.44.00:303][576]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2020.06.27-13.48.30:788][597]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2020.06.27-13.48.30:824][597]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMap_Auto4DF72A0984977358E6D6C8DB81ABE5F92.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto4.umap'
+[2020.06.27-13.48.30:826][597]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.047
+[2020.06.27-13.48.30:826][597]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.047
+[2020.06.27-13.48.30:827][597]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Assets/Synthetic/Column/Textures/2_Scene_-_Root_normal] ([1] browsable assets)...
+[2020.06.27-13.48.30:835][597]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FirstPersonBP/Assets/Synthetic/Column/Textures/2_Scene_-_Root_normal.2_Scene_-_Root_normal]
+[2020.06.27-13.48.30:835][597]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Assets/Synthetic/Column/Textures/2_Scene_-_Root_normal]
+[2020.06.27-13.48.30:852][597]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/2_Scene_-_Root_normal_Auto48376D7B4471C2E46EA64AE94551A9375.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Autosaves/Game/FirstPersonBP/Assets/Synthetic/Column/Textures/2_Scene_-_Root_normal_Auto4.uasset'
+[2020.06.27-13.48.30:853][597]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Assets/Synthetic/Column/Textures/1_Scene_-_Root_metallicRoughness] ([1] browsable assets)...
+[2020.06.27-13.48.30:863][597]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FirstPersonBP/Assets/Synthetic/Column/Textures/1_Scene_-_Root_metallicRoughness.1_Scene_-_Root_metallicRoughness]
+[2020.06.27-13.48.30:863][597]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Assets/Synthetic/Column/Textures/1_Scene_-_Root_metallicRoughness]
+[2020.06.27-13.48.30:884][597]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/1_Scene_-_Root_metallicRoughnessFCE7A1394ED3FEA5A39DAC87C03FE6C8.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Autosaves/Game/FirstPersonBP/Assets/Synthetic/Column/Textures/1_Scene_-_Root_metallicRoughness_Auto4.uasset'
+[2020.06.27-13.48.30:885][597]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Assets/Synthetic/Column/0_Cylinder025__0] ([1] browsable assets)...
+[2020.06.27-13.48.30:894][597]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPersonBP/Assets/Synthetic/Column/0_Cylinder025__0.0_Cylinder025__0]
+[2020.06.27-13.48.30:894][597]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Assets/Synthetic/Column/0_Cylinder025__0]
+[2020.06.27-13.48.30:908][597]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/0_Cylinder025__0_Auto4007412974C618F684177898AD17C1CF6.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Autosaves/Game/FirstPersonBP/Assets/Synthetic/Column/0_Cylinder025__0_Auto4.uasset'
+[2020.06.27-13.48.30:909][597]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Assets/Synthetic/Column/Materials/Scene_-_Root] ([1] browsable assets)...
+[2020.06.27-13.48.30:918][597]OBJ SavePackage:     Rendered thumbnail for [Material /Game/FirstPersonBP/Assets/Synthetic/Column/Materials/Scene_-_Root.Scene_-_Root]
+[2020.06.27-13.48.30:918][597]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Assets/Synthetic/Column/Materials/Scene_-_Root]
+[2020.06.27-13.48.30:932][597]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Scene_-_Root_Auto480A069604CBF68593E98848FE34B0F92.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Autosaves/Game/FirstPersonBP/Assets/Synthetic/Column/Materials/Scene_-_Root_Auto4.uasset'
+[2020.06.27-13.48.30:933][597]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Assets/Synthetic/Column/Textures/0_Scene_-_Root_baseColor] ([1] browsable assets)...
+[2020.06.27-13.48.30:941][597]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FirstPersonBP/Assets/Synthetic/Column/Textures/0_Scene_-_Root_baseColor.0_Scene_-_Root_baseColor]
+[2020.06.27-13.48.30:941][597]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Assets/Synthetic/Column/Textures/0_Scene_-_Root_baseColor]
+[2020.06.27-13.48.30:957][597]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/0_Scene_-_Root_baseColor_Auto4653E33F24E2B866FF94BFC8140EF142A.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Autosaves/Game/FirstPersonBP/Assets/Synthetic/Column/Textures/0_Scene_-_Root_baseColor_Auto4.uasset'
+[2020.06.27-13.48.30:958][597]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Assets/Synthetic/rusted_metal_beam/Textures/2_lambert1_normal] ([1] browsable assets)...
+[2020.06.27-13.48.30:965][597]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FirstPersonBP/Assets/Synthetic/rusted_metal_beam/Textures/2_lambert1_normal.2_lambert1_normal]
+[2020.06.27-13.48.30:965][597]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Assets/Synthetic/rusted_metal_beam/Textures/2_lambert1_normal]
+[2020.06.27-13.48.30:976][597]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/2_lambert1_normal_Auto4C54EFD044BD279F24F0EF78EBC82BAC0.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Autosaves/Game/FirstPersonBP/Assets/Synthetic/rusted_metal_beam/Textures/2_lambert1_normal_Auto4.uasset'
+[2020.06.27-13.48.30:976][597]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Assets/Synthetic/rusted_metal_beam/Textures/1_lambert1_metallicRoughness] ([1] browsable assets)...
+[2020.06.27-13.48.30:984][597]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FirstPersonBP/Assets/Synthetic/rusted_metal_beam/Textures/1_lambert1_metallicRoughness.1_lambert1_metallicRoughness]
+[2020.06.27-13.48.30:984][597]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Assets/Synthetic/rusted_metal_beam/Textures/1_lambert1_metallicRoughness]
+[2020.06.27-13.48.30:994][597]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/1_lambert1_metallicRoughness_AutF0B75F2C40A0DBFA66A13EBD48352D7A.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Autosaves/Game/FirstPersonBP/Assets/Synthetic/rusted_metal_beam/Textures/1_lambert1_metallicRoughness_Auto4.uasset'
+[2020.06.27-13.48.30:995][597]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Assets/Synthetic/rusted_metal_beam/0_pCube2_lambert1_0] ([1] browsable assets)...
+[2020.06.27-13.48.31:006][597]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPersonBP/Assets/Synthetic/rusted_metal_beam/0_pCube2_lambert1_0.0_pCube2_lambert1_0]
+[2020.06.27-13.48.31:006][597]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Assets/Synthetic/rusted_metal_beam/0_pCube2_lambert1_0]
+[2020.06.27-13.48.31:017][597]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/0_pCube2_lambert1_0_Auto45D7E029C4D0615D5CA50B5BB4CA530B3.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Autosaves/Game/FirstPersonBP/Assets/Synthetic/rusted_metal_beam/0_pCube2_lambert1_0_Auto4.uasset'
+[2020.06.27-13.48.31:018][597]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Assets/Synthetic/rusted_metal_beam/Materials/lambert1] ([1] browsable assets)...
+[2020.06.27-13.48.31:027][597]OBJ SavePackage:     Rendered thumbnail for [Material /Game/FirstPersonBP/Assets/Synthetic/rusted_metal_beam/Materials/lambert1.lambert1]
+[2020.06.27-13.48.31:027][597]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Assets/Synthetic/rusted_metal_beam/Materials/lambert1]
+[2020.06.27-13.48.31:040][597]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/lambert1_Auto44331439C485D7153AD155B800ADFBFE3.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Autosaves/Game/FirstPersonBP/Assets/Synthetic/rusted_metal_beam/Materials/lambert1_Auto4.uasset'
+[2020.06.27-13.48.31:041][597]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Assets/Synthetic/rusted_metal_beam/Textures/0_lambert1_baseColor] ([1] browsable assets)...
+[2020.06.27-13.48.31:047][597]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FirstPersonBP/Assets/Synthetic/rusted_metal_beam/Textures/0_lambert1_baseColor.0_lambert1_baseColor]
+[2020.06.27-13.48.31:047][597]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Assets/Synthetic/rusted_metal_beam/Textures/0_lambert1_baseColor]
+[2020.06.27-13.48.31:057][597]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/0_lambert1_baseColor_Auto4A07F36544899DC62877A26BD4150AAE0.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Autosaves/Game/FirstPersonBP/Assets/Synthetic/rusted_metal_beam/Textures/0_lambert1_baseColor_Auto4.uasset'
+[2020.06.27-13.48.31:058][597]LogFileHelpers: Auto-saving content packages took 0.232
+[2020.06.27-13.51.28:845][275]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/2_lambert1_normal467885DB4CB607EA2C69B99C7423B2F0.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Assets/Synthetic/Metal_Beams/Textures/2_lambert1_normal.uasset'
+[2020.06.27-13.51.28:891][275]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/1_lambert1_metallicRoughnessC98819294DFDDF98C02550A9F3277D2F.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Assets/Synthetic/Metal_Beams/Textures/1_lambert1_metallicRoughness.uasset'
+[2020.06.27-13.51.28:940][275]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/0_lambert1_baseColorC875463D48A2AEF23A9B6DA8FA5B8D70.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Assets/Synthetic/Metal_Beams/Textures/0_lambert1_baseColor.uasset'
+[2020.06.27-13.51.28:969][275]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/lambert13E9D48D84EB9D599865D10B017F04173.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Assets/Synthetic/Metal_Beams/Materials/lambert1.uasset'
+[2020.06.27-13.51.28:996][275]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/0_pCube2_lambert1_0C1F7C8C74438046B3F80CD8FA3B48D38.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Assets/Synthetic/Metal_Beams/0_pCube2_lambert1_0.uasset'
+[2020.06.27-13.51.29:243][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.06.27-13.51.29:256][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2020.06.27-13.51.29:266][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.06.27-13.51.29:275][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.06.27-13.51.29:285][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.06.27-13.51.29:317][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.06.27-13.51.29:326][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.06.27-13.51.29:366][275]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.27-13.51.29:366][275]LogContentValidation: Display: Validating Texture2D /Game/FirstPersonBP/Assets/Synthetic/Metal_Beams/Textures/2_lambert1_normal.2_lambert1_normal
+[2020.06.27-13.51.29:366][275]LogContentValidation: Display: Validating Texture2D /Game/FirstPersonBP/Assets/Synthetic/Metal_Beams/Textures/1_lambert1_metallicRoughness.1_lambert1_metallicRoughness
+[2020.06.27-13.51.29:366][275]LogContentValidation: Display: Validating Texture2D /Game/FirstPersonBP/Assets/Synthetic/Metal_Beams/Textures/0_lambert1_baseColor.0_lambert1_baseColor
+[2020.06.27-13.51.29:366][275]LogContentValidation: Display: Validating Material /Game/FirstPersonBP/Assets/Synthetic/Metal_Beams/Materials/lambert1.lambert1
+[2020.06.27-13.51.29:366][275]LogContentValidation: Display: Validating StaticMesh /Game/FirstPersonBP/Assets/Synthetic/Metal_Beams/0_pCube2_lambert1_0.0_pCube2_lambert1_0
+[2020.06.27-13.51.36:365][ 76]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/lambert14AFAD8064B94DAEB0A0999BD840FBFB7.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Assets/Synthetic/Metal_Beams/Rusted/Materials/lambert1.uasset'
+[2020.06.27-13.51.36:475][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.06.27-13.51.36:492][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.06.27-13.51.36:502][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2020.06.27-13.51.36:533][ 76]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/0_pCube2_lambert1_0FBE1703642C1818D89A8929E25E43BA3.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Assets/Synthetic/Metal_Beams/0_pCube2_lambert1_0.uasset'
+[2020.06.27-13.51.36:581][ 76]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.27-13.51.36:581][ 76]LogContentValidation: Display: Validating Material /Game/FirstPersonBP/Assets/Synthetic/Metal_Beams/Rusted/Materials/lambert1.lambert1
+[2020.06.27-13.51.36:582][ 76]LogContentValidation: Display: Validating StaticMesh /Game/FirstPersonBP/Assets/Synthetic/Metal_Beams/0_pCube2_lambert1_0.0_pCube2_lambert1_0
+[2020.06.27-13.51.40:321][505]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/0_pCube2_lambert1_08C0FC90A48E46B8F97AFD1A23BA36BD4.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Assets/Synthetic/Metal_Beams/Rusted/0_pCube2_lambert1_0.uasset'
+[2020.06.27-13.51.40:434][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2020.06.27-13.51.40:450][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.06.27-13.51.40:460][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.06.27-13.51.40:599][505]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/2_lambert1_normalF6040FA847FF34B71EBD14AD095E835F.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Assets/Synthetic/Metal_Beams/Rusted/Textures/2_lambert1_normal.uasset'
+[2020.06.27-13.51.40:625][505]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/1_lambert1_metallicRoughness329C869C46662728120681B12AAF6419.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Assets/Synthetic/Metal_Beams/Rusted/Textures/1_lambert1_metallicRoughness.uasset'
+[2020.06.27-13.51.40:651][505]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/0_lambert1_baseColor374EC41844365A89904D44A67707581A.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Assets/Synthetic/Metal_Beams/Rusted/Textures/0_lambert1_baseColor.uasset'
+[2020.06.27-13.51.40:815][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2020.06.27-13.51.40:824][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.06.27-13.51.40:834][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.06.27-13.51.40:854][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.06.27-13.51.40:863][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.06.27-13.51.40:901][505]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/lambert1834C293B4E70F3AC864A51865B2A67BB.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Assets/Synthetic/Metal_Beams/Rusted/Materials/lambert1.uasset'
+[2020.06.27-13.51.40:943][505]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.27-13.51.40:943][505]LogContentValidation: Display: Validating StaticMesh /Game/FirstPersonBP/Assets/Synthetic/Metal_Beams/Rusted/0_pCube2_lambert1_0.0_pCube2_lambert1_0
+[2020.06.27-13.51.40:943][505]LogContentValidation: Display: Validating Texture2D /Game/FirstPersonBP/Assets/Synthetic/Metal_Beams/Rusted/Textures/2_lambert1_normal.2_lambert1_normal
+[2020.06.27-13.51.40:943][505]LogContentValidation: Display: Validating Texture2D /Game/FirstPersonBP/Assets/Synthetic/Metal_Beams/Rusted/Textures/1_lambert1_metallicRoughness.1_lambert1_metallicRoughness
+[2020.06.27-13.51.40:943][505]LogContentValidation: Display: Validating Texture2D /Game/FirstPersonBP/Assets/Synthetic/Metal_Beams/Rusted/Textures/0_lambert1_baseColor.0_lambert1_baseColor
+[2020.06.27-13.51.40:943][505]LogContentValidation: Display: Validating Material /Game/FirstPersonBP/Assets/Synthetic/Metal_Beams/Rusted/Materials/lambert1.lambert1
+[2020.06.27-13.51.59:577][858]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Marc\Desktop\uploads_files_2093248_Metal_Beam_FBX.fbx)
+[2020.06.27-13.51.59:584][858]LogFbx: Loading FBX Scene from C:\Users\Marc\Desktop\uploads_files_2093248_Metal_Beam_FBX.fbx
+[2020.06.27-13.51.59:591][858]LogFbx: FBX Scene Loaded Succesfully
+[2020.06.27-13.52.02:901][858]LogSlate: Window 'Opciones de importación de FBX' being destroyed
+[2020.06.27-13.52.02:921][858]LogMaterial: Display: Missing cached shader map for material aiWireframe1, compiling. 
+[2020.06.27-13.52.02:936][858]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 19
+[2020.06.27-13.52.02:936][858]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 16
+[2020.06.27-13.52.02:936][858]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2020.06.27-13.52.02:936][858]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2020.06.27-13.52.02:936][858]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.06.27-13.52.02:936][858]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.06.27-13.52.02:936][858]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2020.06.27-13.52.02:936][858]LogFbx: Display: Triangulating static mesh Beam140
+[2020.06.27-13.52.03:068][858]LogStaticMesh: Generando la malla estática uploads_files_2093248_Metal_Beam_FBX...
+[2020.06.27-13.52.03:129][858]LogStaticMesh: Built static mesh [0.06s] /Game/FirstPersonBP/Assets/Synthetic/Metal_Beams/Normal/uploads_files_2093248_Metal_Beam_FBX.uploads_files_2093248_Metal_Beam_FBX
+[2020.06.27-13.52.11:076][332]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Marc\Desktop\Beam_UVED_1001_BaseColor.tif)
+[2020.06.27-13.52.11:986][332]LogTexture: Display: Building textures: Beam_UVED_1001_BaseColor (AutoDXT, 4096X4096)
+[2020.06.27-13.52.12:859][332]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Marc\Desktop\Beam_UVED_1001_Height.tif)
+[2020.06.27-13.52.13:159][332]LogTexture: Display: Building textures: Beam_UVED_1001_Height (G8, 4096X4096)
+[2020.06.27-13.52.13:640][332]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Marc\Desktop\Beam_UVED_1001_Metalness.tif)
+[2020.06.27-13.52.13:941][332]LogTexture: Display: Building textures: Beam_UVED_1001_Metalness (G8, 4096X4096)
+[2020.06.27-13.52.14:528][332]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Marc\Desktop\Beam_UVED_1001_Normal.tif)
+[2020.06.27-13.52.15:238][332]LogTexture: Display: Building textures: Beam_UVED_1001_Normal (BC5, 4096X4096)
+[2020.06.27-13.52.15:792][332]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Marc\Desktop\Beam_UVED_1001_Roughness.tif)
+[2020.06.27-13.52.16:062][332]LogTexture: Display: Building textures: Beam_UVED_1001_Roughness (G8, 4096X4096)
+[2020.06.27-13.54.24:671][597]LogDirectoryWatcher: A directory notification failed for 'C:/Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2020.06.27-13.54.24:671][597]LogDirectoryWatcher: A directory notification failed for 'C:/Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/Developers/Marc/Collections/' because it could not be accessed. Aborting watch request...
+[2020.06.27-13.54.24:671][597]LogDirectoryWatcher: A directory notification failed for 'C:/Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Collections/' because it could not be accessed. Aborting watch request...
