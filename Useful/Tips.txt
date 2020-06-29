@@ -11,4 +11,4 @@ Fog:
 Para que se vea debe haber una exponential height fog. Razón? Creo que por el extinction del material pero npi 
 
 Lightning:
-Res texturas, cuidado con paquetes de Unreal, te va a petar la memoria, bajarles la res
+Aumentar el número en la imagen porque sino por defecto da verguenza ajena xd
