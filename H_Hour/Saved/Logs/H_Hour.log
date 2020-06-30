@@ -5249,3 +5249,1825 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.30-11.08.58:454][968]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
 [2020.06.30-11.08.58:454][968]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
 [2020.06.30-11.08.58:454][968]LogContentValidation: Display: Validating Texture2D /Game/StarterContent/Textures/T_Concrete_Poured_D_Darkerr.T_Concrete_Poured_D_Darkerr
+[2020.06.30-11.11.58:385][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.06.30-11.13.56:454][796]LogActorFactory: Actor Factory created 0_scene_mesh_
+[2020.06.30-11.13.56:455][796]LogActorFactory: Actor Factory created 1_scene_mesh_
+[2020.06.30-11.13.57:233][819]LogActorFactory: Actor Factory created 0_scene_mesh_
+[2020.06.30-11.13.57:246][819]LogActorFactory: Actor Factory created 1_scene_mesh_
+[2020.06.30-11.13.58:729][858]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.30-11.14.22:835][336]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.30-11.14.36:220][ 64]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MapBlockout_Bollard_1__5_)
+[2020.06.30-11.14.38:792][162]Cmd: DELETE
+[2020.06.30-11.14.38:792][162]Cmd: ACTOR DELETE
+[2020.06.30-11.14.38:818][162]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-11.14.38:830][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.06.30-11.14.38:839][162]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2020.06.30-11.14.39:609][193]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1_scene_mesh_4)
+[2020.06.30-11.14.55:598][840]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.06.30-11.15.05:793][927]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.06.30-11.15.06:860][ 17]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.06.30-11.15.07:715][ 89]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.06.30-11.15.08:919][193]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.06.30-11.15.16:511][949]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1_scene_mesh_4)
+[2020.06.30-11.15.35:956][969]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.06.30-11.15.50:606][945]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1_scene_mesh_4)
+[2020.06.30-11.15.58:031][179]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Synthetic/Towers/Old_antenna/1_scene_mesh_.1_scene_mesh_
+[2020.06.30-11.15.58:186][179]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2020.06.30-11.15.58:186][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-11.16.25:045][969]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/1_scene_mesh_FA7555CB46FA6B245ED1519D25CE0DC9.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/Assets/Synthetic/Towers/Old_antenna/1_scene_mesh_.uasset'
+[2020.06.30-11.16.25:072][969]AssetCheck: New page: Asset Save: 1_scene_mesh_
+[2020.06.30-11.16.25:072][969]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Synthetic/Towers/Old_antenna/1_scene_mesh_.1_scene_mesh_
+[2020.06.30-11.16.27:030][ 33]LogSlate: Window '1_scene_mesh_' being destroyed
+[2020.06.30-11.16.27:096][ 33]LogSlate: Window '1_scene_mesh_' being destroyed
+[2020.06.30-11.16.27:114][ 33]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2020.06.30-11.16.27:114][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-11.16.29:818][117]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.30-11.16.29:836][117]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.30-11.16.29:836][117]PIE: New page: Sesión PIE (reproducción en el editor): FirstPersonExampleMap (30 jun. 2020 15:16:29)
+[2020.06.30-11.16.29:836][117]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.06.30-11.16.29:923][117]LogPlayLevel: PIE: StaticDuplicateObject took: (0.086414s)
+[2020.06.30-11.16.29:923][117]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.06.30-11.16.29:923][117]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002D01E748200), frame # 705117
+[2020.06.30-11.16.29:924][117]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002D01072E700), frame # 705117
+[2020.06.30-11.16.29:924][117]LogPlayLevel: PIE: World Init took: (0.001436s)
+[2020.06.30-11.16.29:924][117]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.088095s)
+[2020.06.30-11.16.29:945][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2020.06.30-11.16.29:962][117]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.30-11.16.29:962][117]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.30-11.16.29:962][117]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.30-11.16.29:962][117]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.30-11.16.29:962][117]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.30-11.16.29:962][117]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.30-11.16.29:962][117]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.30-11.16.29:962][117]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.30-11.16.29:962][117]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.30-11.16.29:962][117]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.30-11.16.29:965][117]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.30-11.16.29:965][117]LogAudioMixer: Display: 1: FrontRight
+[2020.06.30-11.16.29:985][117]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.06.30-11.16.29:985][117]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.06.30-11.16.29:985][117]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.06.30-11.16.29:985][117]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.06.30-11.16.29:986][117]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.06.30-11.16.29:997][117]LogInit: FAudioDevice initialized.
+[2020.06.30-11.16.30:006][117]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.06.30-11.16.30:031][117]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.06.30-13.16.30
+[2020.06.30-11.16.30:032][117]LogWorld: Bringing up level for play took: 0.024896
+[2020.06.30-11.16.30:032][117]LogOnline: OSS: Creating online subsystem instance for: :Context_67
+[2020.06.30-11.16.30:035][117]PIE: El servidor ha iniciado la sesión
+[2020.06.30-11.16.30:035][117]PIE: Play in editor total start time 0,199 seconds.
+[2020.06.30-11.16.49:900][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-11.16.49:900][598]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.06.30-11.16.49:901][598]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.30-11.16.49:907][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-11.16.49:929][598]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.30-11.16.49:933][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-11.16.49:963][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-11.16.49:966][598]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002D01072E700), frame # 706598
+[2020.06.30-11.16.49:966][598]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002D01E748200), frame # 706598
+[2020.06.30-11.16.49:970][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.06.30-11.16.50:001][599]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2020.06.30-11.17.01:843][282]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1_scene_mesh_4)
+[2020.06.30-11.17.20:867][850]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.06.30-11.17.31:837][889]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.06.30-11.17.32:971][986]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.06.30-11.17.48:709][423]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.30-11.17.48:726][423]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.30-11.17.48:726][423]PIE: New page: Sesión PIE (reproducción en el editor): FirstPersonExampleMap (30 jun. 2020 15:17:48)
+[2020.06.30-11.17.48:759][423]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.06.30-11.17.48:844][423]LogPlayLevel: PIE: StaticDuplicateObject took: (0.085130s)
+[2020.06.30-11.17.48:845][423]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.06.30-11.17.48:845][423]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002D01D8E0800), frame # 710423
+[2020.06.30-11.17.48:845][423]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002D0030D1A80), frame # 710423
+[2020.06.30-11.17.48:845][423]LogPlayLevel: PIE: World Init took: (0.001341s)
+[2020.06.30-11.17.48:845][423]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.086764s)
+[2020.06.30-11.17.48:858][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.06.30-11.17.48:869][423]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.30-11.17.48:869][423]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.30-11.17.48:869][423]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.30-11.17.48:869][423]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.30-11.17.48:869][423]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.30-11.17.48:869][423]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.30-11.17.48:869][423]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.30-11.17.48:869][423]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.30-11.17.48:870][423]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.30-11.17.48:870][423]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.30-11.17.48:872][423]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.30-11.17.48:872][423]LogAudioMixer: Display: 1: FrontRight
+[2020.06.30-11.17.48:905][423]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.06.30-11.17.48:905][423]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.06.30-11.17.48:905][423]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.06.30-11.17.48:905][423]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.06.30-11.17.48:906][423]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.06.30-11.17.48:917][423]LogInit: FAudioDevice initialized.
+[2020.06.30-11.17.48:925][423]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.06.30-11.17.48:950][423]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.06.30-13.17.48
+[2020.06.30-11.17.48:950][423]LogWorld: Bringing up level for play took: 0.025254
+[2020.06.30-11.17.48:950][423]LogOnline: OSS: Creating online subsystem instance for: :Context_68
+[2020.06.30-11.17.48:953][423]PIE: El servidor ha iniciado la sesión
+[2020.06.30-11.17.48:954][423]PIE: Play in editor total start time 0,229 seconds.
+[2020.06.30-11.18.09:589][542]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-988.378 Y=-492.504 Z=746.160] for [FirstPersonProjectile_C]
+[2020.06.30-11.18.11:630][669]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-11.18.11:630][669]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.06.30-11.18.11:631][669]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.30-11.18.11:637][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-11.18.11:648][669]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.30-11.18.11:652][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-11.18.11:669][669]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-11.18.11:687][669]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002D0030D1A80), frame # 712669
+[2020.06.30-11.18.11:687][669]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002D01D8E0800), frame # 712669
+[2020.06.30-11.18.11:691][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2020.06.30-11.18.11:744][670]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2020.06.30-11.18.13:785][803]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1_scene_mesh_4)
+[2020.06.30-11.18.27:530][556]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.06.30-11.18.33:335][824]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1_scene_mesh_4)
+[2020.06.30-11.18.38:034][987]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MapBlockout_Box048_1)
+[2020.06.30-11.18.38:594][  7]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MapBlockout_Box042)
+[2020.06.30-11.19.02:904][973]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MapBlockout_Wall_Side_Destroyed_T3_025x1x1_1__5_)
+[2020.06.30-11.19.04:606][ 59]Cmd: DELETE
+[2020.06.30-11.19.04:606][ 59]Cmd: ACTOR DELETE
+[2020.06.30-11.19.04:632][ 59]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-11.19.04:644][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.06.30-11.19.04:656][ 59]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2020.06.30-11.19.05:446][113]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MapBlockout_Wall_Side_Destroyed_T3_025x1x1_1)
+[2020.06.30-11.19.06:089][136]Cmd: DELETE
+[2020.06.30-11.19.06:089][136]Cmd: ACTOR DELETE
+[2020.06.30-11.19.06:113][136]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-11.19.06:127][136]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2020.06.30-11.19.06:128][136]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2020.06.30-11.19.08:134][233]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MapBlockout_Wall_Side_Destroyed_T3_025x1x1_1__9_)
+[2020.06.30-11.19.08:409][241]Cmd: DELETE
+[2020.06.30-11.19.08:409][241]Cmd: ACTOR DELETE
+[2020.06.30-11.19.08:434][241]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-11.19.08:446][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2020.06.30-11.19.08:448][241]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2020.06.30-11.19.22:108][701]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.06.30-11.19.22:653][713]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MapBlockout_Stairs_Spiral_Open_T3__1_)
+[2020.06.30-11.19.23:181][724]Cmd: DELETE
+[2020.06.30-11.19.23:181][724]Cmd: ACTOR DELETE
+[2020.06.30-11.19.23:208][724]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-11.19.23:223][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2020.06.30-11.19.23:226][724]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2020.06.30-11.19.23:609][736]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MapBlockout_Stairs_Closed_2x1x2)
+[2020.06.30-11.19.24:008][744]Cmd: DELETE
+[2020.06.30-11.19.24:008][744]Cmd: ACTOR DELETE
+[2020.06.30-11.19.24:033][744]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-11.19.24:047][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2020.06.30-11.19.24:049][744]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2020.06.30-11.19.26:606][844]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.06.30-11.19.27:097][861]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MapBlockout_Floor_Cracked_T1_3x_025x3__1_)
+[2020.06.30-11.19.27:312][866]Cmd: DELETE
+[2020.06.30-11.19.27:312][866]Cmd: ACTOR DELETE
+[2020.06.30-11.19.27:337][866]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-11.19.27:350][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2020.06.30-11.19.27:352][866]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2020.06.30-11.19.34:241][148]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small246)
+[2020.06.30-11.21.51:066][183]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small291)
+[2020.06.30-11.21.54:731][305]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.30-11.21.54:749][305]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.30-11.21.54:750][305]PIE: New page: Sesión PIE (reproducción en el editor): FirstPersonExampleMap (30 jun. 2020 15:21:54)
+[2020.06.30-11.21.54:750][305]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.06.30-11.21.54:837][305]LogPlayLevel: PIE: StaticDuplicateObject took: (0.087774s)
+[2020.06.30-11.21.54:838][305]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.06.30-11.21.54:838][305]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002CF26033400), frame # 722305
+[2020.06.30-11.21.54:839][305]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002D030D6A840), frame # 722305
+[2020.06.30-11.21.54:839][305]LogPlayLevel: PIE: World Init took: (0.001530s)
+[2020.06.30-11.21.54:839][305]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.089598s)
+[2020.06.30-11.21.54:853][305]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.06.30-11.21.54:866][305]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.30-11.21.54:866][305]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.30-11.21.54:866][305]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.30-11.21.54:866][305]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.30-11.21.54:866][305]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.30-11.21.54:866][305]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.30-11.21.54:866][305]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.30-11.21.54:866][305]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.30-11.21.54:866][305]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.30-11.21.54:866][305]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.30-11.21.54:869][305]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.30-11.21.54:869][305]LogAudioMixer: Display: 1: FrontRight
+[2020.06.30-11.21.54:888][305]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.06.30-11.21.54:888][305]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.06.30-11.21.54:888][305]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.06.30-11.21.54:888][305]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.06.30-11.21.54:888][305]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.06.30-11.21.54:900][305]LogInit: FAudioDevice initialized.
+[2020.06.30-11.21.54:912][305]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.06.30-11.21.54:937][305]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.06.30-13.21.54
+[2020.06.30-11.21.54:938][305]LogWorld: Bringing up level for play took: 0.025351
+[2020.06.30-11.21.54:938][305]LogOnline: OSS: Creating online subsystem instance for: :Context_69
+[2020.06.30-11.21.54:941][305]PIE: El servidor ha iniciado la sesión
+[2020.06.30-11.21.54:942][305]PIE: Play in editor total start time 0,193 seconds.
+[2020.06.30-11.22.02:800][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-11.22.02:800][789]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.06.30-11.22.02:801][789]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.30-11.22.02:807][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-11.22.02:818][789]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.30-11.22.02:823][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-11.22.02:854][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-11.22.02:857][789]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002D030D6A840), frame # 722789
+[2020.06.30-11.22.02:857][789]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002CF26033400), frame # 722789
+[2020.06.30-11.22.02:863][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.06.30-11.22.02:905][790]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2020.06.30-11.22.30:747][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.06.30-11.22.31:139][433]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMap_Auto3931ABED14EC9E0E2C75E8E9AB80E0AA1.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto3.umap'
+[2020.06.30-11.22.31:147][433]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.412
+[2020.06.30-11.22.31:147][433]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.412
+[2020.06.30-11.22.31:817][478]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Barrier_Large_Cylinder7)
+[2020.06.30-11.22.37:939][767]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Barrier_Large_Cylinder9)
+[2020.06.30-11.22.47:066][262]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small218)
+[2020.06.30-11.22.48:208][318]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Barrier_Large_Cylinder7)
+[2020.06.30-11.22.51:943][502]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Barrier_Large_Cylinder10)
+[2020.06.30-11.23.04:839][294]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small204)
+[2020.06.30-11.23.08:424][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.06.30-11.23.08:463][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2020.06.30-11.23.08:834][443]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMap000BED954ACD2D06C2CC238FAB37E96A.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.06.30-11.23.08:874][443]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.426
+[2020.06.30-11.23.10:042][443]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMap_BuiltData19389A3F41B90E43007FEE9DBEE37B33.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.06.30-11.23.10:072][443]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.30-11.23.10:072][443]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.06.30-11.23.10:073][443]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.06.30-11.23.14:510][560]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.30-11.23.14:529][560]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.30-11.23.14:529][560]PIE: New page: Sesión PIE (reproducción en el editor): FirstPersonExampleMap (30 jun. 2020 15:23:14)
+[2020.06.30-11.23.14:529][560]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.06.30-11.23.14:620][560]LogPlayLevel: PIE: StaticDuplicateObject took: (0.089676s)
+[2020.06.30-11.23.14:620][560]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.06.30-11.23.14:621][560]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002CFFC471800), frame # 725560
+[2020.06.30-11.23.14:621][560]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002CFDFBA1440), frame # 725560
+[2020.06.30-11.23.14:621][560]LogPlayLevel: PIE: World Init took: (0.001678s)
+[2020.06.30-11.23.14:622][560]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.091643s)
+[2020.06.30-11.23.14:634][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2020.06.30-11.23.14:637][560]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.30-11.23.14:637][560]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.30-11.23.14:637][560]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.30-11.23.14:637][560]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.30-11.23.14:637][560]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.30-11.23.14:637][560]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.30-11.23.14:637][560]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.30-11.23.14:638][560]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.30-11.23.14:638][560]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.30-11.23.14:638][560]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.30-11.23.14:640][560]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.30-11.23.14:640][560]LogAudioMixer: Display: 1: FrontRight
+[2020.06.30-11.23.14:658][560]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.06.30-11.23.14:658][560]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.06.30-11.23.14:658][560]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.06.30-11.23.14:658][560]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.06.30-11.23.14:659][560]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.06.30-11.23.14:670][560]LogInit: FAudioDevice initialized.
+[2020.06.30-11.23.14:688][560]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.06.30-11.23.14:713][560]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.06.30-13.23.14
+[2020.06.30-11.23.14:714][560]LogWorld: Bringing up level for play took: 0.025522
+[2020.06.30-11.23.14:714][560]LogOnline: OSS: Creating online subsystem instance for: :Context_70
+[2020.06.30-11.23.14:717][560]PIE: El servidor ha iniciado la sesión
+[2020.06.30-11.23.14:718][560]PIE: Play in editor total start time 0,189 seconds.
+[2020.06.30-11.23.24:000][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-11.23.24:000][143]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.06.30-11.23.24:001][143]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.30-11.23.24:007][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-11.23.24:021][143]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.30-11.23.24:024][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-11.23.24:038][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-11.23.24:059][143]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002CFDFBA1440), frame # 726143
+[2020.06.30-11.23.24:059][143]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002CFFC471800), frame # 726143
+[2020.06.30-11.23.24:064][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2020.06.30-11.23.24:114][144]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2020.06.30-11.24.00:044][395]LogActorFactory: Actor Factory created Barrier_block_1_Box002
+[2020.06.30-11.24.00:895][417]LogActorFactory: Actor Factory created Barrier_block_1_Box002
+[2020.06.30-11.24.46:749][700]Cmd: TRANSACTION UNDO
+[2020.06.30-11.24.46:749][700]LogEditorTransaction: Undo Scale Actors
+[2020.06.30-11.24.55:139][137]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.06.30-11.24.57:224][205]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Barrier_block_1_Box002)
+[2020.06.30-11.25.10:316][784]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.06.30-11.25.14:983][943]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Barrier_block_1_Box002)
+[2020.06.30-11.25.22:773][241]Cmd: DELETE
+[2020.06.30-11.25.22:773][241]Cmd: ACTOR DELETE
+[2020.06.30-11.25.22:802][241]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-11.25.22:816][241]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2020.06.30-11.25.22:829][241]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2020.06.30-11.25.23:383][268]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Barrier_Large_Cylinder7)
+[2020.06.30-11.25.50:231][387]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.06.30-11.25.53:654][528]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Barrier_Large_Cylinder7)
+[2020.06.30-11.26.11:672][146]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MapBlockout_Barrel__2_)
+[2020.06.30-11.26.12:730][187]Cmd: DELETE
+[2020.06.30-11.26.12:730][187]Cmd: ACTOR DELETE
+[2020.06.30-11.26.12:756][187]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-11.26.12:769][187]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.06.30-11.26.12:776][187]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2020.06.30-11.26.13:255][211]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Barrier_Large_Cylinder11)
+[2020.06.30-11.26.35:639][985]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MapBlockout_Barrel__3_)
+[2020.06.30-11.26.36:609][ 26]Cmd: DELETE
+[2020.06.30-11.26.36:609][ 26]Cmd: ACTOR DELETE
+[2020.06.30-11.26.36:634][ 26]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-11.26.36:648][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.06.30-11.26.36:653][ 26]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2020.06.30-11.26.38:059][105]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MapBlockout_Barrel__4_)
+[2020.06.30-11.26.38:309][112]LogMaterial: Display: Missing cached shader map for material M_ClearCoat, compiling. 
+[2020.06.30-11.26.38:322][112]LogMaterial: Display: Missing cached shader map for material M_ColorGrid, compiling. 
+[2020.06.30-11.26.38:335][112]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 31
+[2020.06.30-11.26.38:335][112]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 27
+[2020.06.30-11.26.38:335][112]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 23
+[2020.06.30-11.26.38:335][112]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2020.06.30-11.26.38:335][112]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 15
+[2020.06.30-11.26.38:335][112]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2020.06.30-11.26.38:336][112]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2020.06.30-11.26.38:336][112]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2020.06.30-11.26.38:336][112]LogMaterial: Display: Missing cached shader map for material M_ClearCoatBlack, compiling. 
+[2020.06.30-11.26.38:349][112]LogMaterial: Display: Missing cached shader map for material M_GreyBall, compiling. 
+[2020.06.30-11.26.39:291][112]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2020.06.30-11.26.39:446][113]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 93
+[2020.06.30-11.26.39:574][116]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 83
+[2020.06.30-11.26.39:718][120]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 73
+[2020.06.30-11.26.40:191][131]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 63
+[2020.06.30-11.26.40:319][134]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 55
+[2020.06.30-11.26.40:426][136]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 48
+[2020.06.30-11.26.40:547][139]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 41
+[2020.06.30-11.26.40:583][140]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 35
+[2020.06.30-11.26.41:112][150]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MapBlockout_Barrel__4_)
+[2020.06.30-11.26.42:060][172]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 30
+[2020.06.30-11.26.42:628][186]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2020.06.30-11.26.42:925][194]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2020.06.30-11.26.43:576][212]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2020.06.30-11.26.43:622][213]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 16
+[2020.06.30-11.26.43:636][213]Cmd: TRANSACTION UNDO
+[2020.06.30-11.26.43:636][213]LogEditorTransaction: Undo Pinchar en los actores
+[2020.06.30-11.26.43:663][213]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2020.06.30-11.26.43:735][214]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2020.06.30-11.26.43:827][215]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2020.06.30-11.26.44:316][225]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2020.06.30-11.26.44:373][226]Cmd: TRANSACTION UNDO
+[2020.06.30-11.26.44:373][226]LogEditorTransaction: Undo Pinchar en los actores (menú contextual)
+[2020.06.30-11.26.44:414][226]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2020.06.30-11.26.44:646][227]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2020.06.30-11.26.44:668][228]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2020.06.30-11.26.44:668][228]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2020.06.30-11.26.44:725][231]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.06.30-11.26.44:735][231]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2020.06.30-11.26.45:613][263]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MapBlockout_Barrel__4_)
+[2020.06.30-11.26.47:090][327]Cmd: DELETE
+[2020.06.30-11.26.47:090][327]Cmd: ACTOR DELETE
+[2020.06.30-11.26.47:115][327]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-11.26.47:128][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.06.30-11.26.47:133][327]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2020.06.30-11.26.52:523][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.06.30-11.26.52:562][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2020.06.30-11.26.52:931][485]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMapD54B10E048022CF4B1FF0DB314A0A2C8.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.06.30-11.26.52:969][485]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.422
+[2020.06.30-11.26.54:064][485]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMap_BuiltDataBD4CF7304A0154E1D4F33A81CF6894F2.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.06.30-11.26.54:093][485]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.30-11.26.54:093][485]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.06.30-11.26.54:093][485]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.06.30-11.27.24:723][945]LogActorFactory: Actor Factory created concrete_block_wall_without_proxy_concrete_block_pile_messy
+[2020.06.30-11.27.25:390][967]LogActorFactory: Actor Factory created concrete_block_wall_without_proxy_concrete_block_pile_messy
+[2020.06.30-11.27.44:728][554]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MapBlockout_Stairs_Closed_2x1x2__1_)
+[2020.06.30-11.27.46:442][621]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Map_Blockout/MapBlockout_Stairs_Closed_2x1x2__1_.MapBlockout_Stairs_Closed_2x1x2__1_
+[2020.06.30-11.27.46:591][621]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2020.06.30-11.27.46:591][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-11.27.51:633][828]LogSlate: Window 'MapBlockout_Stairs_Closed_2x1x2__1_' being destroyed
+[2020.06.30-11.27.51:682][828]LogSlate: Window 'MapBlockout_Stairs_Closed_2x1x2__1_' being destroyed
+[2020.06.30-11.27.51:698][828]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2020.06.30-11.27.51:698][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-11.27.55:641][947]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1_scene_mesh_4)
+[2020.06.30-11.27.56:922][975]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Synthetic/Towers/Old_antenna/1_scene_mesh_.1_scene_mesh_
+[2020.06.30-11.27.57:070][975]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2020.06.30-11.27.57:071][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-11.28.02:318][102]LogStaticMesh: Generando la malla estática 1_scene_mesh_...
+[2020.06.30-11.28.02:533][102]LogStaticMesh: Built static mesh [0.22s] /Game/Assets/Synthetic/Towers/Old_antenna/1_scene_mesh_.1_scene_mesh_
+[2020.06.30-11.28.04:584][148]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/1_scene_mesh_58B5D0664510A323D61A6D82D6E43901.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/Assets/Synthetic/Towers/Old_antenna/1_scene_mesh_.uasset'
+[2020.06.30-11.28.04:597][148]AssetCheck: New page: Asset Save: 1_scene_mesh_
+[2020.06.30-11.28.04:597][148]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Synthetic/Towers/Old_antenna/1_scene_mesh_.1_scene_mesh_
+[2020.06.30-11.28.05:783][180]LogSlate: Window '1_scene_mesh_' being destroyed
+[2020.06.30-11.28.05:864][180]LogSlate: Window '1_scene_mesh_' being destroyed
+[2020.06.30-11.28.05:880][180]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2020.06.30-11.28.05:880][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-11.28.19:862][322]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_pile_messy6)
+[2020.06.30-11.28.29:801][573]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.30-11.28.44:553][ 87]Cmd: ACTOR BAKEPREPIVOT
+[2020.06.30-11.29.42:559][504]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.30-11.29.42:578][504]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.30-11.29.42:578][504]PIE: New page: Sesión PIE (reproducción en el editor): FirstPersonExampleMap (30 jun. 2020 15:29:42)
+[2020.06.30-11.29.42:578][504]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.06.30-11.29.42:665][504]LogPlayLevel: PIE: StaticDuplicateObject took: (0.087690s)
+[2020.06.30-11.29.42:666][504]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.06.30-11.29.42:666][504]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002CFE869F000), frame # 740504
+[2020.06.30-11.29.42:666][504]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002D02B2A4900), frame # 740504
+[2020.06.30-11.29.42:667][504]LogPlayLevel: PIE: World Init took: (0.001433s)
+[2020.06.30-11.29.42:667][504]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.089357s)
+[2020.06.30-11.29.42:685][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.06.30-11.29.42:697][504]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.30-11.29.42:697][504]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.30-11.29.42:697][504]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.30-11.29.42:697][504]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.30-11.29.42:697][504]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.30-11.29.42:697][504]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.30-11.29.42:697][504]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.30-11.29.42:697][504]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.30-11.29.42:697][504]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.30-11.29.42:697][504]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.30-11.29.42:700][504]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.30-11.29.42:700][504]LogAudioMixer: Display: 1: FrontRight
+[2020.06.30-11.29.42:718][504]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.06.30-11.29.42:718][504]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.06.30-11.29.42:718][504]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.06.30-11.29.42:718][504]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.06.30-11.29.42:719][504]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.06.30-11.29.42:730][504]LogInit: FAudioDevice initialized.
+[2020.06.30-11.29.42:740][504]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.06.30-11.29.42:766][504]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.06.30-13.29.42
+[2020.06.30-11.29.42:766][504]LogWorld: Bringing up level for play took: 0.025631
+[2020.06.30-11.29.42:767][504]LogOnline: OSS: Creating online subsystem instance for: :Context_75
+[2020.06.30-11.29.42:770][504]PIE: El servidor ha iniciado la sesión
+[2020.06.30-11.29.42:770][504]PIE: Play in editor total start time 0,194 seconds.
+[2020.06.30-11.29.49:970][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-11.29.49:971][958]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.06.30-11.29.49:971][958]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.30-11.29.49:978][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-11.29.49:986][958]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.30-11.29.49:990][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-11.29.50:021][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-11.29.50:024][958]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002D02B2A4900), frame # 740958
+[2020.06.30-11.29.50:024][958]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002CFE869F000), frame # 740958
+[2020.06.30-11.29.50:028][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.06.30-11.29.50:068][959]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2020.06.30-11.29.51:068][ 29]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_pile_messy7)
+[2020.06.30-11.31.40:129][483]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Barrier_Large_Cylinder12)
+[2020.06.30-11.31.41:591][586]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.06.30-11.31.43:142][661]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.30-11.31.43:161][661]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.30-11.31.43:161][661]PIE: New page: Sesión PIE (reproducción en el editor): FirstPersonExampleMap (30 jun. 2020 15:31:43)
+[2020.06.30-11.31.43:161][661]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.06.30-11.31.43:248][661]LogPlayLevel: PIE: StaticDuplicateObject took: (0.087032s)
+[2020.06.30-11.31.43:249][661]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.06.30-11.31.43:249][661]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002D012CFB400), frame # 744661
+[2020.06.30-11.31.43:249][661]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002CFA2F6DD00), frame # 744661
+[2020.06.30-11.31.43:250][661]LogPlayLevel: PIE: World Init took: (0.001430s)
+[2020.06.30-11.31.43:250][661]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.088700s)
+[2020.06.30-11.31.43:262][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.06.30-11.31.43:273][661]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.30-11.31.43:273][661]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.30-11.31.43:273][661]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.30-11.31.43:273][661]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.30-11.31.43:273][661]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.30-11.31.43:273][661]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.30-11.31.43:273][661]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.30-11.31.43:273][661]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.30-11.31.43:274][661]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.30-11.31.43:274][661]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.30-11.31.43:276][661]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.30-11.31.43:276][661]LogAudioMixer: Display: 1: FrontRight
+[2020.06.30-11.31.43:294][661]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.06.30-11.31.43:295][661]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.06.30-11.31.43:295][661]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.06.30-11.31.43:295][661]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.06.30-11.31.43:295][661]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.06.30-11.31.43:307][661]LogInit: FAudioDevice initialized.
+[2020.06.30-11.31.43:317][661]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.06.30-11.31.43:343][661]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.06.30-13.31.43
+[2020.06.30-11.31.43:344][661]LogWorld: Bringing up level for play took: 0.025728
+[2020.06.30-11.31.43:344][661]LogOnline: OSS: Creating online subsystem instance for: :Context_76
+[2020.06.30-11.31.43:347][661]PIE: El servidor ha iniciado la sesión
+[2020.06.30-11.31.43:347][661]PIE: Play in editor total start time 0,186 seconds.
+[2020.06.30-11.31.55:441][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-11.31.55:441][273]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.06.30-11.31.55:442][273]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.30-11.31.55:448][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-11.31.55:458][273]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.30-11.31.55:462][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-11.31.55:493][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-11.31.55:496][273]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002CFA2F6DD00), frame # 745273
+[2020.06.30-11.31.55:496][273]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002D012CFB400), frame # 745273
+[2020.06.30-11.31.55:501][273]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.06.30-11.31.55:537][274]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2020.06.30-11.32.35:801][773]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MapBlockout_Floor_Floating_T1_3x_025x5)
+[2020.06.30-11.32.38:692][860]Cmd: DELETE
+[2020.06.30-11.32.38:692][860]Cmd: ACTOR DELETE
+[2020.06.30-11.32.38:718][860]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-11.32.38:734][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.06.30-11.32.38:737][860]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2020.06.30-11.32.41:962][997]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small_messy_12)
+[2020.06.30-11.33.22:567][526]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.06.30-11.33.24:824][596]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small_messy_18)
+[2020.06.30-11.33.29:592][730]Cmd: TRANSACTION UNDO
+[2020.06.30-11.33.29:592][730]LogEditorTransaction: Undo Move Actors
+[2020.06.30-11.33.38:718][  6]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.30-11.33.53:072][824]Cmd: TRANSACTION UNDO
+[2020.06.30-11.33.53:072][824]LogEditorTransaction: Undo Move Actors
+[2020.06.30-11.34.55:010][ 30]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.06.30-11.35.01:251][272]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_column_bar_small_24)
+[2020.06.30-11.35.53:408][367]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_column_bar_small_27)
+[2020.06.30-11.36.01:846][686]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_column_bar_small_28)
+[2020.06.30-11.36.05:108][817]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_column_bar_large_9)
+[2020.06.30-11.36.16:677][349]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.06.30-11.36.17:755][396]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.06.30-11.36.19:090][456]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_column_bar_small_28)
+[2020.06.30-11.36.43:846][640]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small199)
+[2020.06.30-11.36.46:755][814]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_column_bar_small_27)
+[2020.06.30-11.37.00:065][347]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small244)
+[2020.06.30-11.37.00:898][373]Cmd: TRANSACTION UNDO
+[2020.06.30-11.37.00:898][373]LogEditorTransaction: Undo Pinchar en los actores
+[2020.06.30-11.37.03:772][469]Cmd: MODE GRID=0
+[2020.06.30-11.37.05:026][513]Cmd: MODE ROTGRID=0
+[2020.06.30-11.37.33:689][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.06.30-11.37.34:088][ 30]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMap_Auto4ED6B695D45535FB0D8093D9866286361.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto4.umap'
+[2020.06.30-11.37.34:095][ 30]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.420
+[2020.06.30-11.37.34:095][ 30]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.420
+[2020.06.30-11.38.23:606][926]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.30-11.38.23:625][926]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.30-11.38.23:625][926]PIE: New page: Sesión PIE (reproducción en el editor): FirstPersonExampleMap (30 jun. 2020 15:38:23)
+[2020.06.30-11.38.23:625][926]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.06.30-11.38.23:716][926]LogPlayLevel: PIE: StaticDuplicateObject took: (0.090181s)
+[2020.06.30-11.38.23:717][926]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.06.30-11.38.23:717][926]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002CFB7915000), frame # 756926
+[2020.06.30-11.38.23:717][926]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002CFDE270E00), frame # 756926
+[2020.06.30-11.38.23:717][926]LogPlayLevel: PIE: World Init took: (0.001814s)
+[2020.06.30-11.38.23:718][926]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.092381s)
+[2020.06.30-11.38.23:731][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.06.30-11.38.23:736][926]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.30-11.38.23:736][926]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.30-11.38.23:736][926]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.30-11.38.23:736][926]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.30-11.38.23:736][926]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.30-11.38.23:736][926]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.30-11.38.23:736][926]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.30-11.38.23:736][926]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.30-11.38.23:736][926]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.30-11.38.23:736][926]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.30-11.38.23:739][926]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.30-11.38.23:739][926]LogAudioMixer: Display: 1: FrontRight
+[2020.06.30-11.38.23:757][926]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.06.30-11.38.23:758][926]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.06.30-11.38.23:758][926]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.06.30-11.38.23:758][926]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.06.30-11.38.23:758][926]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.06.30-11.38.23:769][926]LogInit: FAudioDevice initialized.
+[2020.06.30-11.38.23:784][926]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.06.30-11.38.23:809][926]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.06.30-13.38.23
+[2020.06.30-11.38.23:810][926]LogWorld: Bringing up level for play took: 0.026089
+[2020.06.30-11.38.23:810][926]LogOnline: OSS: Creating online subsystem instance for: :Context_77
+[2020.06.30-11.38.23:813][926]PIE: El servidor ha iniciado la sesión
+[2020.06.30-11.38.23:814][926]PIE: Play in editor total start time 0,19 seconds.
+[2020.06.30-11.38.34:091][500]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-11.38.34:091][500]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.06.30-11.38.34:092][500]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.30-11.38.34:098][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-11.38.34:132][500]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.30-11.38.34:136][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-11.38.34:154][500]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-11.38.34:172][500]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002CFDE270E00), frame # 757500
+[2020.06.30-11.38.34:172][500]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002CFB7915000), frame # 757500
+[2020.06.30-11.38.34:176][500]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.06.30-11.38.34:236][501]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2020.06.30-11.38.36:547][565]Cmd: TRANSACTION UNDO
+[2020.06.30-11.38.36:547][565]LogEditorTransaction: Undo Pinchar en los actores
+[2020.06.30-11.39.26:892][620]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small241)
+[2020.06.30-11.39.37:098][133]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_column_bar_small_34)
+[2020.06.30-11.39.52:455][913]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_column_bar_small_33)
+[2020.06.30-11.39.53:145][951]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_column_bar_small_35)
+[2020.06.30-11.40.23:904][  7]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MapBlockout_Stairs_Spiral_Open_T3)
+[2020.06.30-11.40.25:682][ 81]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MapBlockout_Stairs_Closed_2x1x2__1_)
+[2020.06.30-11.40.26:381][107]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_column_bar_small_35)
+[2020.06.30-11.40.36:552][559]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.06.30-11.40.37:302][603]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_column_bar_small_33)
+[2020.06.30-11.41.05:127][559]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.06.30-11.41.06:392][609]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.30-11.41.06:412][609]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.30-11.41.06:412][609]PIE: New page: Sesión PIE (reproducción en el editor): FirstPersonExampleMap (30 jun. 2020 15:41:06)
+[2020.06.30-11.41.06:412][609]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.06.30-11.41.06:501][609]LogPlayLevel: PIE: StaticDuplicateObject took: (0.088800s)
+[2020.06.30-11.41.06:502][609]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.06.30-11.41.06:502][609]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002D0AC159800), frame # 763609
+[2020.06.30-11.41.06:502][609]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002CFB14C6E80), frame # 763609
+[2020.06.30-11.41.06:502][609]LogPlayLevel: PIE: World Init took: (0.001442s)
+[2020.06.30-11.41.06:503][609]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.090488s)
+[2020.06.30-11.41.06:516][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2020.06.30-11.41.06:525][609]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.30-11.41.06:525][609]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.30-11.41.06:525][609]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.30-11.41.06:525][609]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.30-11.41.06:525][609]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.30-11.41.06:525][609]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.30-11.41.06:525][609]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.30-11.41.06:525][609]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.30-11.41.06:525][609]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.30-11.41.06:525][609]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.30-11.41.06:528][609]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.30-11.41.06:528][609]LogAudioMixer: Display: 1: FrontRight
+[2020.06.30-11.41.06:546][609]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.06.30-11.41.06:546][609]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.06.30-11.41.06:546][609]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.06.30-11.41.06:546][609]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.06.30-11.41.06:547][609]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.06.30-11.41.06:558][609]LogInit: FAudioDevice initialized.
+[2020.06.30-11.41.06:574][609]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.06.30-11.41.06:601][609]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.06.30-13.41.06
+[2020.06.30-11.41.06:602][609]LogWorld: Bringing up level for play took: 0.025826
+[2020.06.30-11.41.06:602][609]LogOnline: OSS: Creating online subsystem instance for: :Context_78
+[2020.06.30-11.41.06:605][609]PIE: El servidor ha iniciado la sesión
+[2020.06.30-11.41.06:606][609]PIE: Play in editor total start time 0,193 seconds.
+[2020.06.30-11.41.24:582][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-11.41.24:582][576]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.06.30-11.41.24:583][576]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.30-11.41.24:589][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-11.41.24:605][576]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.30-11.41.24:609][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-11.41.24:640][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-11.41.24:643][576]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002CFB14C6E80), frame # 764576
+[2020.06.30-11.41.24:643][576]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002D0AC159800), frame # 764576
+[2020.06.30-11.41.24:647][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2020.06.30-11.41.24:704][577]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2020.06.30-11.41.31:507][953]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_column_bar_small_30)
+[2020.06.30-11.42.04:567][294]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.06.30-11.42.05:825][328]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.30-11.42.05:845][328]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.30-11.42.05:845][328]PIE: New page: Sesión PIE (reproducción en el editor): FirstPersonExampleMap (30 jun. 2020 15:42:05)
+[2020.06.30-11.42.05:845][328]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.06.30-11.42.05:937][328]LogPlayLevel: PIE: StaticDuplicateObject took: (0.091390s)
+[2020.06.30-11.42.05:938][328]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.06.30-11.42.05:938][328]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002D0BF630A00), frame # 766328
+[2020.06.30-11.42.05:938][328]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002D0AC912AC0), frame # 766328
+[2020.06.30-11.42.05:938][328]LogPlayLevel: PIE: World Init took: (0.001329s)
+[2020.06.30-11.42.05:938][328]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.092965s)
+[2020.06.30-11.42.05:952][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.06.30-11.42.05:958][328]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.30-11.42.05:958][328]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.30-11.42.05:958][328]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.30-11.42.05:958][328]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.30-11.42.05:958][328]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.30-11.42.05:958][328]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.30-11.42.05:958][328]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.30-11.42.05:958][328]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.30-11.42.05:958][328]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.30-11.42.05:958][328]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.30-11.42.05:960][328]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.30-11.42.05:961][328]LogAudioMixer: Display: 1: FrontRight
+[2020.06.30-11.42.05:978][328]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.06.30-11.42.05:978][328]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.06.30-11.42.05:978][328]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.06.30-11.42.05:978][328]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.06.30-11.42.05:979][328]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.06.30-11.42.05:990][328]LogInit: FAudioDevice initialized.
+[2020.06.30-11.42.06:003][328]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.06.30-11.42.06:029][328]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.06.30-13.42.06
+[2020.06.30-11.42.06:029][328]LogWorld: Bringing up level for play took: 0.025681
+[2020.06.30-11.42.06:029][328]LogOnline: OSS: Creating online subsystem instance for: :Context_79
+[2020.06.30-11.42.06:032][328]PIE: El servidor ha iniciado la sesión
+[2020.06.30-11.42.06:033][328]PIE: Play in editor total start time 0,189 seconds.
+[2020.06.30-11.42.24:872][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-11.42.24:872][373]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.06.30-11.42.24:873][373]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.30-11.42.24:879][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-11.42.24:890][373]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.30-11.42.24:894][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-11.42.24:925][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-11.42.24:928][373]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002D0AC912AC0), frame # 767373
+[2020.06.30-11.42.24:928][373]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002D0BF630A00), frame # 767373
+[2020.06.30-11.42.24:933][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2020.06.30-11.42.24:989][374]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2020.06.30-11.42.31:471][650]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.06.30-11.42.34:325][805]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.06.30-11.42.34:846][833]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_column_bar_small_30)
+[2020.06.30-11.42.37:023][959]Cmd: TRANSACTION UNDO
+[2020.06.30-11.42.37:023][959]LogEditorTransaction: Undo Pinchar en los actores
+[2020.06.30-11.42.49:447][666]Cmd: TRANSACTION UNDO
+[2020.06.30-11.42.49:447][666]LogEditorTransaction: Undo Pinchar en los actores
+[2020.06.30-11.44.13:237][ 45]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MapBlockout_Floor_Floating_T2_1x_025x1)
+[2020.06.30-11.45.15:676][950]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.06.30-11.45.35:698][628]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small_messy_18)
+[2020.06.30-11.45.47:512][980]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_large_messy4)
+[2020.06.30-11.45.48:830][ 27]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small273)
+[2020.06.30-11.45.52:067][136]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small277)
+[2020.06.30-11.46.02:634][419]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MapBlockout_Floor_Floating_T2_1x_025x1)
+[2020.06.30-11.46.03:937][451]Cmd: DELETE
+[2020.06.30-11.46.03:937][451]Cmd: ACTOR DELETE
+[2020.06.30-11.46.03:962][451]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-11.46.03:978][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.06.30-11.46.03:993][451]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2020.06.30-11.46.04:642][471]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small298)
+[2020.06.30-11.46.28:086][727]Cmd: DELETE
+[2020.06.30-11.46.28:086][727]Cmd: ACTOR DELETE
+[2020.06.30-11.46.28:111][727]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-11.46.28:127][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2020.06.30-11.46.28:130][727]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2020.06.30-11.46.29:793][778]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small277)
+[2020.06.30-11.47.06:798][962]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.06.30-11.47.18:050][274]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small298)
+[2020.06.30-11.47.24:277][461]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.06.30-11.47.33:303][704]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small301)
+[2020.06.30-11.48.05:747][683]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small301)
+[2020.06.30-11.48.14:763][910]Cmd: MODE GRID=1
+[2020.06.30-11.48.16:795][967]Cmd: MODE ROTGRID=1
+[2020.06.30-11.48.30:990][375]Cmd: TRANSACTION UNDO
+[2020.06.30-11.48.30:990][375]LogEditorTransaction: Undo Rotate Actors
+[2020.06.30-11.48.31:380][380]Cmd: TRANSACTION UNDO
+[2020.06.30-11.48.31:380][380]LogEditorTransaction: Undo Rotate Actors
+[2020.06.30-11.49.45:225][656]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1_scene_mesh_4)
+[2020.06.30-11.49.46:477][695]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.06.30-11.49.51:563][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2020.06.30-11.49.51:616][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2020.06.30-11.49.52:011][825]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMap1EF60E944AC31817071405B32816D1EB.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.06.30-11.49.52:053][825]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.452
+[2020.06.30-11.49.53:330][825]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMap_BuiltDataC64DFFB74F8D73A5E926D0B6BD98F19C.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.06.30-11.49.53:366][825]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.30-11.49.53:366][825]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.06.30-11.49.53:366][825]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.06.30-11.50.26:441][127]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small_messy_18)
+[2020.06.30-11.50.49:546][833]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small_messy_20)
+[2020.06.30-11.50.50:793][867]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.06.30-11.50.56:092][991]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small_messy_19)
+[2020.06.30-11.51.28:026][  1]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.06.30-11.51.30:969][ 69]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.30-11.51.30:989][ 69]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.30-11.51.30:989][ 69]PIE: New page: Sesión PIE (reproducción en el editor): FirstPersonExampleMap (30 jun. 2020 15:51:30)
+[2020.06.30-11.51.30:989][ 69]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.06.30-11.51.31:080][ 69]LogPlayLevel: PIE: StaticDuplicateObject took: (0.090817s)
+[2020.06.30-11.51.31:081][ 69]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.06.30-11.51.31:081][ 69]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002D0BD1FEC00), frame # 783069
+[2020.06.30-11.51.31:081][ 69]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002D002D6C900), frame # 783069
+[2020.06.30-11.51.31:081][ 69]LogPlayLevel: PIE: World Init took: (0.001525s)
+[2020.06.30-11.51.31:082][ 69]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.092604s)
+[2020.06.30-11.51.31:096][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2020.06.30-11.51.31:106][ 69]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.30-11.51.31:106][ 69]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.30-11.51.31:106][ 69]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.30-11.51.31:106][ 69]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.30-11.51.31:106][ 69]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.30-11.51.31:106][ 69]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.30-11.51.31:106][ 69]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.30-11.51.31:106][ 69]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.30-11.51.31:106][ 69]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.30-11.51.31:106][ 69]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.30-11.51.31:109][ 69]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.30-11.51.31:109][ 69]LogAudioMixer: Display: 1: FrontRight
+[2020.06.30-11.51.31:128][ 69]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.06.30-11.51.31:128][ 69]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.06.30-11.51.31:128][ 69]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.06.30-11.51.31:128][ 69]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.06.30-11.51.31:128][ 69]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.06.30-11.51.31:140][ 69]LogInit: FAudioDevice initialized.
+[2020.06.30-11.51.31:151][ 69]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.06.30-11.51.31:177][ 69]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.06.30-13.51.31
+[2020.06.30-11.51.31:177][ 69]LogWorld: Bringing up level for play took: 0.026033
+[2020.06.30-11.51.31:178][ 69]LogOnline: OSS: Creating online subsystem instance for: :Context_80
+[2020.06.30-11.51.31:181][ 69]PIE: El servidor ha iniciado la sesión
+[2020.06.30-11.51.31:182][ 69]PIE: Play in editor total start time 0,193 seconds.
+[2020.06.30-11.51.50:231][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-11.51.50:231][973]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.06.30-11.51.50:232][973]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.30-11.51.50:239][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-11.51.50:270][973]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.30-11.51.50:274][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-11.51.50:304][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-11.51.50:307][973]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002D002D6C900), frame # 783973
+[2020.06.30-11.51.50:307][973]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002D0BD1FEC00), frame # 783973
+[2020.06.30-11.51.50:312][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.06.30-11.51.50:358][974]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2020.06.30-11.52.11:401][655]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.06.30-11.52.15:351][740]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MapBlockout_Stairs_Closed_2x1x2__1_)
+[2020.06.30-11.52.18:206][814]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MapBlockout_Box047)
+[2020.06.30-11.52.26:277][966]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small298)
+[2020.06.30-11.52.46:583][435]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MapBlockout_Floor_Floating_T2_1x_025x1__1_)
+[2020.06.30-11.52.48:002][470]Cmd: DELETE
+[2020.06.30-11.52.48:002][470]Cmd: ACTOR DELETE
+[2020.06.30-11.52.48:029][470]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-11.52.48:044][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.06.30-11.52.48:055][470]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2020.06.30-11.53.04:013][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.06.30-11.53.04:056][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2020.06.30-11.53.04:433][352]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMap4BDEFDBF47D6556519F6D4A55485C67C.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.06.30-11.53.04:472][352]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.433
+[2020.06.30-11.53.05:615][352]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMap_BuiltData87EDF94F40F2D880505442B52FFE216A.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.06.30-11.53.05:647][352]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.30-11.53.05:647][352]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.06.30-11.53.05:647][352]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.06.30-11.54.29:741][741]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_large_messy4)
+[2020.06.30-11.55.47:568][166]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.06.30-11.55.53:240][260]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_large_messy5)
+[2020.06.30-11.55.59:097][361]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.06.30-11.56.00:292][378]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small_messy_22)
+[2020.06.30-11.56.15:093][629]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.06.30-11.56.21:041][733]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small310)
+[2020.06.30-11.56.46:617][219]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small_messy_22)
+[2020.06.30-11.56.50:010][277]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_med_messy3)
+[2020.06.30-11.57.08:708][616]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.06.30-11.57.17:454][864]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.30-11.57.17:472][864]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.30-11.57.17:472][864]PIE: New page: Sesión PIE (reproducción en el editor): FirstPersonExampleMap (30 jun. 2020 15:57:17)
+[2020.06.30-11.57.17:472][864]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.06.30-11.57.17:563][864]LogPlayLevel: PIE: StaticDuplicateObject took: (0.090636s)
+[2020.06.30-11.57.17:563][864]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.06.30-11.57.17:564][864]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002CF80E92200), frame # 793864
+[2020.06.30-11.57.17:564][864]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002CFA2F6E200), frame # 793864
+[2020.06.30-11.57.17:564][864]LogPlayLevel: PIE: World Init took: (0.001376s)
+[2020.06.30-11.57.17:564][864]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.092254s)
+[2020.06.30-11.57.17:578][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.06.30-11.57.17:591][864]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.30-11.57.17:591][864]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.30-11.57.17:591][864]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.30-11.57.17:591][864]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.30-11.57.17:591][864]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.30-11.57.17:591][864]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.30-11.57.17:591][864]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.30-11.57.17:591][864]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.30-11.57.17:593][864]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.30-11.57.17:593][864]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.30-11.57.17:595][864]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.30-11.57.17:595][864]LogAudioMixer: Display: 1: FrontRight
+[2020.06.30-11.57.17:614][864]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.06.30-11.57.17:614][864]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.06.30-11.57.17:614][864]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.06.30-11.57.17:614][864]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.06.30-11.57.17:615][864]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.06.30-11.57.17:626][864]LogInit: FAudioDevice initialized.
+[2020.06.30-11.57.17:636][864]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.06.30-11.57.17:662][864]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.06.30-13.57.17
+[2020.06.30-11.57.17:663][864]LogWorld: Bringing up level for play took: 0.026609
+[2020.06.30-11.57.17:663][864]LogOnline: OSS: Creating online subsystem instance for: :Context_81
+[2020.06.30-11.57.17:666][864]PIE: El servidor ha iniciado la sesión
+[2020.06.30-11.57.17:667][864]PIE: Play in editor total start time 0,195 seconds.
+[2020.06.30-11.57.24:152][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-11.57.24:152][238]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.06.30-11.57.24:153][238]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.30-11.57.24:159][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-11.57.24:174][238]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.30-11.57.24:178][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-11.57.24:207][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-11.57.24:210][238]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002CFA2F6E200), frame # 794238
+[2020.06.30-11.57.24:210][238]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002CF80E92200), frame # 794238
+[2020.06.30-11.57.24:215][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.06.30-11.57.24:267][239]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2020.06.30-11.57.50:130][870]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_column_bar_large_12)
+[2020.06.30-11.57.56:740][  2]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small268)
+[2020.06.30-11.57.57:762][ 19]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MapBlockout_Stairs_Spiral_Open_T3)
+[2020.06.30-11.58.02:006][100]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_column_bar_small_40)
+[2020.06.30-11.58.08:466][216]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.06.30-11.58.12:449][305]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_column_bar_large_12)
+[2020.06.30-11.58.31:358][966]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.06.30-11.58.34:163][ 35]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MapBlockout_Rock_Walkable_Small_3)
+[2020.06.30-11.58.35:097][ 51]Cmd: DELETE
+[2020.06.30-11.58.35:097][ 51]Cmd: ACTOR DELETE
+[2020.06.30-11.58.35:124][ 51]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-11.58.35:138][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.06.30-11.58.35:144][ 51]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2020.06.30-11.58.41:486][187]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_column_bar_small_48)
+[2020.06.30-11.58.48:037][321]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.06.30-11.59.00:685][667]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.06.30-11.59.00:725][667]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2020.06.30-11.59.01:114][667]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMapDDF01D544DA0C7C30A62C19C0765E99E.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.06.30-11.59.01:153][667]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.442
+[2020.06.30-11.59.02:321][667]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMap_BuiltDataF0CEDF8A43E937BA5296E99689497BBF.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.06.30-11.59.02:351][667]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.30-11.59.02:351][667]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.06.30-11.59.02:351][667]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.06.30-11.59.07:727][787]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_large_messy3)
+[2020.06.30-11.59.12:641][956]Cmd: TRANSACTION UNDO
+[2020.06.30-11.59.12:641][956]LogEditorTransaction: Undo Move Actors
+[2020.06.30-11.59.14:536][996]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.06.30-11.59.27:547][287]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MapBlockout_Box045_1)
+[2020.06.30-11.59.33:033][481]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MapBlockout_Box046_1)
+[2020.06.30-11.59.35:009][535]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MapBlockout_Box047_1)
+[2020.06.30-11.59.44:751][853]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MapBlockout_Box038_1)
+[2020.06.30-11.59.48:968][962]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MapBlockout_Box044_1)
+[2020.06.30-11.59.58:419][169]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.30-12.00.11:771][502]Cmd: DELETE
+[2020.06.30-12.00.11:771][502]Cmd: ACTOR DELETE
+[2020.06.30-12.00.11:799][502]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.00.11:799][502]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.00.11:800][502]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.00.11:800][502]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.00.11:800][502]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.00.11:800][502]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.00.11:800][502]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.00.11:800][502]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.00.11:800][502]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.00.11:801][502]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.00.11:801][502]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.00.11:801][502]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.00.11:801][502]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.00.11:801][502]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.00.11:801][502]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.00.11:802][502]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.00.11:802][502]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.00.11:802][502]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.00.11:802][502]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.00.11:802][502]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.00.11:802][502]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.00.11:803][502]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.00.11:803][502]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.00.11:803][502]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.00.11:803][502]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.00.11:803][502]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.00.11:803][502]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.00.11:803][502]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.00.11:804][502]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.00.11:804][502]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.00.11:804][502]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.00.11:804][502]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.00.11:804][502]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.00.11:804][502]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.00.11:819][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.06.30-12.00.11:832][502]LogEditorActor: Deleted 34 Actors (0.061 secs)
+[2020.06.30-12.00.15:966][603]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1_scene_mesh_4)
+[2020.06.30-12.00.21:759][860]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MapBlockout_Object007_1)
+[2020.06.30-12.00.34:899][239]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1_scene_mesh_4)
+[2020.06.30-12.00.35:492][253]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MapBlockout_Object007_1)
+[2020.06.30-12.00.37:267][313]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.30-12.00.41:337][432]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MapBlockout_bjbb_12_1)
+[2020.06.30-12.00.42:158][453]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MapBlockout_bjbb_12_1)
+[2020.06.30-12.00.42:444][458]Cmd: DELETE
+[2020.06.30-12.00.42:444][458]Cmd: ACTOR DELETE
+[2020.06.30-12.00.42:473][458]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.00.42:487][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.06.30-12.00.42:498][458]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2020.06.30-12.00.43:772][510]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MapBlockout_Object005_1)
+[2020.06.30-12.00.44:377][525]Cmd: DELETE
+[2020.06.30-12.00.44:377][525]Cmd: ACTOR DELETE
+[2020.06.30-12.00.44:404][525]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.00.44:419][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2020.06.30-12.00.44:421][525]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2020.06.30-12.00.44:894][543]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MapBlockout_gdfdfg_2_1)
+[2020.06.30-12.00.45:562][560]Cmd: DELETE
+[2020.06.30-12.00.45:562][560]Cmd: ACTOR DELETE
+[2020.06.30-12.00.45:587][560]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.00.45:601][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2020.06.30-12.00.45:603][560]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2020.06.30-12.00.46:603][600]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.06.30-12.00.49:334][682]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.06.30-12.00.50:084][701]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.06.30-12.00.54:255][828]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MapBlockout_Object006_1)
+[2020.06.30-12.00.54:949][845]Cmd: DELETE
+[2020.06.30-12.00.54:949][845]Cmd: ACTOR DELETE
+[2020.06.30-12.00.54:975][845]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.00.54:989][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2020.06.30-12.00.54:992][845]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2020.06.30-12.00.55:659][871]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MapBlockout_Object015_1)
+[2020.06.30-12.00.56:297][887]Cmd: DELETE
+[2020.06.30-12.00.56:297][887]Cmd: ACTOR DELETE
+[2020.06.30-12.00.56:322][887]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.00.56:336][887]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.06.30-12.00.56:337][887]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2020.06.30-12.00.56:751][903]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MapBlockout_bjbb_11_1)
+[2020.06.30-12.00.57:268][912]Cmd: DELETE
+[2020.06.30-12.00.57:269][912]Cmd: ACTOR DELETE
+[2020.06.30-12.00.57:294][912]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.00.57:307][912]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2020.06.30-12.00.57:315][912]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2020.06.30-12.00.57:765][929]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MapBlockout_Object007_1)
+[2020.06.30-12.00.57:948][930]Cmd: DELETE
+[2020.06.30-12.00.57:948][930]Cmd: ACTOR DELETE
+[2020.06.30-12.00.57:972][930]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.00.57:983][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2020.06.30-12.00.57:985][930]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2020.06.30-12.00.59:116][971]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MapBlockout_Object010_1)
+[2020.06.30-12.00.59:307][972]Cmd: DELETE
+[2020.06.30-12.00.59:307][972]Cmd: ACTOR DELETE
+[2020.06.30-12.00.59:330][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.00.59:343][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2020.06.30-12.00.59:345][972]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2020.06.30-12.01.00:402][ 14]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MapBlockout_Object004_1)
+[2020.06.30-12.01.00:594][ 15]Cmd: DELETE
+[2020.06.30-12.01.00:594][ 15]Cmd: ACTOR DELETE
+[2020.06.30-12.01.00:618][ 15]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.01.00:630][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2020.06.30-12.01.00:632][ 15]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2020.06.30-12.01.01:460][ 44]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MapBlockout_Object001_1)
+[2020.06.30-12.01.01:645][ 45]Cmd: DELETE
+[2020.06.30-12.01.01:645][ 45]Cmd: ACTOR DELETE
+[2020.06.30-12.01.01:669][ 45]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.01.01:680][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2020.06.30-12.01.01:682][ 45]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2020.06.30-12.01.02:393][ 73]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MapBlockout_Object002_1)
+[2020.06.30-12.01.02:578][ 74]Cmd: DELETE
+[2020.06.30-12.01.02:578][ 74]Cmd: ACTOR DELETE
+[2020.06.30-12.01.02:601][ 74]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.01.02:614][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2020.06.30-12.01.02:615][ 74]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2020.06.30-12.01.03:252][ 99]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MapBlockout_Object014_1)
+[2020.06.30-12.01.03:439][100]Cmd: DELETE
+[2020.06.30-12.01.03:439][100]Cmd: ACTOR DELETE
+[2020.06.30-12.01.03:463][100]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.01.03:477][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2020.06.30-12.01.03:478][100]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2020.06.30-12.01.04:799][149]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MapBlockout_Object003_1)
+[2020.06.30-12.01.05:117][155]Cmd: DELETE
+[2020.06.30-12.01.05:117][155]Cmd: ACTOR DELETE
+[2020.06.30-12.01.05:143][155]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.01.05:157][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2020.06.30-12.01.05:158][155]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2020.06.30-12.01.06:879][224]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MapBlockout_Object013_1)
+[2020.06.30-12.01.07:165][229]Cmd: DELETE
+[2020.06.30-12.01.07:165][229]Cmd: ACTOR DELETE
+[2020.06.30-12.01.07:191][229]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.01.07:206][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2020.06.30-12.01.07:207][229]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2020.06.30-12.01.12:281][429]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MapBlockout_Object011_1)
+[2020.06.30-12.01.13:372][462]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.30-12.01.18:828][658]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.30-12.01.20:791][737]Cmd: DELETE
+[2020.06.30-12.01.20:791][737]Cmd: ACTOR DELETE
+[2020.06.30-12.01.20:816][737]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.01.20:828][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2020.06.30-12.01.20:832][737]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2020.06.30-12.01.21:716][787]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MapBlockout_Object012_1)
+[2020.06.30-12.01.22:103][801]Cmd: DELETE
+[2020.06.30-12.01.22:104][801]Cmd: ACTOR DELETE
+[2020.06.30-12.01.22:129][801]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.01.22:141][801]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2020.06.30-12.01.22:143][801]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2020.06.30-12.01.26:054][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.06.30-12.01.26:091][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.06.30-12.01.26:461][897]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMap3F3916DC4D99A948792CEEB49A9BF2A2.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.06.30-12.01.26:501][897]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.426
+[2020.06.30-12.01.27:676][897]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMap_BuiltDataC196A59345662309C27691A58DE87198.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.06.30-12.01.27:710][897]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.30-12.01.27:711][897]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.06.30-12.01.27:711][897]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.06.30-12.02.04:678][132]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.30-12.02.04:696][132]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.30-12.02.04:696][132]PIE: New page: Sesión PIE (reproducción en el editor): FirstPersonExampleMap (30 jun. 2020 16:02:04)
+[2020.06.30-12.02.04:696][132]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.06.30-12.02.04:788][132]LogPlayLevel: PIE: StaticDuplicateObject took: (0.091394s)
+[2020.06.30-12.02.04:789][132]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.06.30-12.02.04:789][132]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002D01310FA00), frame # 801132
+[2020.06.30-12.02.04:789][132]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002D09E1902C0), frame # 801132
+[2020.06.30-12.02.04:789][132]LogPlayLevel: PIE: World Init took: (0.001575s)
+[2020.06.30-12.02.04:789][132]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.093223s)
+[2020.06.30-12.02.04:803][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.06.30-12.02.04:806][132]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.30-12.02.04:806][132]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.30-12.02.04:806][132]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.30-12.02.04:806][132]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.30-12.02.04:806][132]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.30-12.02.04:806][132]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.30-12.02.04:806][132]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.30-12.02.04:806][132]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.30-12.02.04:806][132]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.30-12.02.04:806][132]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.30-12.02.04:809][132]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.30-12.02.04:809][132]LogAudioMixer: Display: 1: FrontRight
+[2020.06.30-12.02.04:827][132]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.06.30-12.02.04:827][132]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.06.30-12.02.04:827][132]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.06.30-12.02.04:827][132]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.06.30-12.02.04:828][132]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.06.30-12.02.04:839][132]LogInit: FAudioDevice initialized.
+[2020.06.30-12.02.04:857][132]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.06.30-12.02.04:882][132]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.06.30-14.02.04
+[2020.06.30-12.02.04:883][132]LogWorld: Bringing up level for play took: 0.026122
+[2020.06.30-12.02.04:883][132]LogOnline: OSS: Creating online subsystem instance for: :Context_82
+[2020.06.30-12.02.04:886][132]PIE: El servidor ha iniciado la sesión
+[2020.06.30-12.02.04:887][132]PIE: Play in editor total start time 0,192 seconds.
+[2020.06.30-12.02.30:952][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-12.02.30:952][285]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.06.30-12.02.30:954][285]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.30-12.02.30:960][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-12.02.30:983][285]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.30-12.02.30:987][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-12.02.30:999][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-12.02.31:019][285]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002D09E1902C0), frame # 802285
+[2020.06.30-12.02.31:019][285]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002D01310FA00), frame # 802285
+[2020.06.30-12.02.31:024][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.06.30-12.02.31:077][286]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2020.06.30-12.02.39:992][528]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small301)
+[2020.06.30-12.02.54:020][900]Cmd: TRANSACTION UNDO
+[2020.06.30-12.02.54:021][900]LogEditorTransaction: Undo Move Actors
+[2020.06.30-12.02.54:711][912]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small301)
+[2020.06.30-12.03.03:899][172]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small298)
+[2020.06.30-12.03.19:710][671]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.06.30-12.03.23:511][759]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small_messy_21)
+[2020.06.30-12.03.27:684][914]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small313)
+[2020.06.30-12.03.29:379][979]Cmd: DELETE
+[2020.06.30-12.03.29:379][979]Cmd: ACTOR DELETE
+[2020.06.30-12.03.29:405][979]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.03.29:418][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.06.30-12.03.29:424][979]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2020.06.30-12.03.30:072][ 12]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.06.30-12.03.30:675][ 34]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small_messy_21)
+[2020.06.30-12.03.33:868][157]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.06.30-12.03.39:715][378]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small_messy_21)
+[2020.06.30-12.03.46:769][681]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.06.30-12.03.47:671][719]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small_messy_21)
+[2020.06.30-12.03.50:285][848]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.06.30-12.03.56:068][ 44]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small301)
+[2020.06.30-12.03.58:668][125]Cmd: DELETE
+[2020.06.30-12.03.58:668][125]Cmd: ACTOR DELETE
+[2020.06.30-12.03.58:693][125]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.03.58:706][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2020.06.30-12.03.58:716][125]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2020.06.30-12.03.59:243][146]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small_messy_20)
+[2020.06.30-12.04.02:225][237]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.06.30-12.04.06:471][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.06.30-12.04.06:505][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2020.06.30-12.04.06:884][443]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMap592550CE44E4ACB3FC45D28A9F2ADB98.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.06.30-12.04.06:921][443]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.430
+[2020.06.30-12.04.08:076][443]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMap_BuiltData50ED127D4C08B46C92721D8F34E91188.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.06.30-12.04.08:105][443]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.30-12.04.08:105][443]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.06.30-12.04.08:105][443]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.06.30-12.04.23:897][820]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small307)
+[2020.06.30-12.04.50:496][380]Cmd: TRANSACTION UNDO
+[2020.06.30-12.04.50:496][380]LogEditorTransaction: Undo Scale Actors
+[2020.06.30-12.04.51:949][414]Cmd: TRANSACTION UNDO
+[2020.06.30-12.04.51:949][414]LogEditorTransaction: Undo Scale Actors
+[2020.06.30-12.05.10:134][905]Cmd: TRANSACTION UNDO
+[2020.06.30-12.05.10:134][905]LogEditorTransaction: Undo Scale Actors
+[2020.06.30-12.05.19:141][152]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_large_messy4)
+[2020.06.30-12.05.21:932][214]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.06.30-12.05.32:353][452]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small_messy_20)
+[2020.06.30-12.05.44:852][713]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small278)
+[2020.06.30-12.05.49:829][814]Cmd: TRANSACTION UNDO
+[2020.06.30-12.05.49:830][814]LogEditorTransaction: Undo Pinchar en los actores
+[2020.06.30-12.05.52:431][868]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.06.30-12.05.53:033][877]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.06.30-12.06.02:242][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.06.30-12.06.02:287][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2020.06.30-12.06.02:654][ 77]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMapF65208C846156CBF702AECB6EC63D4A7.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.06.30-12.06.02:692][ 77]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.420
+[2020.06.30-12.06.03:790][ 77]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMap_BuiltData3817F6D24AD95BFD41ABD19D1980D0DF.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.06.30-12.06.03:826][ 77]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.30-12.06.03:826][ 77]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.06.30-12.06.03:826][ 77]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.06.30-12.06.10:866][210]LogActorFactory: Actor Factory created 0_defaultMaterial
+[2020.06.30-12.06.10:868][210]LogActorFactory: Actor Factory created 1_defaultMaterial
+[2020.06.30-12.06.10:869][210]LogActorFactory: Actor Factory created 2_defaultMaterial
+[2020.06.30-12.06.10:870][210]LogActorFactory: Actor Factory created 3_defaultMaterial
+[2020.06.30-12.06.10:871][210]LogActorFactory: Actor Factory created 4_defaultMaterial
+[2020.06.30-12.06.10:872][210]LogActorFactory: Actor Factory created 5_defaultMaterial
+[2020.06.30-12.06.10:873][210]LogActorFactory: Actor Factory created 6_defaultMaterial
+[2020.06.30-12.06.10:874][210]LogActorFactory: Actor Factory created 7_defaultMaterial
+[2020.06.30-12.06.10:875][210]LogActorFactory: Actor Factory created 8_defaultMaterial
+[2020.06.30-12.06.11:795][226]LogActorFactory: Actor Factory created 0_defaultMaterial
+[2020.06.30-12.06.11:808][226]LogActorFactory: Actor Factory created 1_defaultMaterial
+[2020.06.30-12.06.11:820][226]LogActorFactory: Actor Factory created 2_defaultMaterial
+[2020.06.30-12.06.11:832][226]LogActorFactory: Actor Factory created 3_defaultMaterial
+[2020.06.30-12.06.11:844][226]LogActorFactory: Actor Factory created 4_defaultMaterial
+[2020.06.30-12.06.11:856][226]LogActorFactory: Actor Factory created 5_defaultMaterial
+[2020.06.30-12.06.11:868][226]LogActorFactory: Actor Factory created 6_defaultMaterial
+[2020.06.30-12.06.11:880][226]LogActorFactory: Actor Factory created 7_defaultMaterial
+[2020.06.30-12.06.11:893][226]LogActorFactory: Actor Factory created 8_defaultMaterial
+[2020.06.30-12.07.29:634][247]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.30-12.07.29:655][247]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.30-12.07.29:655][247]PIE: New page: Sesión PIE (reproducción en el editor): FirstPersonExampleMap (30 jun. 2020 16:07:29)
+[2020.06.30-12.07.29:656][247]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.06.30-12.07.29:746][247]LogPlayLevel: PIE: StaticDuplicateObject took: (0.090220s)
+[2020.06.30-12.07.29:747][247]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.06.30-12.07.29:747][247]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002CFE4B13800), frame # 810247
+[2020.06.30-12.07.29:747][247]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002CF33098540), frame # 810247
+[2020.06.30-12.07.29:747][247]LogPlayLevel: PIE: World Init took: (0.001547s)
+[2020.06.30-12.07.29:748][247]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.092011s)
+[2020.06.30-12.07.29:762][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.06.30-12.07.29:769][247]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.30-12.07.29:769][247]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.30-12.07.29:769][247]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.30-12.07.29:769][247]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.30-12.07.29:769][247]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.30-12.07.29:769][247]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.30-12.07.29:769][247]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.30-12.07.29:769][247]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.30-12.07.29:770][247]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.30-12.07.29:770][247]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.30-12.07.29:772][247]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.30-12.07.29:772][247]LogAudioMixer: Display: 1: FrontRight
+[2020.06.30-12.07.29:791][247]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.06.30-12.07.29:791][247]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.06.30-12.07.29:791][247]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.06.30-12.07.29:791][247]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.06.30-12.07.29:792][247]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.06.30-12.07.29:792][247]LogInit: FAudioDevice initialized.
+[2020.06.30-12.07.29:814][247]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.06.30-12.07.29:840][247]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.06.30-14.07.29
+[2020.06.30-12.07.29:841][247]LogWorld: Bringing up level for play took: 0.026231
+[2020.06.30-12.07.29:841][247]LogOnline: OSS: Creating online subsystem instance for: :Context_83
+[2020.06.30-12.07.29:844][247]PIE: El servidor ha iniciado la sesión
+[2020.06.30-12.07.29:845][247]PIE: Play in editor total start time 0,19 seconds.
+[2020.06.30-12.07.44:473][959]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-12.07.44:473][959]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.06.30-12.07.44:474][959]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.30-12.07.44:480][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-12.07.44:496][959]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.30-12.07.44:500][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-12.07.44:530][959]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-12.07.44:533][959]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002CF33098540), frame # 810959
+[2020.06.30-12.07.44:533][959]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002CFE4B13800), frame # 810959
+[2020.06.30-12.07.44:538][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.06.30-12.07.44:589][960]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2020.06.30-12.07.46:254][ 12]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1_defaultMaterial3)
+[2020.06.30-12.07.55:508][260]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1_scene_mesh_4)
+[2020.06.30-12.07.56:858][293]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (3_defaultMaterial3)
+[2020.06.30-12.07.58:618][333]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Synthetic/Stairs/Ladder/3_defaultMaterial.3_defaultMaterial
+[2020.06.30-12.07.58:774][333]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2020.06.30-12.07.58:774][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-12.08.14:070][707]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/3_defaultMaterialB802BEC64D25C41D159B5385F6E61449.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/Assets/Synthetic/Stairs/Ladder/3_defaultMaterial.uasset'
+[2020.06.30-12.08.14:095][707]AssetCheck: New page: Asset Save: 3_defaultMaterial
+[2020.06.30-12.08.14:097][707]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Synthetic/Stairs/Ladder/3_defaultMaterial.3_defaultMaterial
+[2020.06.30-12.08.15:290][739]LogSlate: Window '3_defaultMaterial' being destroyed
+[2020.06.30-12.08.15:371][739]LogSlate: Window '3_defaultMaterial' being destroyed
+[2020.06.30-12.08.15:388][739]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2020.06.30-12.08.15:388][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-12.08.16:674][772]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.30-12.08.16:691][772]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.30-12.08.16:691][772]PIE: New page: Sesión PIE (reproducción en el editor): FirstPersonExampleMap (30 jun. 2020 16:08:16)
+[2020.06.30-12.08.16:692][772]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.06.30-12.08.16:780][772]LogPlayLevel: PIE: StaticDuplicateObject took: (0.088476s)
+[2020.06.30-12.08.16:781][772]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.06.30-12.08.16:781][772]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002D0022B1800), frame # 811772
+[2020.06.30-12.08.16:781][772]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002D01EC32D40), frame # 811772
+[2020.06.30-12.08.16:782][772]LogPlayLevel: PIE: World Init took: (0.001495s)
+[2020.06.30-12.08.16:782][772]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.090285s)
+[2020.06.30-12.08.16:804][772]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.06.30-12.08.16:811][772]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.30-12.08.16:811][772]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.30-12.08.16:811][772]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.30-12.08.16:812][772]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.30-12.08.16:812][772]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.30-12.08.16:812][772]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.30-12.08.16:812][772]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.30-12.08.16:812][772]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.30-12.08.16:812][772]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.30-12.08.16:812][772]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.30-12.08.16:814][772]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.30-12.08.16:815][772]LogAudioMixer: Display: 1: FrontRight
+[2020.06.30-12.08.16:831][772]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.06.30-12.08.16:831][772]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.06.30-12.08.16:832][772]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.06.30-12.08.16:832][772]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.06.30-12.08.16:832][772]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.06.30-12.08.16:844][772]LogInit: FAudioDevice initialized.
+[2020.06.30-12.08.16:851][772]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.06.30-12.08.16:877][772]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.06.30-14.08.16
+[2020.06.30-12.08.16:877][772]LogWorld: Bringing up level for play took: 0.025813
+[2020.06.30-12.08.16:877][772]LogOnline: OSS: Creating online subsystem instance for: :Context_86
+[2020.06.30-12.08.16:880][772]PIE: El servidor ha iniciado la sesión
+[2020.06.30-12.08.16:881][772]PIE: Play in editor total start time 0,19 seconds.
+[2020.06.30-12.08.30:412][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-12.08.30:412][394]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.06.30-12.08.30:413][394]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.30-12.08.30:419][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-12.08.30:433][394]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.30-12.08.30:437][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-12.08.30:469][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-12.08.30:471][394]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002D01EC32D40), frame # 812394
+[2020.06.30-12.08.30:471][394]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002D0022B1800), frame # 812394
+[2020.06.30-12.08.30:476][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2020.06.30-12.08.30:523][395]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2020.06.30-12.08.32:445][455]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (6_defaultMaterial3)
+[2020.06.30-12.08.35:028][518]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Synthetic/Stairs/Ladder/6_defaultMaterial.6_defaultMaterial
+[2020.06.30-12.08.35:182][518]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2020.06.30-12.08.35:182][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-12.08.43:806][717]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/6_defaultMaterial93F071EB4ABD9D07395D5E90E11707EA.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/Assets/Synthetic/Stairs/Ladder/6_defaultMaterial.uasset'
+[2020.06.30-12.08.43:818][717]AssetCheck: New page: Asset Save: 6_defaultMaterial
+[2020.06.30-12.08.43:819][717]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Synthetic/Stairs/Ladder/6_defaultMaterial.6_defaultMaterial
+[2020.06.30-12.08.45:842][769]LogSlate: Window '6_defaultMaterial' being destroyed
+[2020.06.30-12.08.45:923][769]LogSlate: Window '6_defaultMaterial' being destroyed
+[2020.06.30-12.08.45:940][769]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2020.06.30-12.08.45:940][769]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-12.08.47:161][800]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.30-12.08.47:178][800]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.30-12.08.47:178][800]PIE: New page: Sesión PIE (reproducción en el editor): FirstPersonExampleMap (30 jun. 2020 16:08:47)
+[2020.06.30-12.08.47:178][800]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.06.30-12.08.47:271][800]LogPlayLevel: PIE: StaticDuplicateObject took: (0.091512s)
+[2020.06.30-12.08.47:272][800]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.06.30-12.08.47:272][800]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002CFFB278600), frame # 812800
+[2020.06.30-12.08.47:272][800]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002CFD57B4F40), frame # 812800
+[2020.06.30-12.08.47:272][800]LogPlayLevel: PIE: World Init took: (0.001253s)
+[2020.06.30-12.08.47:272][800]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.093005s)
+[2020.06.30-12.08.47:293][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2020.06.30-12.08.47:299][800]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.30-12.08.47:299][800]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.30-12.08.47:299][800]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.30-12.08.47:299][800]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.30-12.08.47:299][800]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.30-12.08.47:299][800]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.30-12.08.47:299][800]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.30-12.08.47:299][800]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.30-12.08.47:300][800]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.30-12.08.47:300][800]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.30-12.08.47:302][800]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.30-12.08.47:302][800]LogAudioMixer: Display: 1: FrontRight
+[2020.06.30-12.08.47:319][800]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.06.30-12.08.47:319][800]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.06.30-12.08.47:319][800]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.06.30-12.08.47:319][800]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.06.30-12.08.47:320][800]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.06.30-12.08.47:331][800]LogInit: FAudioDevice initialized.
+[2020.06.30-12.08.47:345][800]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.06.30-12.08.47:371][800]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.06.30-14.08.47
+[2020.06.30-12.08.47:371][800]LogWorld: Bringing up level for play took: 0.026228
+[2020.06.30-12.08.47:371][800]LogOnline: OSS: Creating online subsystem instance for: :Context_89
+[2020.06.30-12.08.47:375][800]PIE: El servidor ha iniciado la sesión
+[2020.06.30-12.08.47:376][800]PIE: Play in editor total start time 0,198 seconds.
+[2020.06.30-12.09.16:352][102]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-12.09.16:352][102]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.06.30-12.09.16:354][102]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.30-12.09.16:360][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-12.09.16:374][102]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.30-12.09.16:378][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-12.09.16:409][102]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-12.09.16:417][102]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002CFD57B4F40), frame # 814102
+[2020.06.30-12.09.16:420][102]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002CFFB278600), frame # 814102
+[2020.06.30-12.09.16:421][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2020.06.30-12.09.16:474][103]LogPlayLevel: Display: Destroying online subsystem :Context_89
+[2020.06.30-12.09.26:612][335]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small300)
+[2020.06.30-12.09.35:083][528]LogHttp: Warning: 000002D0EB689600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEBC7C404-4F54-05A4-F185-E79B93013A62%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.1-13594126%2B%2B%2BUE4%2BRelease-4.25&UserID=0a907e2f45ec9e03f1a74b94ad3bc67e%7Ca920e386abb24d8eb1f7f784edfe3865%7C7185cecd-c07d-42c1-91ef-1944531811aa&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.06.30-12.09.35:083][528]LogHttp: Warning: 000002D0EB689600: request failed, libcurl error: 0 (No error)
+[2020.06.30-12.09.35:083][528]LogHttp: Warning: 000002D0EB689600: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2cf5b89ff70 [can pipeline])
+[2020.06.30-12.09.35:083][528]LogHttp: Warning: 000002D0EB689600: libcurl info message cache 1 (Re-using existing connection! (#95) with host datarouter.ol.epicgames.com)
+[2020.06.30-12.09.35:083][528]LogHttp: Warning: 000002D0EB689600: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.200.105.217) port 443 (#95))
+[2020.06.30-12.09.35:083][528]LogHttp: Warning: 000002D0EB689600: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.06.30-12.09.35:083][528]LogHttp: Warning: 000002D0EB689600: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2020.06.30-12.09.35:083][528]LogHttp: Warning: 000002D0EB689600: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.06.30-12.09.35:083][528]LogHttp: Warning: 000002D0EB689600: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.06.30-12.09.35:083][528]LogHttp: Warning: 000002D0EB689600: libcurl info message cache 7 (Closing connection 95)
+[2020.06.30-12.09.35:083][528]LogHttp: Warning: 000002D0EB689600: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.06.30-12.09.35:083][528]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEBC7C404-4F54-05A4-F185-E79B93013A62%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.1-13594126%2B%2B%2BUE4%2BRelease-4.25&UserID=0a907e2f45ec9e03f1a74b94ad3bc67e%7Ca920e386abb24d8eb1f7f784edfe3865%7C7185cecd-c07d-42c1-91ef-1944531811aa&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2020.06.30-12.09.38:743][618]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.30-12.09.38:762][618]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.30-12.09.38:762][618]PIE: New page: Sesión PIE (reproducción en el editor): FirstPersonExampleMap (30 jun. 2020 16:09:38)
+[2020.06.30-12.09.38:762][618]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.06.30-12.09.38:854][618]LogPlayLevel: PIE: StaticDuplicateObject took: (0.091191s)
+[2020.06.30-12.09.38:854][618]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.06.30-12.09.38:855][618]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002D098C3B400), frame # 814618
+[2020.06.30-12.09.38:855][618]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002D01ED7B380), frame # 814618
+[2020.06.30-12.09.38:855][618]LogPlayLevel: PIE: World Init took: (0.001385s)
+[2020.06.30-12.09.38:855][618]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.092849s)
+[2020.06.30-12.09.38:870][618]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2020.06.30-12.09.38:876][618]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.30-12.09.38:876][618]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.30-12.09.38:876][618]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.30-12.09.38:876][618]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.30-12.09.38:876][618]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.30-12.09.38:876][618]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.30-12.09.38:876][618]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.30-12.09.38:876][618]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.30-12.09.38:877][618]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.30-12.09.38:877][618]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.30-12.09.38:879][618]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.30-12.09.38:879][618]LogAudioMixer: Display: 1: FrontRight
+[2020.06.30-12.09.38:896][618]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.06.30-12.09.38:896][618]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.06.30-12.09.38:896][618]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.06.30-12.09.38:896][618]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.06.30-12.09.38:897][618]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.06.30-12.09.38:908][618]LogInit: FAudioDevice initialized.
+[2020.06.30-12.09.38:923][618]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.06.30-12.09.38:949][618]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.06.30-14.09.38
+[2020.06.30-12.09.38:950][618]LogWorld: Bringing up level for play took: 0.026321
+[2020.06.30-12.09.38:950][618]LogOnline: OSS: Creating online subsystem instance for: :Context_90
+[2020.06.30-12.09.38:953][618]PIE: El servidor ha iniciado la sesión
+[2020.06.30-12.09.38:954][618]PIE: Play in editor total start time 0,192 seconds.
+[2020.06.30-12.09.44:392][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-12.09.44:392][831]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.06.30-12.09.44:393][831]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.30-12.09.44:399][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-12.09.44:409][831]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.30-12.09.44:413][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-12.09.44:429][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-12.09.44:446][831]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002D01ED7B380), frame # 814831
+[2020.06.30-12.09.44:446][831]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002D098C3B400), frame # 814831
+[2020.06.30-12.09.44:450][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2020.06.30-12.09.44:502][832]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2020.06.30-12.09.49:116][977]Cmd: TRANSACTION UNDO
+[2020.06.30-12.09.49:116][977]LogEditorTransaction: Undo Move Actors
+[2020.06.30-12.10.22:325][625]Cmd: TRANSACTION UNDO
+[2020.06.30-12.10.22:325][625]LogEditorTransaction: Undo Scale Actors
+[2020.06.30-12.10.25:374][678]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small286)
+[2020.06.30-12.10.31:871][812]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small227)
+[2020.06.30-12.10.33:303][846]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small222)
+[2020.06.30-12.10.34:329][869]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small227)
+[2020.06.30-12.10.35:643][900]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small225)
+[2020.06.30-12.10.36:407][916]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small256)
+[2020.06.30-12.11.21:998][133]Cmd: DELETE
+[2020.06.30-12.11.21:998][133]Cmd: ACTOR DELETE
+[2020.06.30-12.11.22:026][133]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.11.22:026][133]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.11.22:026][133]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.11.22:027][133]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.11.22:041][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.06.30-12.11.22:055][133]LogEditorActor: Deleted 4 Actors (0.056 secs)
+[2020.06.30-12.11.22:830][157]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small277)
+[2020.06.30-12.11.24:630][192]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small278)
+[2020.06.30-12.11.28:662][290]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.30-12.11.28:681][290]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.30-12.11.28:681][290]PIE: New page: Sesión PIE (reproducción en el editor): FirstPersonExampleMap (30 jun. 2020 16:11:28)
+[2020.06.30-12.11.28:682][290]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.06.30-12.11.28:773][290]LogPlayLevel: PIE: StaticDuplicateObject took: (0.091843s)
+[2020.06.30-12.11.28:774][290]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.06.30-12.11.28:774][290]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002D0D4FD2A00), frame # 817290
+[2020.06.30-12.11.28:774][290]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002D01EC33D80), frame # 817290
+[2020.06.30-12.11.28:775][290]LogPlayLevel: PIE: World Init took: (0.001349s)
+[2020.06.30-12.11.28:775][290]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.093433s)
+[2020.06.30-12.11.28:789][290]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2020.06.30-12.11.28:792][290]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.30-12.11.28:792][290]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.30-12.11.28:792][290]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.30-12.11.28:792][290]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.30-12.11.28:792][290]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.30-12.11.28:792][290]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.30-12.11.28:792][290]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.30-12.11.28:792][290]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.30-12.11.28:793][290]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.30-12.11.28:793][290]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.30-12.11.28:795][290]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.30-12.11.28:795][290]LogAudioMixer: Display: 1: FrontRight
+[2020.06.30-12.11.28:813][290]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.06.30-12.11.28:813][290]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.06.30-12.11.28:813][290]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.06.30-12.11.28:813][290]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.06.30-12.11.28:813][290]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.06.30-12.11.28:825][290]LogInit: FAudioDevice initialized.
+[2020.06.30-12.11.28:837][290]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.06.30-12.11.28:863][290]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.06.30-14.11.28
+[2020.06.30-12.11.28:864][290]LogWorld: Bringing up level for play took: 0.026223
+[2020.06.30-12.11.28:864][290]LogOnline: OSS: Creating online subsystem instance for: :Context_91
+[2020.06.30-12.11.28:867][290]PIE: El servidor ha iniciado la sesión
+[2020.06.30-12.11.28:868][290]PIE: Play in editor total start time 0,187 seconds.
+[2020.06.30-12.11.50:992][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-12.11.50:992][142]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.06.30-12.11.50:993][142]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.30-12.11.50:999][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-12.11.51:005][142]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.30-12.11.51:009][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-12.11.51:021][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-12.11.51:043][142]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002D01EC33D80), frame # 819142
+[2020.06.30-12.11.51:043][142]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002D0D4FD2A00), frame # 819142
+[2020.06.30-12.11.51:048][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.06.30-12.11.51:094][143]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2020.06.30-12.11.52:348][259]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.30-12.11.52:365][259]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.30-12.11.52:365][259]PIE: New page: Sesión PIE (reproducción en el editor): FirstPersonExampleMap (30 jun. 2020 16:11:52)
+[2020.06.30-12.11.52:401][259]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.06.30-12.11.52:489][259]LogPlayLevel: PIE: StaticDuplicateObject took: (0.087458s)
+[2020.06.30-12.11.52:490][259]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.06.30-12.11.52:490][259]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002D01E74AE00), frame # 819259
+[2020.06.30-12.11.52:490][259]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002CFB9993EC0), frame # 819259
+[2020.06.30-12.11.52:490][259]LogPlayLevel: PIE: World Init took: (0.001276s)
+[2020.06.30-12.11.52:490][259]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.088990s)
+[2020.06.30-12.11.52:505][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2020.06.30-12.11.52:508][259]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.30-12.11.52:508][259]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.30-12.11.52:508][259]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.30-12.11.52:508][259]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.30-12.11.52:508][259]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.30-12.11.52:508][259]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.30-12.11.52:508][259]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.30-12.11.52:508][259]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.30-12.11.52:509][259]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.30-12.11.52:509][259]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.30-12.11.52:511][259]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.30-12.11.52:511][259]LogAudioMixer: Display: 1: FrontRight
+[2020.06.30-12.11.52:528][259]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.06.30-12.11.52:528][259]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.06.30-12.11.52:528][259]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.06.30-12.11.52:528][259]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.06.30-12.11.52:529][259]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.06.30-12.11.52:540][259]LogInit: FAudioDevice initialized.
+[2020.06.30-12.11.52:550][259]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.06.30-12.11.52:576][259]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.06.30-14.11.52
+[2020.06.30-12.11.52:577][259]LogWorld: Bringing up level for play took: 0.026310
+[2020.06.30-12.11.52:577][259]LogOnline: OSS: Creating online subsystem instance for: :Context_92
+[2020.06.30-12.11.52:580][259]PIE: El servidor ha iniciado la sesión
+[2020.06.30-12.11.52:581][259]PIE: Play in editor total start time 0,216 seconds.
+[2020.06.30-12.12.10:711][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-12.12.10:712][850]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.06.30-12.12.10:713][850]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.30-12.12.10:720][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-12.12.10:771][850]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.30-12.12.10:775][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-12.12.10:792][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-12.12.10:809][850]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002CFB9993EC0), frame # 820850
+[2020.06.30-12.12.10:809][850]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002D01E74AE00), frame # 820850
+[2020.06.30-12.12.10:814][850]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.06.30-12.12.10:859][851]LogPlayLevel: Display: Destroying online subsystem :Context_92
+[2020.06.30-12.12.35:742][154]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2020.06.30-12.12.36:138][154]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0018 seconds. Added 125 classes and 0 folders.
+[2020.06.30-12.14.18:592][795]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2020.06.30-12.14.18:675][795]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2020.06.30-12.14.18:701][795]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2020.06.30-12.14.18:701][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-12.14.24:240][902]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small225)
+[2020.06.30-12.15.21:194][865]LogActorFactory: Actor Factory created concrete_block_wall_without_proxy_concrete_block_wall_med_messy
+[2020.06.30-12.15.22:652][900]LogActorFactory: Actor Factory created concrete_block_wall_without_proxy_concrete_block_wall_med_messy
+[2020.06.30-12.15.24:321][944]Cmd: TRANSACTION UNDO
+[2020.06.30-12.15.24:321][944]LogEditorTransaction: Undo Crear actores
+[2020.06.30-12.15.34:314][188]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_large_messy4)
+[2020.06.30-12.16.12:831][992]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small220)
+[2020.06.30-12.16.16:174][ 70]Cmd: DELETE
+[2020.06.30-12.16.16:174][ 70]Cmd: ACTOR DELETE
+[2020.06.30-12.16.16:200][ 70]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.16.16:235][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.06.30-12.16.16:364][ 70]LogEditorActor: Deleted 1 Actors (0.190 secs)
+[2020.06.30-12.16.17:457][108]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small224)
+[2020.06.30-12.16.17:843][113]Cmd: DELETE
+[2020.06.30-12.16.17:843][113]Cmd: ACTOR DELETE
+[2020.06.30-12.16.17:870][113]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.16.17:889][113]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.06.30-12.16.17:903][113]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2020.06.30-12.16.18:287][126]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small222)
+[2020.06.30-12.16.18:535][130]Cmd: DELETE
+[2020.06.30-12.16.18:535][130]Cmd: ACTOR DELETE
+[2020.06.30-12.16.18:561][130]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.16.18:582][130]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.06.30-12.16.18:584][130]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2020.06.30-12.16.19:109][148]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small225)
+[2020.06.30-12.16.19:341][149]Cmd: DELETE
+[2020.06.30-12.16.19:341][149]Cmd: ACTOR DELETE
+[2020.06.30-12.16.19:364][149]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.16.19:382][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.06.30-12.16.19:384][149]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2020.06.30-12.16.19:685][159]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small256)
+[2020.06.30-12.16.21:804][211]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_large_messy6)
+[2020.06.30-12.16.36:620][534]Cmd: TRANSACTION UNDO
+[2020.06.30-12.16.36:620][534]LogEditorTransaction: Undo Move Actors
+[2020.06.30-12.16.37:178][538]Cmd: TRANSACTION UNDO
+[2020.06.30-12.16.37:178][538]LogEditorTransaction: Undo Move Actors
+[2020.06.30-12.16.37:649][546]Cmd: TRANSACTION UNDO
+[2020.06.30-12.16.37:649][546]LogEditorTransaction: Undo Pinchar en los actores
+[2020.06.30-12.16.38:282][555]Cmd: TRANSACTION UNDO
+[2020.06.30-12.16.38:282][555]LogEditorTransaction: Undo Pinchar en los actores
+[2020.06.30-12.16.38:713][561]Cmd: TRANSACTION UNDO
+[2020.06.30-12.16.38:713][561]LogEditorTransaction: Undo Pinchar en los actores
+[2020.06.30-12.16.39:213][570]Cmd: TRANSACTION UNDO
+[2020.06.30-12.16.39:213][570]LogEditorTransaction: Undo Eliminar actores
+[2020.06.30-12.16.39:514][571]LogD3D12RHI: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2020.06.30-12.16.39:514][571]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2020.06.30-12.16.39:627][572]Cmd: TRANSACTION UNDO
+[2020.06.30-12.16.39:627][572]LogEditorTransaction: Undo Pinchar en los actores
+[2020.06.30-12.16.40:128][581]Cmd: TRANSACTION UNDO
+[2020.06.30-12.16.40:128][581]LogEditorTransaction: Undo Eliminar actores
+[2020.06.30-12.16.40:621][585]Cmd: TRANSACTION UNDO
+[2020.06.30-12.16.40:622][585]LogEditorTransaction: Undo Pinchar en los actores
+[2020.06.30-12.16.41:068][592]Cmd: TRANSACTION UNDO
+[2020.06.30-12.16.41:068][592]LogEditorTransaction: Undo Eliminar actores
+[2020.06.30-12.16.41:792][594]Cmd: TRANSACTION UNDO
+[2020.06.30-12.16.41:792][594]LogEditorTransaction: Undo Pinchar en los actores
+[2020.06.30-12.16.42:458][606]Cmd: TRANSACTION UNDO
+[2020.06.30-12.16.42:458][606]LogEditorTransaction: Undo Eliminar actores
+[2020.06.30-12.16.42:924][610]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2020.06.30-12.16.44:927][644]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small258)
+[2020.06.30-12.16.47:169][679]Cmd: DELETE
+[2020.06.30-12.16.47:169][679]Cmd: ACTOR DELETE
+[2020.06.30-12.16.47:195][679]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.16.47:214][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.06.30-12.16.47:221][679]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2020.06.30-12.16.47:667][687]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small262)
+[2020.06.30-12.16.48:298][695]Cmd: DELETE
+[2020.06.30-12.16.48:298][695]Cmd: ACTOR DELETE
+[2020.06.30-12.16.48:327][695]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.16.48:347][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.06.30-12.16.48:348][695]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2020.06.30-12.16.48:742][702]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small254)
+[2020.06.30-12.16.49:040][704]Cmd: DELETE
+[2020.06.30-12.16.49:040][704]Cmd: ACTOR DELETE
+[2020.06.30-12.16.49:066][704]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.16.49:086][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.06.30-12.16.49:087][704]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2020.06.30-12.16.49:802][717]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small256)
+[2020.06.30-12.16.50:889][733]Cmd: DELETE
+[2020.06.30-12.16.50:889][733]Cmd: ACTOR DELETE
+[2020.06.30-12.16.50:917][733]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.16.50:935][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.06.30-12.16.50:936][733]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2020.06.30-12.16.51:313][739]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small230)
+[2020.06.30-12.16.51:678][744]Cmd: DELETE
+[2020.06.30-12.16.51:678][744]Cmd: ACTOR DELETE
+[2020.06.30-12.16.51:704][744]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.16.51:724][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.06.30-12.16.51:725][744]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2020.06.30-12.16.52:223][753]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_large_messy6)
+[2020.06.30-12.17.23:317][482]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.06.30-12.17.25:095][513]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_large_messy6)
+[2020.06.30-12.17.33:407][677]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.06.30-12.17.39:417][788]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.06.30-12.17.43:894][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.06.30-12.17.43:939][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.06.30-12.17.44:323][871]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMapA343396945D6F59652414D9DB38B5586.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.06.30-12.17.44:367][871]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.449
+[2020.06.30-12.17.45:518][871]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMap_BuiltDataE661AD5E4323A30F156613AC43C959EB.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.06.30-12.17.45:558][871]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.30-12.17.45:558][871]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.06.30-12.17.45:558][871]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.06.30-12.17.47:244][904]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_large_messy6)
+[2020.06.30-12.17.54:162][ 31]Cmd: TRANSACTION UNDO
+[2020.06.30-12.17.54:162][ 31]LogEditorTransaction: Undo Move Actors
+[2020.06.30-12.18.08:167][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.06.30-12.18.08:536][286]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMapD6F064E746D943155363EFA04897FFAA.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.06.30-12.18.09:662][286]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMap_BuiltData574D7CD04576BD849931379970375390.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.06.30-12.18.09:694][286]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.30-12.18.09:694][286]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.06.30-12.18.09:694][286]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.06.30-12.18.51:743][279]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small189)
+[2020.06.30-12.18.53:120][303]Cmd: DELETE
+[2020.06.30-12.18.53:120][303]Cmd: ACTOR DELETE
+[2020.06.30-12.18.53:148][303]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.18.53:168][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.06.30-12.18.53:180][303]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2020.06.30-12.18.54:031][320]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small191)
+[2020.06.30-12.18.55:664][348]Cmd: DELETE
+[2020.06.30-12.18.55:664][348]Cmd: ACTOR DELETE
+[2020.06.30-12.18.55:690][348]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.18.55:708][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.06.30-12.18.55:710][348]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2020.06.30-12.18.56:452][363]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small204)
+[2020.06.30-12.18.56:877][368]Cmd: DELETE
+[2020.06.30-12.18.56:877][368]Cmd: ACTOR DELETE
+[2020.06.30-12.18.56:903][368]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.18.56:922][368]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.06.30-12.18.56:923][368]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2020.06.30-12.18.57:522][379]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small194)
+[2020.06.30-12.18.57:757][380]Cmd: DELETE
+[2020.06.30-12.18.57:757][380]Cmd: ACTOR DELETE
+[2020.06.30-12.18.57:781][380]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.18.57:799][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.06.30-12.18.57:801][380]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2020.06.30-12.18.58:187][387]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small196)
+[2020.06.30-12.18.58:297][387]Cmd: DELETE
+[2020.06.30-12.18.58:297][387]Cmd: ACTOR DELETE
+[2020.06.30-12.18.58:321][387]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.18.58:339][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.06.30-12.18.58:341][387]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2020.06.30-12.18.58:879][398]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small198)
+[2020.06.30-12.18.59:106][399]Cmd: DELETE
+[2020.06.30-12.18.59:106][399]Cmd: ACTOR DELETE
+[2020.06.30-12.18.59:130][399]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-12.18.59:147][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.06.30-12.18.59:149][399]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2020.06.30-12.19.05:044][661]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.30-12.19.05:063][661]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.30-12.19.05:063][661]PIE: New page: Sesión PIE (reproducción en el editor): FirstPersonExampleMap (30 jun. 2020 16:19:05)
+[2020.06.30-12.19.05:063][661]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.06.30-12.19.05:152][661]LogPlayLevel: PIE: StaticDuplicateObject took: (0.088417s)
+[2020.06.30-12.19.05:152][661]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.06.30-12.19.05:153][661]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002D08E9C5400), frame # 828661
+[2020.06.30-12.19.05:153][661]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002CFD0C5CB80), frame # 828661
+[2020.06.30-12.19.05:153][661]LogPlayLevel: PIE: World Init took: (0.001324s)
+[2020.06.30-12.19.05:153][661]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.089980s)
+[2020.06.30-12.19.05:171][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.06.30-12.19.05:174][661]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.30-12.19.05:174][661]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.30-12.19.05:174][661]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.30-12.19.05:174][661]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.30-12.19.05:174][661]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.30-12.19.05:174][661]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.30-12.19.05:174][661]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.30-12.19.05:174][661]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.30-12.19.05:175][661]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.30-12.19.05:175][661]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.30-12.19.05:177][661]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.30-12.19.05:177][661]LogAudioMixer: Display: 1: FrontRight
+[2020.06.30-12.19.05:196][661]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.06.30-12.19.05:196][661]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.06.30-12.19.05:196][661]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.06.30-12.19.05:196][661]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.06.30-12.19.05:196][661]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.06.30-12.19.05:207][661]LogInit: FAudioDevice initialized.
+[2020.06.30-12.19.05:220][661]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.06.30-12.19.05:246][661]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.06.30-14.19.05
+[2020.06.30-12.19.05:246][661]LogWorld: Bringing up level for play took: 0.025921
+[2020.06.30-12.19.05:246][661]LogOnline: OSS: Creating online subsystem instance for: :Context_96
+[2020.06.30-12.19.05:250][661]PIE: El servidor ha iniciado la sesión
+[2020.06.30-12.19.05:251][661]PIE: Play in editor total start time 0,188 seconds.
+[2020.06.30-12.19.18:548][567]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=287.654 Y=152.914 Z=1006.511] for [FirstPersonProjectile_C]
+[2020.06.30-12.19.18:720][586]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=295.973 Y=163.391 Z=1016.855] for [FirstPersonProjectile_C]
+[2020.06.30-12.19.23:833][118]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-12.19.23:833][118]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.06.30-12.19.23:834][118]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.30-12.19.23:840][118]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-12.19.23:850][118]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.30-12.19.23:855][118]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-12.19.23:893][118]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-12.19.23:903][118]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002D08E9C5400), frame # 830118
+[2020.06.30-12.19.23:903][118]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002CFD0C5CB80), frame # 830118
+[2020.06.30-12.19.23:905][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.06.30-12.19.23:961][119]LogPlayLevel: Display: Destroying online subsystem :Context_96
+[2020.06.30-12.19.32:838][507]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2020.06.30-12.19.44:133][824]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.06.30-12.19.44:184][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.06.30-12.19.44:555][824]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMapF467C4E34C56A9A866EC928273E301FD.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.06.30-12.19.44:593][824]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.429
+[2020.06.30-12.19.45:685][824]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMap_BuiltData4CCADE854A46132126CF0FBADFDF077F.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.06.30-12.19.45:723][824]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.30-12.19.45:723][824]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.06.30-12.19.45:724][824]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.06.30-12.19.52:741][982]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (5_defaultMaterial3)
+[2020.06.30-12.19.58:948][123]Cmd: TRANSACTION UNDO
+[2020.06.30-12.19.58:949][123]LogEditorTransaction: Undo Pinchar en los actores
+[2020.06.30-12.20.13:551][476]Cmd: TRANSACTION UNDO
+[2020.06.30-12.20.13:551][476]LogEditorTransaction: Undo Pinchar en los actores
+[2020.06.30-12.20.13:989][481]Cmd: TRANSACTION UNDO
+[2020.06.30-12.20.13:989][481]LogEditorTransaction: Undo Pinchar en los actores
+[2020.06.30-12.20.43:235][173]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.30-12.20.58:001][571]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_small291)
+[2020.06.30-12.21.05:378][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.06.30-12.21.05:434][715]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.06.30-12.21.05:808][715]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMapD12C996E40E3208123865F9D2F11CF2B.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.06.30-12.21.05:847][715]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.432
+[2020.06.30-12.21.06:936][715]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMap_BuiltData9310292E43D439CB919254BCE9ABA2DC.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.06.30-12.21.06:974][715]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.30-12.21.06:974][715]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.06.30-12.21.06:974][715]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.06.30-12.21.09:244][763]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.06.30-12.21.18:696][900]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.30-12.21.18:716][900]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.30-12.21.18:716][900]PIE: New page: Sesión PIE (reproducción en el editor): FirstPersonExampleMap (30 jun. 2020 16:21:18)
+[2020.06.30-12.21.18:716][900]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.06.30-12.21.18:805][900]LogPlayLevel: PIE: StaticDuplicateObject took: (0.089455s)
+[2020.06.30-12.21.18:806][900]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.06.30-12.21.18:806][900]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002D08164BA00), frame # 832900
+[2020.06.30-12.21.18:806][900]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002D11E6A0540), frame # 832900
+[2020.06.30-12.21.18:808][900]LogPlayLevel: PIE: World Init took: (0.001464s)
+[2020.06.30-12.21.18:808][900]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.091171s)
+[2020.06.30-12.21.18:827][900]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.06.30-12.21.18:834][900]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.30-12.21.18:834][900]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.30-12.21.18:834][900]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.30-12.21.18:834][900]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.30-12.21.18:834][900]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.30-12.21.18:834][900]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.30-12.21.18:834][900]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.30-12.21.18:834][900]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.30-12.21.18:834][900]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.30-12.21.18:834][900]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.30-12.21.18:837][900]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.30-12.21.18:837][900]LogAudioMixer: Display: 1: FrontRight
+[2020.06.30-12.21.18:854][900]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.06.30-12.21.18:854][900]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.06.30-12.21.18:855][900]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.06.30-12.21.18:855][900]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.06.30-12.21.18:855][900]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.06.30-12.21.18:866][900]LogInit: FAudioDevice initialized.
+[2020.06.30-12.21.18:882][900]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.06.30-12.21.18:909][900]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.06.30-14.21.18
+[2020.06.30-12.21.18:909][900]LogWorld: Bringing up level for play took: 0.026454
+[2020.06.30-12.21.18:909][900]LogOnline: OSS: Creating online subsystem instance for: :Context_97
+[2020.06.30-12.21.18:913][900]PIE: El servidor ha iniciado la sesión
+[2020.06.30-12.21.18:914][900]PIE: Play in editor total start time 0,198 seconds.
+[2020.06.30-12.23.47:713][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-12.23.47:713][630]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.06.30-12.23.47:714][630]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.30-12.23.47:720][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-12.23.47:728][630]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.30-12.23.47:734][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.30-12.23.47:755][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-12.23.47:772][630]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002D11E6A0540), frame # 833630
+[2020.06.30-12.23.47:772][630]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002D08164BA00), frame # 833630
+[2020.06.30-12.23.47:778][630]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.06.30-12.23.47:817][631]LogPlayLevel: Display: Destroying online subsystem :Context_97
+[2020.06.30-12.24.46:851][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.06.30-12.24.46:904][781]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.06.30-12.24.47:285][781]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMap7E14A8394D5D4B4696EDE9A3710A9D79.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.06.30-12.24.47:323][781]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.441
+[2020.06.30-12.24.48:474][781]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMap_BuiltData6C9301314563D0EEDAEA89A80D86A353.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.06.30-12.24.48:515][781]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.30-12.24.48:516][781]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.06.30-12.24.48:516][781]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.06.30-12.24.52:209][862]MapCheck: New page: Revisión del mapa
+[2020.06.30-12.24.52:222][862]LightingResults: New page: Diseño de la iluminación - 30 jun. 2020 16:24:52
+[2020.06.30-12.24.52:251][862]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.06.30-12.24.52:256][862]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.06.30-12.24.52:256][862]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.06.30-12.24.52:257][862]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.06.30-12.24.52:257][862]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11644
+[2020.06.30-12.24.56:819][862]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.06.30-12.24.56:819][862]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.06.30-12.24.56:819][862]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.06.30-12.24.56:819][862]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.06.30-12.24.56:819][862]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.06.30-12.24.57:468][862]LogEditorBuildUtils: Build time 0:05
+[2020.06.30-12.24.57:514][863]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Concrete_PouredDarker, compiling. 
+[2020.06.30-12.24.57:517][863]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Concrete_PouredDarker, compiling. 
+[2020.06.30-12.24.57:581][864]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2020.06.30-12.24.57:581][864]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2020.06.30-12.24.57:581][864]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.06.30-12.24.57:581][864]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2020.06.30-12.24.57:957][868]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Lid__Low, compiling. 
+[2020.06.30-12.24.57:960][868]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Lid__Low, compiling. 
+[2020.06.30-12.24.57:962][868]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2020.06.30-12.24.57:962][868]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2020.06.30-12.24.57:962][868]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.06.30-12.24.57:962][868]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2020.06.30-12.24.57:962][868]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Crate__Low, compiling. 
+[2020.06.30-12.24.57:965][868]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Crate__Low, compiling. 
+[2020.06.30-12.24.57:998][868]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2020.06.30-12.24.57:998][868]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2020.06.30-12.24.57:998][868]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2020.06.30-12.24.57:998][868]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.06.30-12.24.58:037][869]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ind_pipe_small_01_mt, compiling. 
+[2020.06.30-12.24.58:041][869]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ind_pipe_small_01_mt, compiling. 
+[2020.06.30-12.24.58:131][870]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ABS_White, compiling. 
+[2020.06.30-12.24.58:135][870]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ABS_White, compiling. 
+[2020.06.30-12.24.58:138][870]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Steel_-_Satin, compiling. 
+[2020.06.30-12.24.58:142][870]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Steel_-_Satin, compiling. 
+[2020.06.30-12.24.58:178][871]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer lambert1, compiling. 
+[2020.06.30-12.24.58:182][871]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer lambert1, compiling. 
+[2020.06.30-12.24.59:267][872]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 16
+[2020.06.30-12.24.59:267][872]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2020.06.30-12.24.59:267][872]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2020.06.30-12.24.59:267][872]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2020.06.30-12.24.59:267][872]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2020.06.30-12.24.59:267][872]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2020.06.30-12.24.59:267][872]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2020.06.30-12.24.59:268][872]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2020.06.30-12.24.59:268][872]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2020.06.30-12.24.59:268][872]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2020.06.30-12.24.59:268][872]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2020.06.30-12.25.09:038][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
