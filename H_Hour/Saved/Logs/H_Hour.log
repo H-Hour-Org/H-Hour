@@ -2153,3 +2153,1868 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.01-10.13.12:980][393]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002049391A600), frame # 136393
 [2020.07.01-10.13.12:986][393]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
 [2020.07.01-10.13.13:032][394]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2020.07.01-10.13.47:648][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.07.01-10.13.48:046][ 94]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMap_Auto293DEEA38458BC21174A28C9791F58471.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2020.07.01-10.13.48:056][ 94]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.433
+[2020.07.01-10.13.48:056][ 94]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.433
+[2020.07.01-10.13.48:057][ 94]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2020.07.01-10.13.48:068][ 94]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2020.07.01-10.13.48:068][ 94]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2020.07.01-10.13.48:173][ 94]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonCharacter_Auto2C7251CA5415831240BD5028A6892A8E1.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto2.uasset'
+[2020.07.01-10.13.48:175][ 94]LogFileHelpers: Auto-saving content packages took 0.119
+[2020.07.01-10.14.02:906][345]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater)
+[2020.07.01-10.14.07:773][674]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/WaterPlane/Translucent/Materials/M_TranslucentWater_Inst.M_TranslucentWater_Inst
+[2020.07.01-10.14.14:332][ 88]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/WaterPlane/Translucent/Materials/M_TranslucentWater.M_TranslucentWater
+[2020.07.01-10.14.14:336][ 88]LogMaterial: Display: Missing cached shader map for material M_TranslucentWater, compiling. 
+[2020.07.01-10.14.14:430][ 88]LogMaterial: Display: Missing cached shader map for material M_TranslucentWater, compiling. 
+[2020.07.01-10.14.14:445][ 88]LogMaterial: Display: Missing cached shader map for material M_TranslucentWater, compiling. 
+[2020.07.01-10.14.14:462][ 88]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2020.07.01-10.14.14:462][ 88]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2020.07.01-10.14.14:462][ 88]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2020.07.01-10.14.14:462][ 88]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2020.07.01-10.14.14:462][ 88]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2020.07.01-10.14.14:462][ 88]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2020.07.01-10.14.14:462][ 88]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2020.07.01-10.14.14:462][ 88]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2020.07.01-10.14.14:463][ 88]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2020.07.01-10.14.14:466][ 88]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_5, compiling. 
+[2020.07.01-10.14.14:469][ 88]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObjectParameter_8, compiling. 
+[2020.07.01-10.14.14:472][ 88]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObjectParameter_9, compiling. 
+[2020.07.01-10.14.14:474][ 88]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_4, compiling. 
+[2020.07.01-10.14.14:477][ 88]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObjectParameter_10, compiling. 
+[2020.07.01-10.14.14:479][ 88]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObjectParameter_11, compiling. 
+[2020.07.01-10.14.14:482][ 88]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_6, compiling. 
+[2020.07.01-10.14.14:485][ 88]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_7, compiling. 
+[2020.07.01-10.14.14:488][ 88]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_0, compiling. 
+[2020.07.01-10.14.14:988][101]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 59
+[2020.07.01-10.14.15:020][102]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 58
+[2020.07.01-10.14.15:180][108]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 57
+[2020.07.01-10.14.15:422][118]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 56
+[2020.07.01-10.14.15:488][121]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 55
+[2020.07.01-10.14.15:646][128]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 54
+[2020.07.01-10.14.15:975][141]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 53
+[2020.07.01-10.14.15:999][142]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 52
+[2020.07.01-10.14.17:026][175]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 51
+[2020.07.01-10.14.17:273][182]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 50
+[2020.07.01-10.14.17:273][182]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 49
+[2020.07.01-10.14.17:336][184]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 48
+[2020.07.01-10.14.17:438][187]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 47
+[2020.07.01-10.14.17:554][190]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 46
+[2020.07.01-10.14.18:015][206]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 45
+[2020.07.01-10.14.18:015][206]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 44
+[2020.07.01-10.14.18:040][207]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 43
+[2020.07.01-10.14.18:064][208]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 42
+[2020.07.01-10.14.18:475][221]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 41
+[2020.07.01-10.14.18:509][222]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 40
+[2020.07.01-10.14.18:600][225]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 39
+[2020.07.01-10.14.18:876][234]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 38
+[2020.07.01-10.14.18:903][235]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 37
+[2020.07.01-10.14.19:051][240]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 36
+[2020.07.01-10.14.19:086][241]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 35
+[2020.07.01-10.14.19:298][247]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 34
+[2020.07.01-10.14.19:339][248]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 33
+[2020.07.01-10.14.19:413][250]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 32
+[2020.07.01-10.14.19:562][254]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 31
+[2020.07.01-10.14.19:697][258]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 30
+[2020.07.01-10.14.19:735][259]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 29
+[2020.07.01-10.14.19:769][260]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 28
+[2020.07.01-10.14.19:831][262]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 27
+[2020.07.01-10.14.19:938][265]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2020.07.01-10.14.20:010][267]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 25
+[2020.07.01-10.14.20:154][271]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 24
+[2020.07.01-10.14.20:195][272]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 23
+[2020.07.01-10.14.20:195][272]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2020.07.01-10.14.20:266][274]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 21
+[2020.07.01-10.14.20:381][278]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 20
+[2020.07.01-10.14.20:413][279]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2020.07.01-10.14.20:446][280]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 18
+[2020.07.01-10.14.20:474][281]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 17
+[2020.07.01-10.14.20:551][282]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2020.07.01-10.14.20:551][282]MaterialEditorStats: Base pass shader: 516 instructions
+[2020.07.01-10.14.20:551][282]MaterialEditorStats: Base pass shader with Surface Lightmap: 557 instructions
+[2020.07.01-10.14.20:551][282]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 602 instructions
+[2020.07.01-10.14.20:551][282]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2020.07.01-10.14.20:551][282]MaterialEditorStats: Texture samplers: 12/16
+[2020.07.01-10.14.20:551][282]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(19)
+[2020.07.01-10.14.20:637][285]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2020.07.01-10.14.20:637][285]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2020.07.01-10.14.20:668][286]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2020.07.01-10.14.20:784][290]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2020.07.01-10.14.20:878][293]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2020.07.01-10.14.20:909][294]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 10
+[2020.07.01-10.14.20:939][295]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2020.07.01-10.14.20:967][296]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2020.07.01-10.14.21:083][300]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2020.07.01-10.14.21:120][301]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2020.07.01-10.14.21:152][302]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.07.01-10.14.21:214][304]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2020.07.01-10.14.21:334][308]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.07.01-10.14.21:334][308]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2020.07.01-10.14.21:393][310]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2020.07.01-10.15.09:230][977]LogMaterial: Display: Missing cached shader map for material M_TranslucentWater, compiling. 
+[2020.07.01-10.15.09:349][978]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2020.07.01-10.15.09:349][978]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2020.07.01-10.15.09:349][978]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2020.07.01-10.15.09:350][978]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2020.07.01-10.15.09:350][978]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2020.07.01-10.15.09:350][978]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2020.07.01-10.15.09:350][978]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2020.07.01-10.15.09:350][978]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2020.07.01-10.15.09:354][978]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2020.07.01-10.15.09:740][987]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 26
+[2020.07.01-10.15.09:782][988]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 25
+[2020.07.01-10.15.09:935][992]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 24
+[2020.07.01-10.15.10:171][999]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 23
+[2020.07.01-10.15.10:236][  1]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 22
+[2020.07.01-10.15.10:389][  7]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 21
+[2020.07.01-10.15.10:718][ 21]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 20
+[2020.07.01-10.15.10:742][ 22]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 19
+[2020.07.01-10.15.11:827][ 69]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 18
+[2020.07.01-10.15.12:011][ 77]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2020.07.01-10.15.12:080][ 80]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2020.07.01-10.15.12:141][ 83]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 15
+[2020.07.01-10.15.12:183][ 85]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2020.07.01-10.15.12:316][ 91]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2020.07.01-10.15.12:807][111]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2020.07.01-10.15.12:833][112]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2020.07.01-10.15.12:892][114]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 10
+[2020.07.01-10.15.12:919][115]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2020.07.01-10.15.13:294][126]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2020.07.01-10.15.13:349][128]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.07.01-10.15.13:396][130]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2020.07.01-10.15.13:566][138]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.07.01-10.15.13:674][143]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2020.07.01-10.15.13:716][145]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2020.07.01-10.15.13:871][152]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2020.07.01-10.15.13:915][154]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2020.07.01-10.15.14:958][210]MaterialEditorStats: Base pass shader: 516 instructions
+[2020.07.01-10.15.14:958][210]MaterialEditorStats: Base pass shader with Surface Lightmap: 557 instructions
+[2020.07.01-10.15.14:958][210]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 602 instructions
+[2020.07.01-10.15.14:958][210]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2020.07.01-10.15.14:958][210]MaterialEditorStats: Texture samplers: 12/16
+[2020.07.01-10.15.14:958][210]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(19)
+[2020.07.01-10.15.42:100][759]LogMaterial: Display: Missing cached shader map for material M_TranslucentWater, compiling. 
+[2020.07.01-10.15.42:122][759]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2020.07.01-10.15.42:122][759]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2020.07.01-10.15.42:122][759]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2020.07.01-10.15.42:122][759]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2020.07.01-10.15.42:122][759]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2020.07.01-10.15.42:122][759]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2020.07.01-10.15.42:122][759]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2020.07.01-10.15.42:122][759]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2020.07.01-10.15.42:122][759]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObjectParameter_10, compiling. 
+[2020.07.01-10.15.42:639][781]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 23
+[2020.07.01-10.15.42:639][781]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2020.07.01-10.15.42:825][787]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2020.07.01-10.15.43:068][796]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2020.07.01-10.15.43:160][800]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2020.07.01-10.15.43:293][805]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 18
+[2020.07.01-10.15.43:651][818]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 17
+[2020.07.01-10.15.43:652][818]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 16
+[2020.07.01-10.15.44:687][858]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 15
+[2020.07.01-10.15.44:941][868]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 14
+[2020.07.01-10.15.44:941][868]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2020.07.01-10.15.44:966][869]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2020.07.01-10.15.45:112][875]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2020.07.01-10.15.45:166][877]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 10
+[2020.07.01-10.15.45:678][896]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.07.01-10.15.45:727][898]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2020.07.01-10.15.45:752][899]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2020.07.01-10.15.45:797][901]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2020.07.01-10.15.46:169][914]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2020.07.01-10.15.46:246][917]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2020.07.01-10.15.46:272][918]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2020.07.01-10.15.46:632][932]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2020.07.01-10.15.46:632][932]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2020.07.01-10.15.47:749][985]MaterialEditorStats: Base pass shader: 516 instructions
+[2020.07.01-10.15.47:749][985]MaterialEditorStats: Base pass shader with Surface Lightmap: 557 instructions
+[2020.07.01-10.15.47:749][985]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 602 instructions
+[2020.07.01-10.15.47:749][985]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2020.07.01-10.15.47:749][985]MaterialEditorStats: Texture samplers: 12/16
+[2020.07.01-10.15.47:749][985]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(19)
+[2020.07.01-10.15.58:372][597]LogEditorTransaction: Undo Mover nodo
+[2020.07.01-10.15.58:470][597]LogMaterial: Display: Missing cached shader map for material M_TranslucentWater, compiling. 
+[2020.07.01-10.15.58:506][597]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2020.07.01-10.15.58:506][597]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2020.07.01-10.15.58:506][597]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2020.07.01-10.15.58:506][597]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2020.07.01-10.15.58:506][597]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2020.07.01-10.15.58:506][597]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2020.07.01-10.15.58:506][597]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2020.07.01-10.15.58:506][597]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2020.07.01-10.15.58:739][599]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 19
+[2020.07.01-10.15.58:825][601]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 18
+[2020.07.01-10.15.59:049][608]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 17
+[2020.07.01-10.15.59:160][612]LogEditorTransaction: Undo Mover nodo
+[2020.07.01-10.15.59:313][612]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 16
+[2020.07.01-10.15.59:314][612]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2020.07.01-10.15.59:318][612]LogMaterial: Display: Missing cached shader map for material M_TranslucentWater, compiling. 
+[2020.07.01-10.15.59:467][613]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 27
+[2020.07.01-10.15.59:717][621]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 26
+[2020.07.01-10.15.59:742][622]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 25
+[2020.07.01-10.15.59:817][625]LogEditorTransaction: Undo Mover nodo
+[2020.07.01-10.15.59:980][625]LogMaterial: Display: Missing cached shader map for material M_TranslucentWater, compiling. 
+[2020.07.01-10.16.00:786][648]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 27
+[2020.07.01-10.16.00:944][654]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2020.07.01-10.16.00:944][654]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2020.07.01-10.16.01:092][660]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 24
+[2020.07.01-10.16.01:170][663]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 23
+[2020.07.01-10.16.01:176][663]LogEditorTransaction: Undo Mover nodo
+[2020.07.01-10.16.01:231][663]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 22
+[2020.07.01-10.16.01:345][663]LogMaterial: Display: Missing cached shader map for material M_TranslucentWater, compiling. 
+[2020.07.01-10.16.01:513][664]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2020.07.01-10.16.01:714][670]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 26
+[2020.07.01-10.16.01:787][672]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 25
+[2020.07.01-10.16.01:881][676]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 24
+[2020.07.01-10.16.02:051][682]LogEditorTransaction: Undo Mover nodo
+[2020.07.01-10.16.02:221][682]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 23
+[2020.07.01-10.16.02:228][682]LogMaterial: Display: Missing cached shader map for material M_TranslucentWater, compiling. 
+[2020.07.01-10.16.02:247][682]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 27
+[2020.07.01-10.16.02:466][685]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 26
+[2020.07.01-10.16.02:523][687]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 25
+[2020.07.01-10.16.02:623][691]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 24
+[2020.07.01-10.16.03:030][705]LogEditorTransaction: Undo Crear enlace del Pin
+[2020.07.01-10.16.03:037][705]LogMaterial: Display: Missing cached shader map for material M_TranslucentWater, compiling. 
+[2020.07.01-10.16.03:210][705]LogMaterial: Display: Missing cached shader map for material M_TranslucentWater, compiling. 
+[2020.07.01-10.16.03:238][705]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObjectParameter_10, compiling. 
+[2020.07.01-10.16.03:389][705]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 31
+[2020.07.01-10.16.03:389][705]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 30
+[2020.07.01-10.16.03:389][705]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 29
+[2020.07.01-10.16.03:444][707]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 28
+[2020.07.01-10.16.03:579][711]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 27
+[2020.07.01-10.16.03:926][723]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 26
+[2020.07.01-10.16.04:162][732]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 25
+[2020.07.01-10.16.04:192][733]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2020.07.01-10.16.04:257][735]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 23
+[2020.07.01-10.16.04:670][749]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 22
+[2020.07.01-10.16.05:005][761]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 21
+[2020.07.01-10.16.05:037][762]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 20
+[2020.07.01-10.16.05:219][769]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2020.07.01-10.16.05:301][772]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 18
+[2020.07.01-10.16.05:654][785]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 17
+[2020.07.01-10.16.05:727][788]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 16
+[2020.07.01-10.16.05:883][794]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 15
+[2020.07.01-10.16.05:935][796]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2020.07.01-10.16.06:149][802]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.07.01-10.16.06:285][807]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2020.07.01-10.16.06:761][824]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2020.07.01-10.16.06:810][826]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2020.07.01-10.16.06:881][829]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.07.01-10.16.06:953][832]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2020.07.01-10.16.07:289][844]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2020.07.01-10.16.07:571][853]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2020.07.01-10.16.07:780][860]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.07.01-10.16.08:191][874]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2020.07.01-10.16.08:191][874]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.07.01-10.16.08:407][883]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2020.07.01-10.16.08:407][883]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2020.07.01-10.16.08:654][892]LogMaterial: Display: Missing cached shader map for material M_TranslucentWater, compiling. 
+[2020.07.01-10.16.08:671][892]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 27
+[2020.07.01-10.16.08:671][892]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 26
+[2020.07.01-10.16.08:679][892]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObjectParameter_10, compiling. 
+[2020.07.01-10.16.08:812][896]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 29
+[2020.07.01-10.16.08:838][897]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 28
+[2020.07.01-10.16.08:973][902]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 27
+[2020.07.01-10.16.08:973][902]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 26
+[2020.07.01-10.16.09:149][908]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 25
+[2020.07.01-10.16.09:323][914]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 24
+[2020.07.01-10.16.09:459][919]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 23
+[2020.07.01-10.16.09:516][921]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 22
+[2020.07.01-10.16.09:654][923]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 21
+[2020.07.01-10.16.09:654][923]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 20
+[2020.07.01-10.16.09:897][933]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 19
+[2020.07.01-10.16.10:174][943]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 18
+[2020.07.01-10.16.10:390][951]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 17
+[2020.07.01-10.16.10:516][956]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 16
+[2020.07.01-10.16.11:249][983]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2020.07.01-10.16.11:301][985]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2020.07.01-10.16.11:328][986]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2020.07.01-10.16.11:478][992]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2020.07.01-10.16.11:986][ 11]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2020.07.01-10.16.12:087][ 15]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2020.07.01-10.16.12:109][ 16]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2020.07.01-10.16.12:133][ 17]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2020.07.01-10.16.12:284][ 23]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.07.01-10.16.12:607][ 34]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2020.07.01-10.16.12:784][ 41]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.07.01-10.16.12:840][ 43]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2020.07.01-10.16.12:942][ 47]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2020.07.01-10.16.13:225][ 58]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.07.01-10.16.13:388][ 65]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2020.07.01-10.16.14:275][108]MaterialEditorStats: Base pass shader: 516 instructions
+[2020.07.01-10.16.14:275][108]MaterialEditorStats: Base pass shader with Surface Lightmap: 557 instructions
+[2020.07.01-10.16.14:275][108]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 602 instructions
+[2020.07.01-10.16.14:275][108]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2020.07.01-10.16.14:275][108]MaterialEditorStats: Texture samplers: 12/16
+[2020.07.01-10.16.14:275][108]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(19)
+[2020.07.01-10.16.18:059][321]LogAssetEditorSubsystem: Opening Asset editor for MaterialFunction /Engine/Functions/Engine_MaterialFunctions01/Texturing/Texture_Bombing.Texture_Bombing
+[2020.07.01-10.16.18:133][321]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2020.07.01-10.16.18:138][321]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2020.07.01-10.16.18:143][321]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2020.07.01-10.16.18:143][321]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2020.07.01-10.16.18:143][321]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2020.07.01-10.16.18:143][321]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2020.07.01-10.16.18:143][321]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2020.07.01-10.16.18:143][321]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2020.07.01-10.16.18:143][321]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2020.07.01-10.16.18:146][321]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2020.07.01-10.16.18:153][321]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2020.07.01-10.16.18:160][321]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2020.07.01-10.16.18:177][321]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionOutput_3, compiling. 
+[2020.07.01-10.16.18:182][321]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionAdd_4, compiling. 
+[2020.07.01-10.16.18:186][321]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2020.07.01-10.16.18:186][321]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionAdd_3, compiling. 
+[2020.07.01-10.16.18:190][321]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionAdd_2, compiling. 
+[2020.07.01-10.16.18:194][321]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionAdd_1, compiling. 
+[2020.07.01-10.16.18:198][321]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_5, compiling. 
+[2020.07.01-10.16.18:202][321]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2020.07.01-10.16.18:206][321]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2020.07.01-10.16.18:210][321]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2020.07.01-10.16.18:214][321]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_8, compiling. 
+[2020.07.01-10.16.18:217][321]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_11, compiling. 
+[2020.07.01-10.16.18:221][321]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_12, compiling. 
+[2020.07.01-10.16.18:225][321]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLinearInterpolate_63, compiling. 
+[2020.07.01-10.16.18:229][321]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_26, compiling. 
+[2020.07.01-10.16.18:230][321]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_6, compiling. 
+[2020.07.01-10.16.18:317][321]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 66
+[2020.07.01-10.16.18:414][322]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 65
+[2020.07.01-10.16.18:415][322]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 64
+[2020.07.01-10.16.18:415][322]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 63
+[2020.07.01-10.16.18:462][324]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 62
+[2020.07.01-10.16.18:526][327]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 61
+[2020.07.01-10.16.18:602][330]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 60
+[2020.07.01-10.16.18:677][333]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 59
+[2020.07.01-10.16.18:786][337]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 58
+[2020.07.01-10.16.18:836][339]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 57
+[2020.07.01-10.16.18:909][342]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 56
+[2020.07.01-10.16.18:954][344]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 55
+[2020.07.01-10.16.19:005][346]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 54
+[2020.07.01-10.16.19:031][347]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 53
+[2020.07.01-10.16.19:080][349]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 52
+[2020.07.01-10.16.19:109][350]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 51
+[2020.07.01-10.16.19:268][356]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 50
+[2020.07.01-10.16.19:325][358]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 49
+[2020.07.01-10.16.19:325][358]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 48
+[2020.07.01-10.16.19:400][361]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 47
+[2020.07.01-10.16.19:524][366]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 46
+[2020.07.01-10.16.19:524][366]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 45
+[2020.07.01-10.16.19:560][367]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 44
+[2020.07.01-10.16.19:560][367]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 43
+[2020.07.01-10.16.19:741][374]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 42
+[2020.07.01-10.16.19:742][374]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 41
+[2020.07.01-10.16.19:798][376]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 40
+[2020.07.01-10.16.19:798][376]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 39
+[2020.07.01-10.16.20:000][384]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 38
+[2020.07.01-10.16.20:000][384]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 37
+[2020.07.01-10.16.20:026][385]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 36
+[2020.07.01-10.16.20:027][385]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 35
+[2020.07.01-10.16.20:231][393]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 34
+[2020.07.01-10.16.20:231][393]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 33
+[2020.07.01-10.16.20:231][393]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 32
+[2020.07.01-10.16.20:259][394]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 31
+[2020.07.01-10.16.20:434][401]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 30
+[2020.07.01-10.16.20:463][402]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 29
+[2020.07.01-10.16.20:488][403]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 28
+[2020.07.01-10.16.20:514][404]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 27
+[2020.07.01-10.16.20:657][410]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2020.07.01-10.16.20:686][411]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 25
+[2020.07.01-10.16.20:713][412]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 24
+[2020.07.01-10.16.20:714][412]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 23
+[2020.07.01-10.16.20:910][420]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 22
+[2020.07.01-10.16.20:938][421]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 21
+[2020.07.01-10.16.20:938][421]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2020.07.01-10.16.20:963][422]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 19
+[2020.07.01-10.16.21:132][429]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2020.07.01-10.16.21:132][429]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2020.07.01-10.16.21:132][429]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2020.07.01-10.16.21:161][430]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2020.07.01-10.16.21:345][437]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2020.07.01-10.16.21:373][438]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2020.07.01-10.16.21:373][438]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2020.07.01-10.16.21:398][439]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2020.07.01-10.16.21:543][445]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2020.07.01-10.16.21:572][446]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.07.01-10.16.21:599][447]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2020.07.01-10.16.21:626][448]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2020.07.01-10.16.21:768][454]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2020.07.01-10.16.21:794][455]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2020.07.01-10.16.21:820][456]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2020.07.01-10.16.21:820][456]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2020.07.01-10.16.21:867][458]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2020.07.01-10.16.22:000][464]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2020.07.01-10.16.27:016][765]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonCharacter34AECDC04C107A52CAA8CF8EF785344B.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.07.01-10.16.27:032][765]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2020.07.01-10.16.27:032][765]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2020.07.01-10.16.27:795][815]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-10.16.27:795][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-10.16.28:286][841]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-10.16.28:286][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-10.16.28:809][863]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.07.01-10.16.28:809][863]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-10.16.28:809][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-10.16.30:097][948]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.07.01-10.16.30:159][948]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.07.01-10.16.30:543][948]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2020.07.01-10.16.30:543][948]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2020.07.01-10.16.30:543][948]TextureStreamingBuild: Display: Compiling optional shaders took 0.391 seconds.
+[2020.07.01-10.16.30:607][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.07.01-10.16.30:644][948]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-10.16.30:645][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-10.17.26:177][836]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionOutput_3, compiling. 
+[2020.07.01-10.17.26:196][837]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2020.07.01-10.17.26:196][837]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2020.07.01-10.17.26:196][837]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.07.01-10.17.26:196][837]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2020.07.01-10.18.06:106][987]LogSlate: Window 'Mensaje' being destroyed
+[2020.07.01-10.18.06:109][987]Message dialog closed, result: No, title: Mensaje, text: ¿Quiere aplicar los cambios a este material?
+/Engine/Functions/Engine_MaterialFunctions01/Texturing/Texture_Bombing.Texture_Bombing
+(¡No se perderán todos lo cambios!)
+[2020.07.01-10.18.06:182][987]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-10.18.06:182][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-10.18.10:294][184]LogSlate: Window 'Mensaje' being destroyed
+[2020.07.01-10.18.10:296][184]Message dialog closed, result: No, title: Mensaje, text: ¿Quiere aplicar los cambios a este material?
+/Game/WaterPlane/Translucent/Materials/M_TranslucentWater.M_TranslucentWater
+(¡No se perderán todos lo cambios!)
+[2020.07.01-10.18.10:297][184]LogSlate: Window 'M_TranslucentWater' being destroyed
+[2020.07.01-10.18.10:341][184]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-10.18.10:341][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-10.18.14:855][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.07.01-10.18.14:915][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.07.01-10.18.15:256][599]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMap62E97DB3438263887DC0DF93262E5952.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.07.01-10.18.15:304][599]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.407
+[2020.07.01-10.18.16:390][599]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMap_BuiltData2455D75D4AA60E1728FCB196416354B7.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.07.01-10.18.16:434][599]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/M_TranslucentWater_InstD347FD5F4635C234DBA1E3B091310A05.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/WaterPlane/Translucent/Materials/M_TranslucentWater_Inst.uasset'
+[2020.07.01-10.18.16:469][599]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.01-10.18.16:469][599]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.07.01-10.18.16:469][599]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.07.01-10.18.16:469][599]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/WaterPlane/Translucent/Materials/M_TranslucentWater_Inst.M_TranslucentWater_Inst
+[2020.07.01-10.18.25:771][570]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Large4)
+[2020.07.01-10.18.30:778][123]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Large4)
+[2020.07.01-10.18.34:007][498]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater)
+[2020.07.01-10.18.54:857][383]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.01-10.19.39:741][328]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.01-10.20.09:452][168]Cmd: TRANSACTION UNDO
+[2020.07.01-10.20.09:452][168]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-10.20.14:162][508]Cmd: TRANSACTION UNDO
+[2020.07.01-10.20.14:162][508]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-10.20.17:687][799]Cmd: TRANSACTION UNDO
+[2020.07.01-10.20.17:687][799]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-10.20.21:113][106]Cmd: TRANSACTION UNDO
+[2020.07.01-10.20.21:113][106]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-10.20.29:134][693]Cmd: TRANSACTION UNDO
+[2020.07.01-10.20.29:134][693]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-10.20.41:133][539]Cmd: TRANSACTION UNDO
+[2020.07.01-10.20.41:134][539]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-10.21.28:105][161]Cmd: TRANSACTION UNDO
+[2020.07.01-10.21.28:105][161]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-10.21.55:545][599]Cmd: TRANSACTION UNDO
+[2020.07.01-10.21.55:545][599]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-10.22.06:300][426]Cmd: TRANSACTION UNDO
+[2020.07.01-10.22.06:300][426]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-10.22.21:083][635]Cmd: TRANSACTION UNDO
+[2020.07.01-10.22.21:083][635]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-10.22.35:825][306]Cmd: TRANSACTION UNDO
+[2020.07.01-10.22.35:825][306]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-10.22.45:466][936]Cmd: TRANSACTION UNDO
+[2020.07.01-10.22.45:466][936]LogEditorTransaction: Undo Editar Mín.
+[2020.07.01-10.23.12:221][246]Cmd: TRANSACTION UNDO
+[2020.07.01-10.23.12:221][246]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-10.23.35:673][ 62]Cmd: TRANSACTION UNDO
+[2020.07.01-10.23.35:673][ 62]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-10.23.53:830][706]Cmd: TRANSACTION UNDO
+[2020.07.01-10.23.53:830][706]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-10.24.43:141][257]Cmd: TRANSACTION UNDO
+[2020.07.01-10.24.43:141][257]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-10.24.45:919][478]Cmd: TRANSACTION UNDO
+[2020.07.01-10.24.45:919][478]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-10.24.47:539][625]Cmd: TRANSACTION UNDO
+[2020.07.01-10.24.47:539][625]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-10.24.48:938][747]Cmd: TRANSACTION UNDO
+[2020.07.01-10.24.48:938][747]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-10.25.13:225][965]Cmd: TRANSACTION UNDO
+[2020.07.01-10.25.13:225][965]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-10.25.19:717][508]Cmd: TRANSACTION UNDO
+[2020.07.01-10.25.19:717][508]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-10.25.22:668][766]Cmd: TRANSACTION UNDO
+[2020.07.01-10.25.22:668][766]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-10.25.52:026][346]Cmd: TRANSACTION UNDO
+[2020.07.01-10.25.52:027][346]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-10.27.20:875][757]Cmd: TRANSACTION UNDO
+[2020.07.01-10.27.20:875][757]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-10.27.23:752][975]Cmd: TRANSACTION UNDO
+[2020.07.01-10.27.23:752][975]LogEditorTransaction: Undo Editar Mín.
+[2020.07.01-10.27.34:148][905]Cmd: TRANSACTION UNDO
+[2020.07.01-10.27.34:148][905]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-10.27.42:914][567]Cmd: TRANSACTION UNDO
+[2020.07.01-10.27.42:914][567]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-10.28.25:367][245]Cmd: TRANSACTION UNDO
+[2020.07.01-10.28.25:367][245]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-10.28.46:235][120]Cmd: TRANSACTION UNDO
+[2020.07.01-10.28.46:235][120]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-10.29.12:146][476]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.07.01-10.29.18:383][114]Cmd: TRANSACTION UNDO
+[2020.07.01-10.29.18:383][114]LogEditorTransaction: Undo Edición del terreno: Esculpir
+[2020.07.01-10.29.53:341][699]Cmd: TRANSACTION UNDO
+[2020.07.01-10.29.53:341][699]LogEditorTransaction: Undo Edición del terreno: Esculpir
+[2020.07.01-10.29.53:375][699]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.07.01-10.29.59:297][267]Cmd: TRANSACTION UNDO
+[2020.07.01-10.29.59:297][267]LogEditorTransaction: Undo Edición del terreno: Esculpir
+[2020.07.01-10.30.54:721][471]Cmd: TRANSACTION UNDO
+[2020.07.01-10.30.54:721][471]LogEditorTransaction: Undo Edición del terreno: Allanar
+[2020.07.01-10.30.54:754][471]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.07.01-10.32.05:704][876]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.07.01-10.32.09:727][274]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.07.01-10.32.13:640][642]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.01-10.32.13:659][642]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.01-10.32.13:659][642]PIE: New page: Sesión PIE (reproducción en el editor): FirstPersonExampleMap (1 jul. 2020 14:32:13)
+[2020.07.01-10.32.13:659][642]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.07.01-10.32.13:740][642]LogPlayLevel: PIE: StaticDuplicateObject took: (0.080187s)
+[2020.07.01-10.32.13:741][642]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.07.01-10.32.13:741][642]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000203FFA79400), frame # 220642
+[2020.07.01-10.32.13:741][642]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000020433E9EFC0), frame # 220642
+[2020.07.01-10.32.13:741][642]LogPlayLevel: PIE: World Init took: (0.001642s)
+[2020.07.01-10.32.13:741][642]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.082056s)
+[2020.07.01-10.32.13:766][642]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.07.01-10.32.13:827][642]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.01-10.32.13:827][642]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.01-10.32.13:827][642]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.01-10.32.13:827][642]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.01-10.32.13:827][642]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.01-10.32.13:827][642]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.01-10.32.13:828][642]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.01-10.32.13:828][642]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.01-10.32.13:828][642]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.01-10.32.13:828][642]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.01-10.32.13:831][642]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.01-10.32.13:831][642]LogAudioMixer: Display: 1: FrontRight
+[2020.07.01-10.32.13:850][642]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.07.01-10.32.13:850][642]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.01-10.32.13:850][642]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.01-10.32.13:850][642]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.01-10.32.13:851][642]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.01-10.32.13:861][642]LogInit: FAudioDevice initialized.
+[2020.07.01-10.32.13:871][642]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.07.01-10.32.13:897][642]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.07.01-12.32.13
+[2020.07.01-10.32.13:898][642]LogWorld: Bringing up level for play took: 0.026151
+[2020.07.01-10.32.13:898][642]LogOnline: OSS: Creating online subsystem instance for: :Context_51
+[2020.07.01-10.32.13:902][642]PIE: El servidor ha iniciado la sesión
+[2020.07.01-10.32.13:903][642]PIE: Play in editor total start time 0,244 seconds.
+[2020.07.01-10.32.20:262][248]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.01-10.32.20:262][248]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.07.01-10.32.20:263][248]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-10.32.20:269][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-10.32.20:274][248]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.01-10.32.20:279][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-10.32.20:312][248]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.01-10.32.20:323][248]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000203FFA79400), frame # 221248
+[2020.07.01-10.32.20:323][248]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000020433E9EFC0), frame # 221248
+[2020.07.01-10.32.20:325][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.07.01-10.32.20:363][249]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2020.07.01-10.33.04:277][143]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/PN_Pandanus/Meshes/pandanus/big/bigplant_01.bigplant_01
+[2020.07.01-10.33.04:435][143]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-10.33.04:435][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-10.33.36:106][ 10]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/PN_Banana/Meshes/plants/banana_02_06.banana_02_06
+[2020.07.01-10.33.36:241][ 10]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-10.33.36:241][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-10.34.15:376][808]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/PN_Pandanus/Meshes/pandanus/big/bigplant_02.bigplant_02
+[2020.07.01-10.34.15:541][808]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-10.34.15:541][808]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-10.34.29:404][354]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/PN_Pandanus/Meshes/pandanus/big/bigplant_07.bigplant_07
+[2020.07.01-10.34.29:547][354]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-10.34.29:547][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-10.34.55:412][227]LogSlate: Window 'bigplant_07' being destroyed
+[2020.07.01-10.34.55:464][227]LogSlate: Window 'bigplant_07' being destroyed
+[2020.07.01-10.34.55:482][227]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-10.34.55:482][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-10.34.55:588][227]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-10.34.55:588][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-10.34.55:696][227]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-10.34.55:696][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-10.34.55:797][227]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-10.34.55:797][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-10.34.59:231][423]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/PN_Banana/Meshes/plants/banana_02_06.banana_02_06
+[2020.07.01-10.34.59:387][423]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-10.34.59:387][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-10.35.04:038][691]LogSlate: Window 'banana_02_06' being destroyed
+[2020.07.01-10.35.04:092][691]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-10.35.04:092][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-10.35.09:188][863]LogSlate: Window 'Choose Location for Foliage Type Asset' being destroyed
+[2020.07.01-10.35.12:995][ 81]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/PN_Pandanus/Meshes/pandanus/big/bigplant_04.bigplant_04
+[2020.07.01-10.35.13:158][ 81]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-10.35.13:158][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-10.35.25:147][760]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/PN_Pandanus/Meshes/pandanus/big/bigplant_03.bigplant_03
+[2020.07.01-10.35.25:283][760]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-10.35.25:283][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-10.35.46:379][786]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.01-10.35.46:398][786]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.01-10.35.46:398][786]PIE: New page: Sesión PIE (reproducción en el editor): FirstPersonExampleMap (1 jul. 2020 14:35:46)
+[2020.07.01-10.35.46:398][786]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.07.01-10.35.46:478][786]LogPlayLevel: PIE: StaticDuplicateObject took: (0.080080s)
+[2020.07.01-10.35.46:479][786]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.07.01-10.35.46:479][786]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000204909E6000), frame # 231786
+[2020.07.01-10.35.46:479][786]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000204BC097D80), frame # 231786
+[2020.07.01-10.35.46:479][786]LogPlayLevel: PIE: World Init took: (0.001209s)
+[2020.07.01-10.35.46:479][786]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.081497s)
+[2020.07.01-10.35.46:507][786]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.07.01-10.35.46:540][786]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.01-10.35.46:540][786]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.01-10.35.46:540][786]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.01-10.35.46:540][786]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.01-10.35.46:540][786]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.01-10.35.46:540][786]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.01-10.35.46:540][786]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.01-10.35.46:540][786]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.01-10.35.46:541][786]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.01-10.35.46:541][786]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.01-10.35.46:543][786]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.01-10.35.46:543][786]LogAudioMixer: Display: 1: FrontRight
+[2020.07.01-10.35.46:562][786]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.07.01-10.35.46:562][786]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.01-10.35.46:562][786]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.01-10.35.46:562][786]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.01-10.35.46:562][786]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.01-10.35.46:572][786]LogInit: FAudioDevice initialized.
+[2020.07.01-10.35.46:579][786]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.07.01-10.35.46:605][786]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.07.01-12.35.46
+[2020.07.01-10.35.46:606][786]LogWorld: Bringing up level for play took: 0.025936
+[2020.07.01-10.35.46:606][786]LogOnline: OSS: Creating online subsystem instance for: :Context_66
+[2020.07.01-10.35.46:609][786]PIE: El servidor ha iniciado la sesión
+[2020.07.01-10.35.46:610][786]PIE: Play in editor total start time 0,213 seconds.
+[2020.07.01-10.36.14:591][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.01-10.36.14:591][973]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.07.01-10.36.14:592][973]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-10.36.14:598][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-10.36.14:608][973]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.01-10.36.14:614][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-10.36.14:648][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.01-10.36.14:653][973]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000204909E6000), frame # 234973
+[2020.07.01-10.36.14:653][973]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000204BC097D80), frame # 234973
+[2020.07.01-10.36.14:655][973]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.07.01-10.36.14:702][974]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2020.07.01-10.37.54:109][600]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.01-10.37.54:129][600]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.01-10.37.54:129][600]PIE: New page: Sesión PIE (reproducción en el editor): FirstPersonExampleMap (1 jul. 2020 14:37:54)
+[2020.07.01-10.37.54:129][600]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.07.01-10.37.54:208][600]LogPlayLevel: PIE: StaticDuplicateObject took: (0.079618s)
+[2020.07.01-10.37.54:209][600]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.07.01-10.37.54:209][600]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000204A7BF1C00), frame # 239600
+[2020.07.01-10.37.54:209][600]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000204A0BDEC00), frame # 239600
+[2020.07.01-10.37.54:210][600]LogPlayLevel: PIE: World Init took: (0.001303s)
+[2020.07.01-10.37.54:210][600]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.081199s)
+[2020.07.01-10.37.54:228][600]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.07.01-10.37.54:244][600]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.01-10.37.54:245][600]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.01-10.37.54:245][600]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.01-10.37.54:245][600]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.01-10.37.54:245][600]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.01-10.37.54:245][600]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.01-10.37.54:245][600]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.01-10.37.54:245][600]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.01-10.37.54:245][600]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.01-10.37.54:245][600]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.01-10.37.54:247][600]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.01-10.37.54:247][600]LogAudioMixer: Display: 1: FrontRight
+[2020.07.01-10.37.54:265][600]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.07.01-10.37.54:266][600]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.01-10.37.54:266][600]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.01-10.37.54:266][600]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.01-10.37.54:266][600]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.01-10.37.54:277][600]LogInit: FAudioDevice initialized.
+[2020.07.01-10.37.54:284][600]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.07.01-10.37.54:309][600]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.07.01-12.37.54
+[2020.07.01-10.37.54:310][600]LogWorld: Bringing up level for play took: 0.025469
+[2020.07.01-10.37.54:310][600]LogOnline: OSS: Creating online subsystem instance for: :Context_67
+[2020.07.01-10.37.54:313][600]PIE: El servidor ha iniciado la sesión
+[2020.07.01-10.37.54:315][600]PIE: Play in editor total start time 0,187 seconds.
+[2020.07.01-10.38.07:272][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.01-10.38.07:272][  8]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.07.01-10.38.07:273][  8]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-10.38.07:279][  8]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-10.38.07:288][  8]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.01-10.38.07:293][  8]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-10.38.07:314][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.01-10.38.07:330][  8]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000204A0BDEC00), frame # 241008
+[2020.07.01-10.38.07:330][  8]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000204A7BF1C00), frame # 241008
+[2020.07.01-10.38.07:335][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.07.01-10.38.07:384][  9]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2020.07.01-10.38.11:483][225]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2020.07.01-10.38.12:129][261]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concrete_block_wall_without_proxy_concrete_block_wall_large_messy8)
+[2020.07.01-10.38.14:045][341]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Synthetic/Concrete/Pack1/concrete_block_wall_without_proxy_concrete_block_wall_large_messy.concrete_block_wall_without_proxy_concrete_block_wall_large_messy
+[2020.07.01-10.38.14:174][341]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-10.38.14:174][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-10.38.19:538][556]LogSlate: Window 'concrete_block_wall_without_proxy_concrete_block_wall_large_messy' being destroyed
+[2020.07.01-10.38.19:587][556]LogSlate: Window 'concrete_block_wall_without_proxy_concrete_block_wall_large_messy' being destroyed
+[2020.07.01-10.38.19:604][556]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-10.38.19:604][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-10.38.19:709][556]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-10.38.19:709][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-10.38.19:817][556]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-10.38.19:817][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-10.38.49:814][687]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Path_Single7)
+[2020.07.01-10.39.33:131][231]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Medium8)
+[2020.07.01-10.40.12:772][441]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Medium8)
+[2020.07.01-10.40.37:259][118]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Small20)
+[2020.07.01-10.40.38:057][160]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Path_Single12)
+[2020.07.01-10.40.47:625][773]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Small20)
+[2020.07.01-10.41.06:796][160]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Medium17)
+[2020.07.01-10.41.09:591][402]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Large01_REDO9)
+[2020.07.01-10.41.12:105][615]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Medium18)
+[2020.07.01-10.41.27:618][916]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Small20)
+[2020.07.01-10.41.30:529][184]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.07.01-10.41.33:482][379]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Path_Single12)
+[2020.07.01-10.41.40:543][948]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater)
+[2020.07.01-10.41.42:816][128]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Path_Single12)
+[2020.07.01-10.41.49:536][676]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.07.01-10.41.59:276][505]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Path_Single8)
+[2020.07.01-10.42.02:806][842]Cmd: TRANSACTION UNDO
+[2020.07.01-10.42.02:806][842]LogEditorTransaction: Undo Scale Actors
+[2020.07.01-10.42.07:468][256]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Path_Single11)
+[2020.07.01-10.42.15:427][  2]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater)
+[2020.07.01-10.42.16:632][101]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Path_Single11)
+[2020.07.01-10.42.24:263][786]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.07.01-10.42.29:661][253]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Path_Single11)
+[2020.07.01-10.42.36:489][933]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Path_Single8)
+[2020.07.01-10.42.37:913][ 79]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Path_Single8)
+[2020.07.01-10.42.43:345][621]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.01-10.42.57:364][696]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Path_Single11)
+[2020.07.01-10.43.08:886][537]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Path_Single8)
+[2020.07.01-10.43.17:664][449]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (0_defaultMaterial5)
+[2020.07.01-10.43.44:918][708]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.07.01-10.43.54:823][658]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.07.01-10.44.00:983][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.07.01-10.44.01:073][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.07.01-10.44.01:122][ 40]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.07.01-10.44.01:427][ 40]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMap835692494635D02F0EABDEB2784D5321.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.07.01-10.44.01:467][ 40]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.416
+[2020.07.01-10.44.02:538][ 40]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMap_BuiltData123A11A64DE5A4F6BCCDFF8A53570DA2.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.07.01-10.44.02:567][ 40]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.01-10.44.02:567][ 40]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.07.01-10.44.02:567][ 40]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.07.01-10.44.45:722][244]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.01-10.44.45:740][244]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.01-10.44.45:740][244]PIE: New page: Sesión PIE (reproducción en el editor): FirstPersonExampleMap (1 jul. 2020 14:44:45)
+[2020.07.01-10.44.45:740][244]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.07.01-10.44.45:817][244]LogPlayLevel: PIE: StaticDuplicateObject took: (0.077719s)
+[2020.07.01-10.44.45:818][244]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.07.01-10.44.45:818][244]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020402322A00), frame # 271244
+[2020.07.01-10.44.45:818][244]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002031764AD40), frame # 271244
+[2020.07.01-10.44.45:819][244]LogPlayLevel: PIE: World Init took: (0.001298s)
+[2020.07.01-10.44.45:819][244]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.079320s)
+[2020.07.01-10.44.45:838][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.07.01-10.44.45:850][244]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.01-10.44.45:850][244]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.01-10.44.45:850][244]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.01-10.44.45:850][244]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.01-10.44.45:850][244]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.01-10.44.45:850][244]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.01-10.44.45:850][244]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.01-10.44.45:850][244]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.01-10.44.45:850][244]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.01-10.44.45:850][244]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.01-10.44.45:853][244]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.01-10.44.45:853][244]LogAudioMixer: Display: 1: FrontRight
+[2020.07.01-10.44.45:871][244]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.07.01-10.44.45:872][244]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.01-10.44.45:872][244]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.01-10.44.45:872][244]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.01-10.44.45:872][244]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.01-10.44.45:882][244]LogInit: FAudioDevice initialized.
+[2020.07.01-10.44.45:895][244]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.07.01-10.44.45:922][244]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.07.01-12.44.45
+[2020.07.01-10.44.45:922][244]LogWorld: Bringing up level for play took: 0.026363
+[2020.07.01-10.44.45:922][244]LogOnline: OSS: Creating online subsystem instance for: :Context_70
+[2020.07.01-10.44.45:926][244]PIE: El servidor ha iniciado la sesión
+[2020.07.01-10.44.45:926][244]PIE: Play in editor total start time 0,188 seconds.
+[2020.07.01-10.45.32:462][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.01-10.45.32:462][ 66]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.07.01-10.45.32:463][ 66]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-10.45.32:468][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-10.45.32:475][ 66]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.01-10.45.32:480][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-10.45.32:501][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.01-10.45.32:517][ 66]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002031764AD40), frame # 276066
+[2020.07.01-10.45.32:517][ 66]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000020402322A00), frame # 276066
+[2020.07.01-10.45.32:522][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.07.01-10.45.32:573][ 67]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2020.07.01-10.45.34:528][266]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.01-10.45.49:072][689]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.07.01-10.46.00:387][840]LogEditorViewport: Clicking Background
+[2020.07.01-10.46.35:447][653]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Path_Single12)
+[2020.07.01-10.46.54:838][118]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.01-10.47.05:057][861]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Path_Single13)
+[2020.07.01-10.47.07:133][998]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_RockFlatPile4)
+[2020.07.01-10.47.38:212][129]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.01-10.47.38:745][163]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.01-10.47.58:387][522]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Medium5)
+[2020.07.01-10.48.03:110][914]Cmd: TRANSACTION UNDO
+[2020.07.01-10.48.03:110][914]LogEditorTransaction: Undo Move Actors
+[2020.07.01-10.48.24:198][644]Cmd: TRANSACTION UNDO
+[2020.07.01-10.48.24:198][644]LogEditorTransaction: Undo Scale Actors
+[2020.07.01-10.48.41:626][ 59]Cmd: TRANSACTION UNDO
+[2020.07.01-10.48.41:626][ 59]LogEditorTransaction: Undo Rotate Actors
+[2020.07.01-10.48.46:013][367]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.01-10.49.12:235][536]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rocks_Stalactite_10)
+[2020.07.01-10.49.46:180][209]Cmd: DELETE
+[2020.07.01-10.49.46:181][209]Cmd: ACTOR DELETE
+[2020.07.01-10.49.46:205][209]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.01-10.49.46:226][209]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.07.01-10.49.46:258][209]LogEditorActor: Deleted 1 Actors (0.078 secs)
+[2020.07.01-10.50.02:543][483]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Medium4)
+[2020.07.01-10.50.23:601][135]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.01-10.50.42:470][614]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_RockFlats_Boulder_Alone2)
+[2020.07.01-10.50.45:373][889]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Medium2)
+[2020.07.01-10.51.05:918][805]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Medium21)
+[2020.07.01-10.51.15:670][695]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.01-10.51.24:179][270]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Medium21)
+[2020.07.01-10.51.34:043][140]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (0_defaultMaterial10)
+[2020.07.01-10.51.46:829][237]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater)
+[2020.07.01-10.51.49:940][411]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater)
+[2020.07.01-10.51.50:728][466]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.01-10.52.03:432][287]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.07.01-10.53.26:289][205]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Small3)
+[2020.07.01-10.53.33:388][584]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.07.01-10.53.40:773][252]Cmd: TRANSACTION UNDO
+[2020.07.01-10.53.40:773][252]LogEditorTransaction: Undo Scale Actors
+[2020.07.01-10.54.04:348][127]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater)
+[2020.07.01-10.54.16:665][834]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater)
+[2020.07.01-10.54.17:830][893]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Small5)
+[2020.07.01-10.54.30:260][534]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater)
+[2020.07.01-10.54.36:742][894]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater)
+[2020.07.01-10.54.38:249][  1]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater)
+[2020.07.01-10.54.38:978][ 50]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater)
+[2020.07.01-10.54.39:749][102]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater)
+[2020.07.01-10.54.44:378][507]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater)
+[2020.07.01-10.54.46:081][676]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Small22)
+[2020.07.01-10.54.52:409][188]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater)
+[2020.07.01-10.55.03:876][ 92]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (0_defaultMaterial10)
+[2020.07.01-10.55.20:653][446]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater)
+[2020.07.01-10.55.48:924][668]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Large8)
+[2020.07.01-10.56.00:952][642]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Path_Single11)
+[2020.07.01-10.56.13:293][710]Cmd: TRANSACTION UNDO
+[2020.07.01-10.56.13:293][710]LogEditorTransaction: Undo Scale Actors
+[2020.07.01-10.56.15:482][873]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Path_Single8)
+[2020.07.01-10.56.25:857][778]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater)
+[2020.07.01-10.56.46:978][159]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Large6)
+[2020.07.01-10.57.10:666][829]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.01-10.57.12:978][983]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Large9)
+[2020.07.01-10.57.15:132][132]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.01-10.57.23:021][640]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Large3)
+[2020.07.01-10.57.23:789][699]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Medium12)
+[2020.07.01-10.57.27:467][975]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Small8)
+[2020.07.01-10.57.48:363][447]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Small23)
+[2020.07.01-10.57.51:790][701]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2020.07.01-10.57.52:567][757]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2020.07.01-10.57.54:940][921]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Small24)
+[2020.07.01-10.58.17:326][426]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Small24)
+[2020.07.01-10.58.23:162][729]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.01-10.58.30:219][152]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.01-10.58.32:025][280]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (0_defaultMaterial25)
+[2020.07.01-10.59.08:511][914]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (0_defaultMaterial25)
+[2020.07.01-10.59.13:006][285]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.01-10.59.19:373][654]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.01-10.59.19:973][690]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (0_defaultMaterial20)
+[2020.07.01-10.59.55:654][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.07.01-10.59.55:754][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.07.01-10.59.55:804][ 21]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.07.01-10.59.56:112][ 21]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMap8F147B014D19A319A9FEC3A258AD4996.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.07.01-10.59.56:154][ 21]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.419
+[2020.07.01-10.59.57:229][ 21]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMap_BuiltData5C8229994C8015CEBE1E29AC5A1FB661.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.07.01-10.59.57:260][ 21]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.01-10.59.57:260][ 21]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.07.01-10.59.57:260][ 21]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.07.01-11.00.55:204][226]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2_barbed_wire_03_-_Default_20)
+[2020.07.01-11.00.56:459][324]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Barrier_Large_Box41)
+[2020.07.01-11.00.57:385][397]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Barrier_Large_Box42)
+[2020.07.01-11.01.26:364][872]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.01-11.01.28:796][ 71]Cmd: TRANSACTION UNDO
+[2020.07.01-11.01.28:796][ 71]LogEditorTransaction: Undo Pinchar en los actores
+[2020.07.01-11.01.29:190][ 87]Cmd: TRANSACTION UNDO
+[2020.07.01-11.01.29:190][ 87]LogEditorTransaction: Undo Move Actors
+[2020.07.01-11.01.29:569][117]Cmd: TRANSACTION UNDO
+[2020.07.01-11.01.29:569][117]LogEditorTransaction: Undo Rotate Actors
+[2020.07.01-11.01.30:004][151]Cmd: TRANSACTION UNDO
+[2020.07.01-11.01.30:004][151]LogEditorTransaction: Undo Move Actors
+[2020.07.01-11.01.30:368][179]Cmd: TRANSACTION UNDO
+[2020.07.01-11.01.30:368][179]LogEditorTransaction: Undo Move Actors
+[2020.07.01-11.01.30:856][218]Cmd: TRANSACTION UNDO
+[2020.07.01-11.01.30:856][218]LogEditorTransaction: Undo Rotate Actors
+[2020.07.01-11.01.31:292][255]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (0_defaultMaterial6)
+[2020.07.01-11.01.48:117][612]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Synthetic/Towers/Watch_Tower/0_defaultMaterial.0_defaultMaterial
+[2020.07.01-11.01.48:266][612]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-11.01.48:266][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-11.02.00:705][445]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.01-11.02.05:170][668]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2_barbed_wire_03_-_Default_20)
+[2020.07.01-11.02.09:201][915]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2_barbed_wire_03_-_Default_20)
+[2020.07.01-11.02.17:711][570]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Barrier_Large_Box41)
+[2020.07.01-11.02.21:369][841]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Barrier_Large_Box42)
+[2020.07.01-11.02.54:962][266]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.01-11.02.56:589][382]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Barrier_Large_Box42)
+[2020.07.01-11.03.05:663][ 33]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (0_defaultMaterial6)
+[2020.07.01-11.03.19:973][  7]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.01-11.03.20:504][ 41]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.01-11.03.23:868][252]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2_barbed_wire_03_-_Default_20)
+[2020.07.01-11.03.27:127][470]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.01-11.03.28:221][536]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Barrier_Large_Box41)
+[2020.07.01-11.03.31:857][765]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.01-11.03.39:090][177]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Barrier_Large_Box42)
+[2020.07.01-11.03.46:761][691]Cmd: TRANSACTION UNDO
+[2020.07.01-11.03.46:761][691]LogEditorTransaction: Undo Move Actors
+[2020.07.01-11.04.01:870][739]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.01-11.04.04:121][899]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Barrier_Large_Box42)
+[2020.07.01-11.04.06:430][ 72]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.01-11.04.07:410][142]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.01-11.04.14:823][619]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (0_defaultMaterial6)
+[2020.07.01-11.04.25:375][344]Cmd: TRANSACTION UNDO
+[2020.07.01-11.04.25:375][344]LogEditorTransaction: Undo Rotate Actors
+[2020.07.01-11.04.32:929][817]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.01-11.04.40:009][249]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.01-11.04.41:054][312]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.01-11.04.53:608][194]Cmd: TRANSACTION UNDO
+[2020.07.01-11.04.53:608][194]LogEditorTransaction: Undo Edición del terreno: Esculpir
+[2020.07.01-11.07.54:167][394]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.07.01-11.09.22:047][840]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Barrier_Large_Box42)
+[2020.07.01-11.10.18:416][833]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.07.01-11.10.28:105][462]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Barrier_Large_Box42)
+[2020.07.01-11.10.36:218][ 65]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.01-11.10.36:865][109]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Barrier_Large_Box42)
+[2020.07.01-11.10.39:102][272]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Barrier_Large_Cylinder4)
+[2020.07.01-11.10.40:603][383]Cmd: DELETE
+[2020.07.01-11.10.40:603][383]Cmd: ACTOR DELETE
+[2020.07.01-11.10.40:627][383]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.01-11.10.40:648][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.07.01-11.10.40:701][383]LogEditorActor: Deleted 1 Actors (0.098 secs)
+[2020.07.01-11.10.42:013][489]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Barrier_Large_Cylinder5)
+[2020.07.01-11.10.42:810][541]Cmd: DELETE
+[2020.07.01-11.10.42:811][541]Cmd: ACTOR DELETE
+[2020.07.01-11.10.42:832][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.01-11.10.42:851][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.07.01-11.10.42:853][541]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2020.07.01-11.10.45:656][768]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Barrier_Large_Cylinder6)
+[2020.07.01-11.10.45:926][787]Cmd: DELETE
+[2020.07.01-11.10.45:926][787]Cmd: ACTOR DELETE
+[2020.07.01-11.10.45:948][787]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.01-11.10.45:965][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.07.01-11.10.45:967][787]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2020.07.01-11.10.46:499][830]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Barrier_Large_Box42)
+[2020.07.01-11.10.56:529][562]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.07.01-11.11.02:261][923]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Barrier_Large_Cylinder001)
+[2020.07.01-11.11.03:926][ 33]Cmd: DELETE
+[2020.07.01-11.11.03:927][ 33]Cmd: ACTOR DELETE
+[2020.07.01-11.11.03:950][ 33]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.01-11.11.03:968][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.07.01-11.11.03:973][ 33]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2020.07.01-11.11.04:481][ 76]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Barrier_Large_Cylinder2)
+[2020.07.01-11.11.04:759][ 94]Cmd: DELETE
+[2020.07.01-11.11.04:759][ 94]Cmd: ACTOR DELETE
+[2020.07.01-11.11.04:781][ 94]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.01-11.11.04:799][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.07.01-11.11.04:801][ 94]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2020.07.01-11.11.05:344][140]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Barrier_Large_Cylinder3)
+[2020.07.01-11.11.06:028][189]Cmd: DELETE
+[2020.07.01-11.11.06:029][189]Cmd: ACTOR DELETE
+[2020.07.01-11.11.06:050][189]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.01-11.11.06:068][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.07.01-11.11.06:070][189]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2020.07.01-11.11.06:813][252]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2_barbed_wire_03_-_Default_6)
+[2020.07.01-11.11.23:304][381]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Barrier_Large_Box14)
+[2020.07.01-11.11.23:970][424]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2_barbed_wire_03_-_Default_59)
+[2020.07.01-11.11.27:658][678]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (0_defaultMaterial)
+[2020.07.01-11.11.29:098][773]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2_barbed_wire_03_-_Default_59)
+[2020.07.01-11.11.33:141][ 39]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.01-11.11.35:172][169]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2_barbed_wire_03_-_Default_59)
+[2020.07.01-11.11.42:427][673]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Barrier_Large_Box15)
+[2020.07.01-11.11.45:304][862]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2_barbed_wire_03_-_Default_59)
+[2020.07.01-11.11.51:698][260]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.07.01-11.11.58:653][751]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.01-11.12.03:502][ 73]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.01-11.12.03:521][ 73]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.01-11.12.03:521][ 73]PIE: New page: Sesión PIE (reproducción en el editor): FirstPersonExampleMap (1 jul. 2020 15:12:03)
+[2020.07.01-11.12.03:550][ 73]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.07.01-11.12.03:631][ 73]LogPlayLevel: PIE: StaticDuplicateObject took: (0.080725s)
+[2020.07.01-11.12.03:632][ 73]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.07.01-11.12.03:632][ 73]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000204DD696000), frame # 383073
+[2020.07.01-11.12.03:632][ 73]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002031929E980), frame # 383073
+[2020.07.01-11.12.03:633][ 73]LogPlayLevel: PIE: World Init took: (0.001433s)
+[2020.07.01-11.12.03:633][ 73]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.082407s)
+[2020.07.01-11.12.03:651][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.07.01-11.12.03:662][ 73]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.01-11.12.03:662][ 73]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.01-11.12.03:662][ 73]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.01-11.12.03:662][ 73]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.01-11.12.03:662][ 73]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.01-11.12.03:662][ 73]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.01-11.12.03:662][ 73]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.01-11.12.03:662][ 73]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.01-11.12.03:662][ 73]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.01-11.12.03:662][ 73]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.01-11.12.03:665][ 73]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.01-11.12.03:665][ 73]LogAudioMixer: Display: 1: FrontRight
+[2020.07.01-11.12.03:683][ 73]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.07.01-11.12.03:683][ 73]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.01-11.12.03:683][ 73]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.01-11.12.03:683][ 73]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.01-11.12.03:684][ 73]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.01-11.12.03:694][ 73]LogInit: FAudioDevice initialized.
+[2020.07.01-11.12.03:705][ 73]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.07.01-11.12.03:731][ 73]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.07.01-13.12.03
+[2020.07.01-11.12.03:732][ 73]LogWorld: Bringing up level for play took: 0.026136
+[2020.07.01-11.12.03:732][ 73]LogOnline: OSS: Creating online subsystem instance for: :Context_73
+[2020.07.01-11.12.03:735][ 73]PIE: El servidor ha iniciado la sesión
+[2020.07.01-11.12.03:736][ 73]PIE: Play in editor total start time 0,215 seconds.
+[2020.07.01-11.12.24:471][187]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.01-11.12.24:471][187]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.07.01-11.12.24:472][187]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-11.12.24:478][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-11.12.24:489][187]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.01-11.12.24:494][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-11.12.24:529][187]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.01-11.12.24:531][187]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002031929E980), frame # 385187
+[2020.07.01-11.12.24:531][187]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000204DD696000), frame # 385187
+[2020.07.01-11.12.24:536][187]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.07.01-11.12.24:588][188]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2020.07.01-11.12.28:385][435]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Small20)
+[2020.07.01-11.12.44:413][418]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.01-11.12.46:711][564]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.01-11.12.46:729][564]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.01-11.12.46:729][564]PIE: New page: Sesión PIE (reproducción en el editor): FirstPersonExampleMap (1 jul. 2020 15:12:46)
+[2020.07.01-11.12.46:729][564]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.07.01-11.12.46:810][564]LogPlayLevel: PIE: StaticDuplicateObject took: (0.080882s)
+[2020.07.01-11.12.46:811][564]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.07.01-11.12.46:811][564]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000204CB0F2000), frame # 386564
+[2020.07.01-11.12.46:811][564]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000203A3AB3600), frame # 386564
+[2020.07.01-11.12.46:811][564]LogPlayLevel: PIE: World Init took: (0.001237s)
+[2020.07.01-11.12.46:811][564]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.082332s)
+[2020.07.01-11.12.46:830][564]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.07.01-11.12.46:836][564]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.01-11.12.46:836][564]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.01-11.12.46:836][564]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.01-11.12.46:836][564]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.01-11.12.46:836][564]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.01-11.12.46:836][564]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.01-11.12.46:836][564]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.01-11.12.46:836][564]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.01-11.12.46:837][564]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.01-11.12.46:837][564]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.01-11.12.46:839][564]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.01-11.12.46:839][564]LogAudioMixer: Display: 1: FrontRight
+[2020.07.01-11.12.46:855][564]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.07.01-11.12.46:855][564]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.01-11.12.46:855][564]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.01-11.12.46:856][564]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.01-11.12.46:856][564]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.01-11.12.46:866][564]LogInit: FAudioDevice initialized.
+[2020.07.01-11.12.46:876][564]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.07.01-11.12.46:903][564]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.07.01-13.12.46
+[2020.07.01-11.12.46:904][564]LogWorld: Bringing up level for play took: 0.026779
+[2020.07.01-11.12.46:904][564]LogOnline: OSS: Creating online subsystem instance for: :Context_74
+[2020.07.01-11.12.46:907][564]PIE: El servidor ha iniciado la sesión
+[2020.07.01-11.12.46:908][564]PIE: Play in editor total start time 0,18 seconds.
+[2020.07.01-11.12.50:171][882]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.01-11.12.50:171][882]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.07.01-11.12.50:172][882]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-11.12.50:178][882]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-11.12.50:184][882]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.01-11.12.50:188][882]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-11.12.50:222][882]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.01-11.12.50:225][882]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000203A3AB3600), frame # 386882
+[2020.07.01-11.12.50:225][882]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000204CB0F2000), frame # 386882
+[2020.07.01-11.12.50:230][882]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.07.01-11.12.50:262][883]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2020.07.01-11.13.15:087][996]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.07.01-11.13.15:136][996]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.07.01-11.13.15:448][996]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMap_Auto3E5FD4CF84E9E0F529A858DAC2ED10164.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto3.umap'
+[2020.07.01-11.13.15:456][996]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.386
+[2020.07.01-11.13.15:456][996]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.386
+[2020.07.01-11.13.28:742][202]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.01-11.13.28:760][202]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.01-11.13.28:761][202]PIE: New page: Sesión PIE (reproducción en el editor): FirstPersonExampleMap (1 jul. 2020 15:13:28)
+[2020.07.01-11.13.28:761][202]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.07.01-11.13.28:841][202]LogPlayLevel: PIE: StaticDuplicateObject took: (0.080811s)
+[2020.07.01-11.13.28:842][202]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.07.01-11.13.28:842][202]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000203714BE400), frame # 387202
+[2020.07.01-11.13.28:842][202]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002039ACE7240), frame # 387202
+[2020.07.01-11.13.28:843][202]LogPlayLevel: PIE: World Init took: (0.001252s)
+[2020.07.01-11.13.28:843][202]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.082283s)
+[2020.07.01-11.13.28:861][202]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.07.01-11.13.28:864][202]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.01-11.13.28:864][202]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.01-11.13.28:864][202]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.01-11.13.28:864][202]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.01-11.13.28:864][202]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.01-11.13.28:864][202]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.01-11.13.28:864][202]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.01-11.13.28:864][202]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.01-11.13.28:865][202]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.01-11.13.28:865][202]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.01-11.13.28:867][202]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.01-11.13.28:867][202]LogAudioMixer: Display: 1: FrontRight
+[2020.07.01-11.13.28:884][202]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.07.01-11.13.28:884][202]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.01-11.13.28:884][202]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.01-11.13.28:884][202]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.01-11.13.28:885][202]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.01-11.13.28:895][202]LogInit: FAudioDevice initialized.
+[2020.07.01-11.13.28:904][202]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.07.01-11.13.28:931][202]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.07.01-13.13.28
+[2020.07.01-11.13.28:932][202]LogWorld: Bringing up level for play took: 0.027356
+[2020.07.01-11.13.28:932][202]LogOnline: OSS: Creating online subsystem instance for: :Context_75
+[2020.07.01-11.13.28:935][202]PIE: El servidor ha iniciado la sesión
+[2020.07.01-11.13.28:936][202]PIE: Play in editor total start time 0,176 seconds.
+[2020.07.01-11.14.08:171][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.01-11.14.08:171][384]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.07.01-11.14.08:172][384]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-11.14.08:178][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-11.14.08:190][384]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.01-11.14.08:195][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-11.14.08:212][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.01-11.14.08:232][384]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002039ACE7240), frame # 391384
+[2020.07.01-11.14.08:232][384]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000203714BE400), frame # 391384
+[2020.07.01-11.14.08:237][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.07.01-11.14.08:284][385]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2020.07.01-11.14.10:458][526]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2020.07.01-11.18.33:885][523]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2020.07.01-11.18.34:442][564]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (0_scene_mesh_2)
+[2020.07.01-11.18.35:723][645]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Creatures/Fish/Model_62A_-_Shortfin_Mako_Shark/0_scene_mesh_.0_scene_mesh_
+[2020.07.01-11.18.35:860][645]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-11.18.35:861][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-11.18.40:770][919]LogSlate: Window '0_scene_mesh_' being destroyed
+[2020.07.01-11.18.40:805][919]LogSlate: Window '0_scene_mesh_' being destroyed
+[2020.07.01-11.18.40:822][919]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-11.18.40:822][919]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-11.18.40:988][919]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-11.18.40:988][919]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-11.18.44:456][192]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.01-11.19.05:574][461]Cmd: TRANSACTION UNDO
+[2020.07.01-11.19.05:574][461]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.19.13:931][ 56]Cmd: TRANSACTION UNDO
+[2020.07.01-11.19.13:931][ 56]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.20.18:579][985]Cmd: TRANSACTION UNDO
+[2020.07.01-11.20.18:579][985]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.20.40:983][158]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 3
+[2020.07.01-11.20.41:507][186]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 3
+[2020.07.01-11.20.41:964][204]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 3
+[2020.07.01-11.20.46:090][482]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.07.01-11.20.54:422][ 28]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2020.07.01-11.20.55:474][ 96]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2020.07.01-11.20.56:730][181]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.07.01-11.21.14:115][296]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2020.07.01-11.21.26:014][ 20]Cmd: TRANSACTION UNDO
+[2020.07.01-11.21.26:014][ 20]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.21.29:345][193]Cmd: TRANSACTION UNDO
+[2020.07.01-11.21.29:345][193]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.21.30:282][232]Cmd: TRANSACTION UNDO
+[2020.07.01-11.21.30:282][232]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.21.30:851][263]Cmd: TRANSACTION UNDO
+[2020.07.01-11.21.30:851][263]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.21.35:571][495]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2020.07.01-11.21.35:673][495]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.07.01-11.21.36:025][495]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMap62FC388C4999D3F6A751C79B1D7E0FA7.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.07.01-11.21.36:065][495]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.412
+[2020.07.01-11.21.37:135][495]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMap_BuiltDataE87FE66641E0BC3C0C7552839B423147.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.07.01-11.21.37:166][495]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.01-11.21.37:166][495]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.07.01-11.21.37:166][495]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.07.01-11.23.51:816][831]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2020.07.01-11.23.54:025][963]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Small14)
+[2020.07.01-11.23.58:563][226]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Medium9)
+[2020.07.01-11.24.08:726][736]Cmd: TRANSACTION UNDO
+[2020.07.01-11.24.08:726][736]LogEditorTransaction: Undo Move Actors
+[2020.07.01-11.24.10:913][838]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Large01_REDO6)
+[2020.07.01-11.24.25:597][558]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.07.01-11.24.50:624][198]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Path_Single12)
+[2020.07.01-11.24.53:527][394]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Large5)
+[2020.07.01-11.25.08:902][357]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Path_Single12)
+[2020.07.01-11.25.31:797][ 47]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater)
+[2020.07.01-11.25.42:309][676]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.07.01-11.25.42:375][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.07.01-11.25.42:714][676]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMapDEFFA63D47E893E286C66A8355DEE787.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.07.01-11.25.42:751][676]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.395
+[2020.07.01-11.25.43:765][676]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMap_BuiltData35BD41F945178E05E549938E1B2A4826.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.07.01-11.25.43:796][676]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.01-11.25.43:797][676]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.07.01-11.25.43:797][676]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.07.01-11.28.11:591][675]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Large10)
+[2020.07.01-11.28.20:179][344]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.01-11.28.29:531][ 17]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Small26)
+[2020.07.01-11.28.47:846][335]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.01-11.28.53:224][736]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Small26)
+[2020.07.01-11.28.56:325][975]Cmd: TRANSACTION UNDO
+[2020.07.01-11.28.56:325][975]LogEditorTransaction: Undo Scale Actors
+[2020.07.01-11.29.00:948][316]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.01-11.29.38:068][168]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.01-11.29.41:796][435]LogEditorViewport: Clicking on Actor (context menu): BP_TranslucentWater_C (BP_TranslucentWater)
+[2020.07.01-11.29.49:512][927]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.07.01-11.30.31:409][392]Cmd: TRANSACTION UNDO
+[2020.07.01-11.30.31:409][392]LogEditorTransaction: Undo Edición del terreno: Esculpir
+[2020.07.01-11.30.31:450][392]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.07.01-11.31.44:353][795]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Small20)
+[2020.07.01-11.31.46:355][931]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Large8)
+[2020.07.01-11.31.46:905][964]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Large10)
+[2020.07.01-11.31.47:836][ 25]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Small14)
+[2020.07.01-11.32.01:622][888]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater)
+[2020.07.01-11.32.11:225][529]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Medium16)
+[2020.07.01-11.32.30:972][848]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater)
+[2020.07.01-11.32.35:190][ 78]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Medium23)
+[2020.07.01-11.32.48:630][938]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater)
+[2020.07.01-11.32.57:709][423]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Small14)
+[2020.07.01-11.33.32:610][824]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.01-11.33.37:871][232]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Small28)
+[2020.07.01-11.33.39:437][333]Cmd: DELETE
+[2020.07.01-11.33.39:438][333]Cmd: ACTOR DELETE
+[2020.07.01-11.33.39:460][333]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.01-11.33.39:482][333]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.07.01-11.33.39:518][333]LogEditorActor: Deleted 1 Actors (0.081 secs)
+[2020.07.01-11.34.10:871][385]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.01-11.34.20:098][974]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.01-11.34.23:617][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.07.01-11.34.23:671][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.07.01-11.34.23:718][208]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.07.01-11.34.24:027][208]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMap72700B07442AA902AEBE30B552D5BFDA.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.07.01-11.34.24:066][208]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.412
+[2020.07.01-11.34.25:137][208]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMap_BuiltData7FAFB7B44C2BF962F70FA3AD239C681A.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.07.01-11.34.25:172][208]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.01-11.34.25:172][208]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.07.01-11.34.25:172][208]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.07.01-11.34.30:268][588]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.07.01-11.35.28:693][241]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.01-11.35.28:711][241]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.01-11.35.28:711][241]PIE: New page: Sesión PIE (reproducción en el editor): FirstPersonExampleMap (1 jul. 2020 15:35:28)
+[2020.07.01-11.35.28:740][241]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.07.01-11.35.28:820][241]LogPlayLevel: PIE: StaticDuplicateObject took: (0.080674s)
+[2020.07.01-11.35.28:821][241]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.07.01-11.35.28:821][241]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020348FAD400), frame # 458241
+[2020.07.01-11.35.28:821][241]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000204A0BDF880), frame # 458241
+[2020.07.01-11.35.28:822][241]LogPlayLevel: PIE: World Init took: (0.001363s)
+[2020.07.01-11.35.28:822][241]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.082306s)
+[2020.07.01-11.35.28:841][241]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.07.01-11.35.28:857][241]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.01-11.35.28:857][241]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.01-11.35.28:857][241]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.01-11.35.28:857][241]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.01-11.35.28:857][241]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.01-11.35.28:857][241]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.01-11.35.28:857][241]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.01-11.35.28:857][241]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.01-11.35.28:857][241]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.01-11.35.28:857][241]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.01-11.35.28:860][241]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.01-11.35.28:860][241]LogAudioMixer: Display: 1: FrontRight
+[2020.07.01-11.35.28:879][241]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.07.01-11.35.28:879][241]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.01-11.35.28:879][241]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.01-11.35.28:879][241]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.01-11.35.28:879][241]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.01-11.35.28:890][241]LogInit: FAudioDevice initialized.
+[2020.07.01-11.35.28:898][241]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.07.01-11.35.28:925][241]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.07.01-13.35.28
+[2020.07.01-11.35.28:925][241]LogWorld: Bringing up level for play took: 0.026546
+[2020.07.01-11.35.28:925][241]LogOnline: OSS: Creating online subsystem instance for: :Context_78
+[2020.07.01-11.35.28:929][241]PIE: El servidor ha iniciado la sesión
+[2020.07.01-11.35.28:930][241]PIE: Play in editor total start time 0,22 seconds.
+[2020.07.01-11.35.42:871][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.01-11.35.42:871][452]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.07.01-11.35.42:872][452]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-11.35.42:878][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-11.35.42:888][452]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.01-11.35.42:893][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-11.35.42:925][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.01-11.35.42:927][452]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000204A0BDF880), frame # 459452
+[2020.07.01-11.35.42:927][452]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000020348FAD400), frame # 459452
+[2020.07.01-11.35.42:932][452]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.07.01-11.35.42:986][453]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2020.07.01-11.35.54:138][182]Cmd: TRANSACTION UNDO
+[2020.07.01-11.35.54:138][182]LogEditorTransaction: Undo Edición del terreno: Allanar
+[2020.07.01-11.35.54:179][182]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.07.01-11.36.19:106][796]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.01-11.36.19:126][796]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.01-11.36.19:126][796]PIE: New page: Sesión PIE (reproducción en el editor): FirstPersonExampleMap (1 jul. 2020 15:36:19)
+[2020.07.01-11.36.19:150][796]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.07.01-11.36.19:231][796]LogPlayLevel: PIE: StaticDuplicateObject took: (0.081399s)
+[2020.07.01-11.36.19:232][796]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.07.01-11.36.19:232][796]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020353171400), frame # 461796
+[2020.07.01-11.36.19:232][796]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002031929F740), frame # 461796
+[2020.07.01-11.36.19:232][796]LogPlayLevel: PIE: World Init took: (0.001382s)
+[2020.07.01-11.36.19:233][796]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.083051s)
+[2020.07.01-11.36.19:250][796]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.07.01-11.36.19:258][796]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.01-11.36.19:258][796]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.01-11.36.19:258][796]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.01-11.36.19:258][796]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.01-11.36.19:258][796]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.01-11.36.19:258][796]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.01-11.36.19:258][796]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.01-11.36.19:258][796]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.01-11.36.19:258][796]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.01-11.36.19:258][796]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.01-11.36.19:261][796]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.01-11.36.19:261][796]LogAudioMixer: Display: 1: FrontRight
+[2020.07.01-11.36.19:277][796]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.07.01-11.36.19:277][796]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.01-11.36.19:278][796]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.01-11.36.19:278][796]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.01-11.36.19:278][796]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.01-11.36.19:288][796]LogInit: FAudioDevice initialized.
+[2020.07.01-11.36.19:298][796]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.07.01-11.36.19:324][796]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.07.01-13.36.19
+[2020.07.01-11.36.19:325][796]LogWorld: Bringing up level for play took: 0.026496
+[2020.07.01-11.36.19:325][796]LogOnline: OSS: Creating online subsystem instance for: :Context_79
+[2020.07.01-11.36.19:328][796]PIE: El servidor ha iniciado la sesión
+[2020.07.01-11.36.19:329][796]PIE: Play in editor total start time 0,203 seconds.
+[2020.07.01-11.36.40:831][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.01-11.36.40:831][634]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.07.01-11.36.40:832][634]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-11.36.40:838][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-11.36.40:845][634]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.01-11.36.40:850][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-11.36.40:883][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.01-11.36.40:885][634]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002031929F740), frame # 463634
+[2020.07.01-11.36.40:885][634]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000020353171400), frame # 463634
+[2020.07.01-11.36.40:890][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.07.01-11.36.40:940][635]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2020.07.01-11.37.02:675][322]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.01-11.37.02:694][322]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.01-11.37.02:694][322]PIE: New page: Sesión PIE (reproducción en el editor): FirstPersonExampleMap (1 jul. 2020 15:37:02)
+[2020.07.01-11.37.02:730][322]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.07.01-11.37.02:811][322]LogPlayLevel: PIE: StaticDuplicateObject took: (0.081019s)
+[2020.07.01-11.37.02:812][322]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.07.01-11.37.02:812][322]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000204E8E17800), frame # 465322
+[2020.07.01-11.37.02:812][322]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002037AB1E840), frame # 465322
+[2020.07.01-11.37.02:812][322]LogPlayLevel: PIE: World Init took: (0.001308s)
+[2020.07.01-11.37.02:812][322]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.082575s)
+[2020.07.01-11.37.02:831][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.07.01-11.37.02:837][322]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.01-11.37.02:837][322]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.01-11.37.02:837][322]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.01-11.37.02:837][322]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.01-11.37.02:837][322]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.01-11.37.02:837][322]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.01-11.37.02:837][322]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.01-11.37.02:837][322]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.01-11.37.02:837][322]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.01-11.37.02:837][322]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.01-11.37.02:840][322]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.01-11.37.02:840][322]LogAudioMixer: Display: 1: FrontRight
+[2020.07.01-11.37.02:856][322]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.07.01-11.37.02:856][322]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.01-11.37.02:856][322]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.01-11.37.02:856][322]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.01-11.37.02:857][322]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.01-11.37.02:867][322]LogInit: FAudioDevice initialized.
+[2020.07.01-11.37.02:876][322]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.07.01-11.37.02:902][322]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.07.01-13.37.02
+[2020.07.01-11.37.02:902][322]LogWorld: Bringing up level for play took: 0.026170
+[2020.07.01-11.37.02:902][322]LogOnline: OSS: Creating online subsystem instance for: :Context_80
+[2020.07.01-11.37.02:906][322]PIE: El servidor ha iniciado la sesión
+[2020.07.01-11.37.02:907][322]PIE: Play in editor total start time 0,213 seconds.
+[2020.07.01-11.37.24:710][380]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.01-11.37.24:710][380]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.07.01-11.37.24:711][380]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-11.37.24:717][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-11.37.24:724][380]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.01-11.37.24:729][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-11.37.24:761][380]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.01-11.37.24:764][380]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002037AB1E840), frame # 467380
+[2020.07.01-11.37.24:764][380]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000204E8E17800), frame # 467380
+[2020.07.01-11.37.24:769][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.07.01-11.37.24:816][381]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2020.07.01-11.38.01:863][791]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.01-11.38.01:882][791]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.01-11.38.01:882][791]PIE: New page: Sesión PIE (reproducción en el editor): FirstPersonExampleMap (1 jul. 2020 15:38:01)
+[2020.07.01-11.38.01:909][791]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.07.01-11.38.01:988][791]LogPlayLevel: PIE: StaticDuplicateObject took: (0.078544s)
+[2020.07.01-11.38.01:989][791]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.07.01-11.38.01:989][791]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000204AD385800), frame # 469791
+[2020.07.01-11.38.01:989][791]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000203A20ED800), frame # 469791
+[2020.07.01-11.38.01:989][791]LogPlayLevel: PIE: World Init took: (0.001221s)
+[2020.07.01-11.38.01:989][791]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.080018s)
+[2020.07.01-11.38.02:007][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.07.01-11.38.02:017][791]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.01-11.38.02:017][791]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.01-11.38.02:017][791]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.01-11.38.02:017][791]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.01-11.38.02:017][791]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.01-11.38.02:017][791]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.01-11.38.02:017][791]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.01-11.38.02:017][791]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.01-11.38.02:017][791]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.01-11.38.02:017][791]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.01-11.38.02:020][791]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.01-11.38.02:020][791]LogAudioMixer: Display: 1: FrontRight
+[2020.07.01-11.38.02:036][791]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.07.01-11.38.02:037][791]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.01-11.38.02:037][791]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.01-11.38.02:037][791]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.01-11.38.02:037][791]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.01-11.38.02:048][791]LogInit: FAudioDevice initialized.
+[2020.07.01-11.38.02:060][791]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.07.01-11.38.02:087][791]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.07.01-13.38.02
+[2020.07.01-11.38.02:088][791]LogWorld: Bringing up level for play took: 0.026484
+[2020.07.01-11.38.02:088][791]LogOnline: OSS: Creating online subsystem instance for: :Context_81
+[2020.07.01-11.38.02:091][791]PIE: El servidor ha iniciado la sesión
+[2020.07.01-11.38.02:092][791]PIE: Play in editor total start time 0,21 seconds.
+[2020.07.01-11.38.24:251][709]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.01-11.38.24:251][709]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.07.01-11.38.24:252][709]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-11.38.24:257][709]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-11.38.24:266][709]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.01-11.38.24:271][709]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-11.38.24:306][709]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.01-11.38.24:308][709]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000203A20ED800), frame # 471709
+[2020.07.01-11.38.24:308][709]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000204AD385800), frame # 471709
+[2020.07.01-11.38.24:313][709]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.07.01-11.38.24:368][710]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2020.07.01-11.38.33:662][288]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rocks_Stalactite_5)
+[2020.07.01-11.38.58:587][668]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rocks_Stalactite_10)
+[2020.07.01-11.39.12:977][460]Cmd: TRANSACTION UNDO
+[2020.07.01-11.39.12:977][460]LogEditorTransaction: Undo Move Actors
+[2020.07.01-11.39.22:385][932]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater)
+[2020.07.01-11.39.34:631][569]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rocks_Stalactite_3)
+[2020.07.01-11.39.41:134][873]Cmd: TRANSACTION UNDO
+[2020.07.01-11.39.41:134][873]LogEditorTransaction: Undo Move Actors
+[2020.07.01-11.40.11:774][389]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater)
+[2020.07.01-11.40.13:002][446]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.01-11.40.13:023][446]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.01-11.40.13:023][446]PIE: New page: Sesión PIE (reproducción en el editor): FirstPersonExampleMap (1 jul. 2020 15:40:13)
+[2020.07.01-11.40.13:023][446]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.07.01-11.40.13:104][446]LogPlayLevel: PIE: StaticDuplicateObject took: (0.081112s)
+[2020.07.01-11.40.13:105][446]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.07.01-11.40.13:105][446]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002041A369800), frame # 477446
+[2020.07.01-11.40.13:105][446]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000203A47DAE80), frame # 477446
+[2020.07.01-11.40.13:105][446]LogPlayLevel: PIE: World Init took: (0.001281s)
+[2020.07.01-11.40.13:105][446]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.082609s)
+[2020.07.01-11.40.13:125][446]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.07.01-11.40.13:140][446]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.01-11.40.13:140][446]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.01-11.40.13:140][446]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.01-11.40.13:140][446]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.01-11.40.13:140][446]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.01-11.40.13:140][446]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.01-11.40.13:140][446]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.01-11.40.13:140][446]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.01-11.40.13:141][446]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.01-11.40.13:141][446]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.01-11.40.13:143][446]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.01-11.40.13:143][446]LogAudioMixer: Display: 1: FrontRight
+[2020.07.01-11.40.13:160][446]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.07.01-11.40.13:161][446]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.01-11.40.13:161][446]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.01-11.40.13:161][446]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.01-11.40.13:161][446]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.01-11.40.13:172][446]LogInit: FAudioDevice initialized.
+[2020.07.01-11.40.13:180][446]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.07.01-11.40.13:206][446]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.07.01-13.40.13
+[2020.07.01-11.40.13:207][446]LogWorld: Bringing up level for play took: 0.026262
+[2020.07.01-11.40.13:207][446]LogOnline: OSS: Creating online subsystem instance for: :Context_82
+[2020.07.01-11.40.13:211][446]PIE: El servidor ha iniciado la sesión
+[2020.07.01-11.40.13:212][446]PIE: Play in editor total start time 0,19 seconds.
+[2020.07.01-11.40.34:270][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.01-11.40.34:271][ 73]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.07.01-11.40.34:271][ 73]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-11.40.34:278][ 73]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-11.40.34:288][ 73]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.01-11.40.34:294][ 73]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-11.40.34:329][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.01-11.40.34:331][ 73]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000203A47DAE80), frame # 479073
+[2020.07.01-11.40.34:331][ 73]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002041A369800), frame # 479073
+[2020.07.01-11.40.34:336][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.07.01-11.40.34:381][ 74]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2020.07.01-11.40.37:399][240]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rocks_Stalactite_3)
+[2020.07.01-11.40.47:985][710]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 4
+[2020.07.01-11.40.58:850][257]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.01-11.41.07:364][641]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rocks_Stalactite_4)
+[2020.07.01-11.41.21:330][308]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rocks_Stalactite_4)
+[2020.07.01-11.41.22:516][362]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rocks_Stalactite_5)
+[2020.07.01-11.41.28:522][639]Cmd: TRANSACTION UNDO
+[2020.07.01-11.41.28:522][639]LogEditorTransaction: Undo Rotate Actors
+[2020.07.01-11.41.30:255][711]Cmd: TRANSACTION UNDO
+[2020.07.01-11.41.30:255][711]LogEditorTransaction: Undo Rotate Actors
+[2020.07.01-11.41.43:836][300]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rocks_Stalactite_02)
+[2020.07.01-11.41.47:514][443]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.01-11.41.47:534][443]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.01-11.41.47:534][443]PIE: New page: Sesión PIE (reproducción en el editor): FirstPersonExampleMap (1 jul. 2020 15:41:47)
+[2020.07.01-11.41.47:534][443]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.07.01-11.41.47:615][443]LogPlayLevel: PIE: StaticDuplicateObject took: (0.081571s)
+[2020.07.01-11.41.47:616][443]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.07.01-11.41.47:616][443]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000204DD695E00), frame # 482443
+[2020.07.01-11.41.47:616][443]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002045A967880), frame # 482443
+[2020.07.01-11.41.47:617][443]LogPlayLevel: PIE: World Init took: (0.001436s)
+[2020.07.01-11.41.47:617][443]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.083232s)
+[2020.07.01-11.41.47:635][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.07.01-11.41.47:647][443]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.01-11.41.47:647][443]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.01-11.41.47:647][443]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.01-11.41.47:647][443]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.01-11.41.47:647][443]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.01-11.41.47:647][443]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.01-11.41.47:647][443]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.01-11.41.47:647][443]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.01-11.41.47:647][443]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.01-11.41.47:647][443]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.01-11.41.47:649][443]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.01-11.41.47:649][443]LogAudioMixer: Display: 1: FrontRight
+[2020.07.01-11.41.47:667][443]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.07.01-11.41.47:667][443]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.01-11.41.47:667][443]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.01-11.41.47:667][443]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.01-11.41.47:668][443]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.01-11.41.47:678][443]LogInit: FAudioDevice initialized.
+[2020.07.01-11.41.47:690][443]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.07.01-11.41.47:718][443]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.07.01-13.41.47
+[2020.07.01-11.41.47:719][443]LogWorld: Bringing up level for play took: 0.027067
+[2020.07.01-11.41.47:719][443]LogOnline: OSS: Creating online subsystem instance for: :Context_83
+[2020.07.01-11.41.47:722][443]PIE: El servidor ha iniciado la sesión
+[2020.07.01-11.41.47:723][443]PIE: Play in editor total start time 0,189 seconds.
+[2020.07.01-11.41.49:320][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.01-11.41.49:320][571]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.07.01-11.41.49:321][571]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.01-11.41.49:328][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-11.41.49:333][571]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.01-11.41.49:338][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.01-11.41.49:370][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.01-11.41.49:373][571]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002045A967880), frame # 482571
+[2020.07.01-11.41.49:373][571]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000204DD695E00), frame # 482571
+[2020.07.01-11.41.49:378][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.07.01-11.41.49:428][572]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2020.07.01-11.42.07:519][848]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Small16)
+[2020.07.01-11.42.27:762][160]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Small16)
+[2020.07.01-11.42.28:450][211]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Medium14)
+[2020.07.01-11.42.37:555][855]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Small28)
+[2020.07.01-11.42.38:269][890]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Small16)
+[2020.07.01-11.42.46:957][425]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Small28)
+[2020.07.01-11.42.50:561][642]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Small16)
+[2020.07.01-11.42.54:846][900]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.01-11.43.03:763][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.07.01-11.43.03:823][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.07.01-11.43.03:869][303]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.07.01-11.43.04:176][303]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMapA6FA6C264CF582D9AB0A759AFF507F40.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.07.01-11.43.04:216][303]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.411
+[2020.07.01-11.43.05:278][303]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMap_BuiltData976AE6C146934171B0D0F6B7A9C7B013.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.07.01-11.43.05:314][303]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.01-11.43.05:314][303]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.07.01-11.43.05:314][303]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.07.01-11.43.11:114][552]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (0_defaultMaterial21)
+[2020.07.01-11.43.16:168][764]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.07.01-11.43.49:664][463]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.07.01-11.44.14:391][923]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.01-11.44.23:424][393]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (0_defaultMaterial24)
+[2020.07.01-11.44.37:839][175]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.01-11.44.39:463][240]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (0_defaultMaterial35)
+[2020.07.01-11.44.46:751][628]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.01-11.44.47:067][638]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.01-11.44.55:125][  5]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.07.01-11.44.55:194][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.07.01-11.44.55:536][  5]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMap24A38A3343AEF14113DBADB2FC1F5653.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.07.01-11.44.55:574][  5]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.399
+[2020.07.01-11.44.56:591][  5]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMap_BuiltData0606E6E54176E39EE34EDB9AE6370644.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.07.01-11.44.56:621][  5]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.01-11.44.56:622][  5]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.07.01-11.44.56:622][  5]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.07.01-11.45.24:283][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Small25)
+[2020.07.01-11.45.57:074][867]Cmd: TRANSACTION UNDO
+[2020.07.01-11.45.57:074][867]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.46.25:327][315]Cmd: TRANSACTION UNDO
+[2020.07.01-11.46.25:327][315]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.46.26:986][398]Cmd: TRANSACTION UNDO
+[2020.07.01-11.46.26:986][398]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.46.37:258][962]Cmd: TRANSACTION UNDO
+[2020.07.01-11.46.37:258][962]LogEditorTransaction: Undo Editar Density / 1Kuu
+[2020.07.01-11.47.27:535][157]Cmd: TRANSACTION UNDO
+[2020.07.01-11.47.27:535][157]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.47.30:800][391]Cmd: TRANSACTION UNDO
+[2020.07.01-11.47.30:800][391]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.47.42:265][322]Cmd: TRANSACTION UNDO
+[2020.07.01-11.47.42:265][322]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.47.55:351][278]Cmd: TRANSACTION UNDO
+[2020.07.01-11.47.55:351][278]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.48.02:887][749]Cmd: TRANSACTION UNDO
+[2020.07.01-11.48.02:887][749]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.48.13:823][447]Cmd: TRANSACTION UNDO
+[2020.07.01-11.48.13:823][447]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.48.15:590][542]Cmd: TRANSACTION UNDO
+[2020.07.01-11.48.15:590][542]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.48.52:719][375]Cmd: TRANSACTION UNDO
+[2020.07.01-11.48.52:719][375]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.48.55:783][543]Cmd: TRANSACTION UNDO
+[2020.07.01-11.48.55:783][543]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.48.56:846][595]Cmd: TRANSACTION UNDO
+[2020.07.01-11.48.56:846][595]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.48.58:018][664]Cmd: TRANSACTION UNDO
+[2020.07.01-11.48.58:018][664]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.49.05:150][ 68]Cmd: TRANSACTION UNDO
+[2020.07.01-11.49.05:150][ 68]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.49.07:212][170]Cmd: TRANSACTION UNDO
+[2020.07.01-11.49.07:212][170]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.49.11:629][411]Cmd: TRANSACTION UNDO
+[2020.07.01-11.49.11:629][411]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.49.12:460][453]Cmd: TRANSACTION UNDO
+[2020.07.01-11.49.12:460][453]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.49.13:080][491]Cmd: TRANSACTION UNDO
+[2020.07.01-11.49.13:080][491]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.49.25:298][306]Cmd: TRANSACTION UNDO
+[2020.07.01-11.49.25:298][306]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.49.32:633][766]Cmd: TRANSACTION UNDO
+[2020.07.01-11.49.32:633][766]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.49.36:131][928]Cmd: TRANSACTION UNDO
+[2020.07.01-11.49.36:131][928]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.49.44:788][351]Cmd: TRANSACTION UNDO
+[2020.07.01-11.49.44:788][351]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.49.46:700][456]Cmd: TRANSACTION UNDO
+[2020.07.01-11.49.46:700][456]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.49.55:615][893]Cmd: TRANSACTION UNDO
+[2020.07.01-11.49.55:615][893]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.49.57:530][999]Cmd: TRANSACTION UNDO
+[2020.07.01-11.49.57:530][999]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.49.58:652][ 58]Cmd: TRANSACTION UNDO
+[2020.07.01-11.49.58:652][ 58]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.50.03:904][366]Cmd: TRANSACTION UNDO
+[2020.07.01-11.50.03:904][366]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.50.04:783][410]Cmd: TRANSACTION UNDO
+[2020.07.01-11.50.04:783][410]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.50.06:792][554]Cmd: TRANSACTION UNDO
+[2020.07.01-11.50.06:792][554]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.50.07:824][628]Cmd: TRANSACTION UNDO
+[2020.07.01-11.50.07:824][628]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.50.30:029][979]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.07.01-11.50.45:727][874]Cmd: TRANSACTION UNDO
+[2020.07.01-11.50.45:727][874]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.50.50:242][152]Cmd: TRANSACTION UNDO
+[2020.07.01-11.50.50:242][152]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.50.57:607][588]Cmd: TRANSACTION UNDO
+[2020.07.01-11.50.57:607][588]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.51.28:487][ 51]Cmd: TRANSACTION UNDO
+[2020.07.01-11.51.28:487][ 51]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.52.08:955][ 12]Cmd: TRANSACTION UNDO
+[2020.07.01-11.52.08:955][ 12]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.52.10:324][ 96]Cmd: TRANSACTION UNDO
+[2020.07.01-11.52.10:324][ 96]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.52.17:093][576]Cmd: TRANSACTION UNDO
+[2020.07.01-11.52.17:093][576]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.52.18:778][687]Cmd: TRANSACTION UNDO
+[2020.07.01-11.52.18:778][687]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.52.28:509][309]Cmd: TRANSACTION UNDO
+[2020.07.01-11.52.28:509][309]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.52.31:126][479]Cmd: TRANSACTION UNDO
+[2020.07.01-11.52.31:126][479]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.52.37:243][880]Cmd: TRANSACTION UNDO
+[2020.07.01-11.52.37:243][880]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.52.38:248][935]Cmd: TRANSACTION UNDO
+[2020.07.01-11.52.38:248][935]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.52.40:519][100]Cmd: TRANSACTION UNDO
+[2020.07.01-11.52.40:519][100]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.52.42:053][211]Cmd: TRANSACTION UNDO
+[2020.07.01-11.52.42:053][211]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.52.43:003][277]Cmd: TRANSACTION UNDO
+[2020.07.01-11.52.43:003][277]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.52.52:807][773]Cmd: TRANSACTION UNDO
+[2020.07.01-11.52.52:807][773]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.53.09:923][738]Cmd: TRANSACTION UNDO
+[2020.07.01-11.53.09:923][738]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.53.11:264][805]Cmd: TRANSACTION UNDO
+[2020.07.01-11.53.11:264][805]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.53.36:073][ 16]Cmd: TRANSACTION UNDO
+[2020.07.01-11.53.36:073][ 16]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.53.37:122][ 62]Cmd: TRANSACTION UNDO
+[2020.07.01-11.53.37:122][ 62]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.53.43:140][365]Cmd: TRANSACTION UNDO
+[2020.07.01-11.53.43:140][365]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.53.46:193][525]Cmd: TRANSACTION UNDO
+[2020.07.01-11.53.46:193][525]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.53.46:534][534]Cmd: TRANSACTION UNDO
+[2020.07.01-11.53.46:534][534]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.53.47:766][599]Cmd: TRANSACTION UNDO
+[2020.07.01-11.53.47:766][599]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.53.53:966][ 53]Cmd: TRANSACTION UNDO
+[2020.07.01-11.53.53:966][ 53]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.53.56:310][163]Cmd: TRANSACTION UNDO
+[2020.07.01-11.53.56:310][163]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.53.57:571][221]Cmd: TRANSACTION UNDO
+[2020.07.01-11.53.57:571][221]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.53.58:746][284]Cmd: TRANSACTION UNDO
+[2020.07.01-11.53.58:746][284]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.54.00:090][357]Cmd: TRANSACTION UNDO
+[2020.07.01-11.54.00:090][357]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.54.09:370][857]Cmd: TRANSACTION UNDO
+[2020.07.01-11.54.09:370][857]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.54.17:223][351]Cmd: TRANSACTION UNDO
+[2020.07.01-11.54.17:223][351]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.54.18:055][391]Cmd: TRANSACTION UNDO
+[2020.07.01-11.54.18:055][391]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.54.19:403][481]Cmd: TRANSACTION UNDO
+[2020.07.01-11.54.19:404][481]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.54.20:313][538]Cmd: TRANSACTION UNDO
+[2020.07.01-11.54.20:313][538]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.54.31:452][453]Cmd: TRANSACTION UNDO
+[2020.07.01-11.54.31:452][453]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.54.32:756][523]Cmd: TRANSACTION UNDO
+[2020.07.01-11.54.32:756][523]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.54.34:738][658]Cmd: TRANSACTION UNDO
+[2020.07.01-11.54.34:738][658]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.54.35:996][741]Cmd: TRANSACTION UNDO
+[2020.07.01-11.54.35:996][741]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.54.46:529][459]Cmd: TRANSACTION UNDO
+[2020.07.01-11.54.46:529][459]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.54.55:494][ 15]Cmd: TRANSACTION UNDO
+[2020.07.01-11.54.55:494][ 15]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.54.58:216][184]Cmd: TRANSACTION UNDO
+[2020.07.01-11.54.58:216][184]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.54.59:286][255]Cmd: TRANSACTION UNDO
+[2020.07.01-11.54.59:286][255]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.55.00:117][307]Cmd: TRANSACTION UNDO
+[2020.07.01-11.55.00:117][307]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.55.08:391][757]Cmd: TRANSACTION UNDO
+[2020.07.01-11.55.08:391][757]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.55.09:622][819]Cmd: TRANSACTION UNDO
+[2020.07.01-11.55.09:622][819]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.55.10:635][857]Cmd: TRANSACTION UNDO
+[2020.07.01-11.55.10:635][857]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.55.12:107][928]Cmd: TRANSACTION UNDO
+[2020.07.01-11.55.12:107][928]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.55.20:802][214]Cmd: TRANSACTION UNDO
+[2020.07.01-11.55.20:802][214]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.55.34:052][583]LogD3D12RHI: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2020.07.01-11.55.34:052][583]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2020.07.01-11.55.34:366][587]Cmd: TRANSACTION UNDO
+[2020.07.01-11.55.34:366][587]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.55.35:658][611]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2020.07.01-11.55.41:443][882]Cmd: TRANSACTION UNDO
+[2020.07.01-11.55.41:443][882]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.56.15:474][448]Cmd: TRANSACTION UNDO
+[2020.07.01-11.56.15:475][448]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.56.53:079][763]Cmd: TRANSACTION UNDO
+[2020.07.01-11.56.53:079][763]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.56.54:260][804]Cmd: TRANSACTION UNDO
+[2020.07.01-11.56.54:261][804]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.56.55:379][850]Cmd: TRANSACTION UNDO
+[2020.07.01-11.56.55:379][850]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.57.01:644][117]Cmd: TRANSACTION UNDO
+[2020.07.01-11.57.01:644][117]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.57.02:852][164]Cmd: TRANSACTION UNDO
+[2020.07.01-11.57.02:852][164]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.57.39:479][763]Cmd: TRANSACTION UNDO
+[2020.07.01-11.57.39:479][763]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.58.03:155][391]Cmd: TRANSACTION UNDO
+[2020.07.01-11.58.03:155][391]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.58.06:005][473]Cmd: TRANSACTION UNDO
+[2020.07.01-11.58.06:006][473]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.58.12:984][672]Cmd: TRANSACTION UNDO
+[2020.07.01-11.58.12:985][672]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.58.25:024][128]Cmd: TRANSACTION UNDO
+[2020.07.01-11.58.25:025][128]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.58.43:032][583]Cmd: TRANSACTION UNDO
+[2020.07.01-11.58.43:032][583]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.58.48:560][703]Cmd: TRANSACTION UNDO
+[2020.07.01-11.58.48:560][703]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.58.51:266][753]Cmd: TRANSACTION UNDO
+[2020.07.01-11.58.51:266][753]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-11.59.58:676][121]Cmd: TRANSACTION UNDO
+[2020.07.01-11.59.58:676][121]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-12.00.05:389][258]Cmd: TRANSACTION UNDO
+[2020.07.01-12.00.05:389][258]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-12.00.06:636][278]Cmd: TRANSACTION UNDO
+[2020.07.01-12.00.06:636][278]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-12.00.07:674][298]Cmd: TRANSACTION UNDO
+[2020.07.01-12.00.07:674][298]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-12.00.27:730][677]Cmd: TRANSACTION UNDO
+[2020.07.01-12.00.27:730][677]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-12.00.34:036][810]Cmd: TRANSACTION UNDO
+[2020.07.01-12.00.34:036][810]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-12.00.35:575][835]Cmd: TRANSACTION UNDO
+[2020.07.01-12.00.35:575][835]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-12.00.36:893][860]Cmd: TRANSACTION UNDO
+[2020.07.01-12.00.36:893][860]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-12.00.40:436][930]Cmd: TRANSACTION UNDO
+[2020.07.01-12.00.40:436][930]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-12.00.42:507][965]Cmd: TRANSACTION UNDO
+[2020.07.01-12.00.42:507][965]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-12.00.42:864][973]Cmd: TRANSACTION UNDO
+[2020.07.01-12.00.42:864][973]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-12.01.36:046][ 69]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Small3)
+[2020.07.01-12.01.56:801][171]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Small01)
+[2020.07.01-12.02.19:053][462]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.01-12.02.40:703][506]Cmd: TRANSACTION UNDO
+[2020.07.01-12.02.40:703][506]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-12.02.42:097][587]Cmd: TRANSACTION UNDO
+[2020.07.01-12.02.42:097][587]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-12.02.50:166][ 54]Cmd: TRANSACTION UNDO
+[2020.07.01-12.02.50:166][ 54]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-12.02.50:612][ 70]Cmd: TRANSACTION UNDO
+[2020.07.01-12.02.50:612][ 70]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-12.02.51:633][139]Cmd: TRANSACTION UNDO
+[2020.07.01-12.02.51:633][139]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-12.02.52:896][235]Cmd: TRANSACTION UNDO
+[2020.07.01-12.02.52:896][235]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-12.02.53:751][292]Cmd: TRANSACTION UNDO
+[2020.07.01-12.02.53:751][292]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-12.02.54:575][349]Cmd: TRANSACTION UNDO
+[2020.07.01-12.02.54:575][349]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-12.02.55:349][403]Cmd: TRANSACTION UNDO
+[2020.07.01-12.02.55:349][403]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-12.02.59:426][641]Cmd: TRANSACTION UNDO
+[2020.07.01-12.02.59:426][641]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-12.03.00:362][689]Cmd: TRANSACTION UNDO
+[2020.07.01-12.03.00:362][689]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-12.03.58:131][645]Cmd: TRANSACTION UNDO
+[2020.07.01-12.03.58:131][645]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-12.03.59:817][693]Cmd: TRANSACTION UNDO
+[2020.07.01-12.03.59:817][693]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-12.04.00:220][706]Cmd: TRANSACTION UNDO
+[2020.07.01-12.04.00:220][706]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-12.04.00:997][731]Cmd: TRANSACTION UNDO
+[2020.07.01-12.04.00:997][731]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-12.04.02:844][808]Cmd: TRANSACTION UNDO
+[2020.07.01-12.04.02:844][808]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-12.04.06:654][  4]Cmd: TRANSACTION UNDO
+[2020.07.01-12.04.06:654][  4]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-12.04.07:349][ 27]Cmd: TRANSACTION UNDO
+[2020.07.01-12.04.07:349][ 27]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-12.05.01:094][770]Cmd: TRANSACTION UNDO
+[2020.07.01-12.05.01:094][770]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-12.05.19:532][638]Cmd: TRANSACTION UNDO
+[2020.07.01-12.05.19:532][638]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-12.05.20:810][712]Cmd: TRANSACTION UNDO
+[2020.07.01-12.05.20:810][712]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-12.05.30:092][338]Cmd: TRANSACTION UNDO
+[2020.07.01-12.05.30:092][338]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-12.05.31:709][445]Cmd: TRANSACTION UNDO
+[2020.07.01-12.05.31:709][445]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-12.05.32:007][461]Cmd: TRANSACTION UNDO
+[2020.07.01-12.05.32:007][461]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-12.05.48:026][149]Cmd: TRANSACTION UNDO
+[2020.07.01-12.05.48:026][149]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-12.06.09:095][842]Cmd: TRANSACTION UNDO
+[2020.07.01-12.06.09:096][842]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-12.06.11:133][959]Cmd: TRANSACTION UNDO
+[2020.07.01-12.06.11:133][959]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-12.06.22:920][497]Cmd: TRANSACTION UNDO
+[2020.07.01-12.06.22:921][497]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-12.06.23:234][502]Cmd: TRANSACTION UNDO
+[2020.07.01-12.06.23:234][502]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-12.06.23:594][510]Cmd: TRANSACTION UNDO
+[2020.07.01-12.06.23:594][510]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-12.07.18:693][585]Cmd: TRANSACTION UNDO
+[2020.07.01-12.07.18:693][585]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-12.07.19:999][602]Cmd: TRANSACTION UNDO
+[2020.07.01-12.07.19:999][602]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-12.07.23:843][660]Cmd: TRANSACTION UNDO
+[2020.07.01-12.07.23:843][660]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-12.07.26:770][706]Cmd: TRANSACTION UNDO
+[2020.07.01-12.07.26:770][706]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-12.07.31:023][773]Cmd: TRANSACTION UNDO
+[2020.07.01-12.07.31:023][773]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-12.07.37:348][863]Cmd: TRANSACTION UNDO
+[2020.07.01-12.07.37:348][863]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-12.07.42:517][928]Cmd: TRANSACTION UNDO
+[2020.07.01-12.07.42:517][928]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-12.07.46:890][995]Cmd: TRANSACTION UNDO
+[2020.07.01-12.07.46:890][995]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-12.07.57:059][136]Cmd: TRANSACTION UNDO
+[2020.07.01-12.07.57:059][136]LogEditorTransaction: Undo Edición de follage
+[2020.07.01-12.08.09:179][311]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.07.01-12.08.09:286][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.07.01-12.08.09:335][311]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.07.01-12.08.09:650][311]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMapEA978BDA4B21915307237F932FDF4FC1.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.07.01-12.08.09:691][311]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.425
+[2020.07.01-12.08.10:763][311]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMap_BuiltDataBC998E424145B365E052B09588159DDE.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.07.01-12.08.10:796][311]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.01-12.08.10:796][311]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.07.01-12.08.10:797][311]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
