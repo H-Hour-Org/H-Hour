@@ -1689,3 +1689,1537 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.02-17.51.55:521][382]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
 [2020.07.02-17.51.55:521][382]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
 [2020.07.02-17.51.55:521][382]LogContentValidation: Display: Validating Material /Game/Assets/Materials/Master/TrickyBoy.TrickyBoy
+[2020.07.02-17.52.07:363][477]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.07.02-17.53.10:571][794]LightingResults: Warning: 21_scene_mesh_ El objeto tiene UVs superpuestas.
+[2020.07.02-17.53.10:571][794]LightingResults: 21_scene_mesh_ Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-17.54.09:006][968]LightingResults: Warning: 17_Handle_0 El objeto tiene UVs superpuestas.
+[2020.07.02-17.54.09:006][968]LightingResults: 17_Handle_0 Lightmap UV are overlapping by 33.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-17.55.09:429][163]LightingResults: Warning: 3_Plane_1 El objeto tiene UVs superpuestas.
+[2020.07.02-17.55.09:429][163]LightingResults: 3_Plane_1 Lightmap UV are overlapping by 25.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-17.55.14:462][178]LightingResults: Warning: 2_scene_mesh_ El objeto tiene UVs superpuestas.
+[2020.07.02-17.55.14:462][178]LightingResults: 2_scene_mesh_ Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-17.55.52:751][292]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-17.55.52:751][292]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-17.55.58:461][309]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-17.55.58:461][309]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-17.56.02:493][321]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-17.56.02:493][321]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-17.56.07:533][336]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-17.56.07:533][336]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-17.56.09:558][342]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-17.56.09:558][342]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-17.56.13:915][355]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-17.56.13:915][355]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-17.56.17:928][367]LightingResults: Warning: bigplant_07 El objeto tiene UVs superpuestas.
+[2020.07.02-17.56.17:928][367]LightingResults: bigplant_07 Lightmap UV are overlapping by 15.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-17.56.46:456][452]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-17.56.46:456][452]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-17.56.49:143][460]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-17.56.49:143][460]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-17.56.50:810][465]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-17.56.50:810][465]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-17.56.52:825][471]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-17.56.52:825][471]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-17.59.07:879][873]LightingResults: Warning: 3_Plane_1 El objeto tiene UVs superpuestas.
+[2020.07.02-17.59.07:879][873]LightingResults: 3_Plane_1 Lightmap UV are overlapping by 25.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-17.59.40:458][970]LightingResults: Warning: concrete_block_wall_without_proxy_concrete_block_wall_large_messy El objeto tiene UVs superpuestas.
+[2020.07.02-17.59.40:458][970]LightingResults: concrete_block_wall_without_proxy_concrete_block_wall_large_messy Lightmap UV are overlapping by 34.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-17.59.41:140][972]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-17.59.41:140][972]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-17.59.41:471][973]LightingResults: Warning: 17_Handle_0 El objeto tiene UVs superpuestas.
+[2020.07.02-17.59.41:471][973]LightingResults: 17_Handle_0 Lightmap UV are overlapping by 33.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-17.59.43:138][978]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-17.59.43:138][978]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-17.59.46:517][988]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-17.59.46:517][988]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-17.59.53:888][ 10]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-17.59.53:888][ 10]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-17.59.54:580][ 12]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-17.59.54:580][ 12]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-17.59.57:259][ 20]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-17.59.57:259][ 20]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.00.08:984][ 55]LightingResults: Warning: 3_Plane_1 El objeto tiene UVs superpuestas.
+[2020.07.02-18.00.08:984][ 55]LightingResults: 3_Plane_1 Lightmap UV are overlapping by 25.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.00.09:313][ 56]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.00.09:313][ 56]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.00.12:336][ 65]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.00.12:336][ 65]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.00.13:342][ 68]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.00.13:342][ 68]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.00.17:712][ 81]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.00.17:712][ 81]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.00.18:047][ 82]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.00.18:047][ 82]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.00.19:728][ 87]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.00.19:728][ 87]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.00.22:749][ 96]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.00.22:749][ 96]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.00.24:432][101]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.00.24:432][101]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.00.27:119][109]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.00.27:119][109]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.00.29:812][117]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.00.29:812][117]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.00.32:165][124]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.00.32:165][124]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.00.34:505][131]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.00.34:505][131]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.00.45:578][164]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.00.45:578][164]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.00.48:265][172]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.00.48:265][172]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.00.53:629][188]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.00.53:629][188]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.00.59:022][204]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.00.59:022][204]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.01.07:077][228]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.01.07:077][228]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.01.08:420][232]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.01.08:420][232]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.01.09:753][236]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.01.09:753][236]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.01.10:426][238]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.01.10:426][238]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.01.15:796][254]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.01.15:796][254]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.01.18:811][263]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.01.18:811][263]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.01.20:150][267]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.01.20:150][267]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.01.21:165][270]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.01.21:165][270]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.01.25:860][284]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.01.25:860][284]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.01.28:878][293]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.01.28:878][293]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.01.30:233][297]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.01.30:233][297]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.01.32:248][303]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.01.32:248][303]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.01.32:915][305]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.01.32:915][305]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.01.36:611][316]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.01.36:611][316]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.01.37:279][318]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.01.37:279][318]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.01.40:987][329]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.01.40:987][329]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.01.42:677][334]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.01.42:677][334]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.01.43:010][335]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.01.43:010][335]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.01.43:678][337]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.01.43:678][337]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.01.45:354][342]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.01.45:354][342]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.01.47:042][347]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.01.47:042][347]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.01.47:721][349]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.01.47:721][349]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.01.48:394][351]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.01.48:394][351]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.01.50:084][356]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.01.50:084][356]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.01.51:418][360]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.01.51:418][360]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.01.52:767][364]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.01.52:767][364]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.01.53:757][367]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.01.53:757][367]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.01.54:430][369]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.01.54:430][369]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.01.56:459][375]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.01.56:459][375]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.01.57:470][378]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.01.57:470][378]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.01.57:797][379]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.01.57:797][379]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.01.59:476][384]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.01.59:476][384]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.02.00:149][386]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.02.00:149][386]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.02.03:172][395]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.02.03:172][395]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.02.03:851][397]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.02.03:851][397]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.02.06:211][404]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.02.06:211][404]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.02.06:535][405]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.02.06:535][405]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.02.08:210][410]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.02.08:210][410]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.02.08:536][411]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.02.08:536][411]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.02.10:209][416]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.02.10:209][416]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.02.11:224][419]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.02.11:224][419]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.02.12:233][422]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.02.12:233][422]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.02.13:573][426]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.02.13:573][426]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.02.14:588][429]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.02.14:588][429]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.02.15:922][433]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.02.15:922][433]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.02.18:945][442]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.02.18:945][442]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.02.19:618][444]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.02.19:618][444]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.02.19:961][445]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.02.19:961][445]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.02.23:983][457]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.02.23:983][457]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.02.25:667][462]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.02.25:667][462]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.02.26:680][465]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.02.26:680][465]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.02.30:018][475]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.02.30:018][475]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.02.33:361][485]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.02.33:361][485]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.02.36:053][493]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.02.36:053][493]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.02.38:399][500]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.02.38:399][500]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.02.38:726][501]LightingResults: Warning: bigplant_05 El objeto tiene UVs superpuestas.
+[2020.07.02-18.02.38:726][501]LightingResults: bigplant_05 Lightmap UV are overlapping by 74.4%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.02.41:076][508]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.02.41:076][508]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.02.41:421][509]LightingResults: Warning: bigplant_05 El objeto tiene UVs superpuestas.
+[2020.07.02-18.02.41:421][509]LightingResults: bigplant_05 Lightmap UV are overlapping by 74.4%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.02.43:749][516]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.02.43:749][516]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.02.45:765][522]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.02.45:765][522]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.02.47:436][527]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.02.47:436][527]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.02.50:457][536]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.02.50:457][536]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.02.51:467][539]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.02.51:467][539]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.02.55:150][550]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.02.55:150][550]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.02.57:840][558]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.02.57:840][558]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.03.00:856][567]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.03.00:856][567]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.03.04:226][577]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.03.04:226][577]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.03.05:907][582]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.03.05:907][582]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.03.07:926][588]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.03.07:926][588]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.03.33:114][663]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.03.33:114][663]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.03.35:796][671]LightingResults: Warning: 3_Plane_1 El objeto tiene UVs superpuestas.
+[2020.07.02-18.03.35:796][671]LightingResults: 3_Plane_1 Lightmap UV are overlapping by 25.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.03.35:796][671]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.03.35:796][671]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.03.37:804][677]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.03.37:804][677]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.04.29:520][831]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.04.29:520][831]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.04.31:542][837]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.04.31:542][837]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.04.33:216][842]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.04.33:216][842]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.04.34:560][846]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.04.34:560][846]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.04.49:698][891]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.04.49:698][891]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.05.03:584][932]LightingResults: Warning: 3_Plane_1 El objeto tiene UVs superpuestas.
+[2020.07.02-18.05.03:584][932]LightingResults: 3_Plane_1 Lightmap UV are overlapping by 25.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.05.20:029][981]LightingResults: Warning: 11_scene_mesh_ El objeto tiene UVs superpuestas.
+[2020.07.02-18.05.20:029][981]LightingResults: 11_scene_mesh_ Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.05.28:756][  7]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.05.28:756][  7]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.05.34:780][ 25]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.05.34:780][ 25]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.05.40:157][ 41]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.05.40:157][ 41]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.05.46:187][ 59]LightingResults: Warning: SM_Soul_Rock_01 El objeto tiene UVs envolventes.
+[2020.07.02-18.05.48:193][ 65]LightingResults: Warning: SM_Soul_Rock_01 El objeto tiene UVs envolventes.
+[2020.07.02-18.05.48:870][ 67]LightingResults: Warning: SM_Soul_Rock_01 El objeto tiene UVs envolventes.
+[2020.07.02-18.05.49:208][ 68]LightingResults: Warning: 3_Plane_1 El objeto tiene UVs superpuestas.
+[2020.07.02-18.05.49:208][ 68]LightingResults: 3_Plane_1 Lightmap UV are overlapping by 25.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.05.50:541][ 72]LightingResults: Warning: SM_Soul_Rock_01 El objeto tiene UVs envolventes.
+[2020.07.02-18.06.12:708][138]LightingResults: Warning: 12_scene_mesh_ El objeto tiene UVs superpuestas.
+[2020.07.02-18.06.12:708][138]LightingResults: 12_scene_mesh_ Lightmap UV are overlapping by 66.7%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.06.22:789][168]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.06.22:789][168]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.06.27:708][182]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.06.27:708][182]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.06.30:387][190]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.06.30:387][190]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.06.34:411][202]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.06.34:411][202]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.06.39:430][217]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.06.39:430][217]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.06.44:144][231]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.06.44:144][231]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.06.46:488][238]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.06.46:488][238]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.06.46:818][239]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.06.46:818][239]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.06.48:834][245]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.06.48:834][245]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.06.50:502][250]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.06.50:502][250]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.08.08:726][483]LightingResults: Warning: 7_scene_mesh_ El objeto tiene UVs superpuestas.
+[2020.07.02-18.08.08:726][483]LightingResults: 7_scene_mesh_ Lightmap UV are overlapping by 11.1%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.08.58:114][630]Job is a success!
+[2020.07.02-18.08.58:735][631]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.014s
+[2020.07.02-18.08.58:735][631]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.07.02-18.08.58:735][631]LogVolumetricLightmapImport:      BrickData (all levels) 0.4Mb
+[2020.07.02-18.08.58:735][631]LogVolumetricLightmapImport:      Bricks at depth
+[2020.07.02-18.08.58:735][631]LogVolumetricLightmapImport:          0: 1.3% covering 100.0% of volume
+[2020.07.02-18.08.58:735][631]LogVolumetricLightmapImport:          1: 5.2% covering 6.2% of volume
+[2020.07.02-18.08.58:735][631]LogVolumetricLightmapImport:          2: 93.5% covering 1.8% of volume
+[2020.07.02-18.08.58:735][631]LogVolumetricLightmapImport:      Bricks in each level
+[2020.07.02-18.08.58:735][631]LogVolumetricLightmapImport:          FirstPersonExampleMap 			 77 bricks 	 100.0% (Persistent Level)
+[2020.07.02-18.09.18:303][631]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 2048X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 2048X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 2048X2048)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 2048X2048)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 2048X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 2048X2048)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 2048X2048)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 1024X512)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 1024X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 1024X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 1024X512)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 1024X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 1024X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 1024X512)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 1024X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 1024X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: SkyOcclusion0_7 (AutoDXT, 1024X512)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 1024X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 1024X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: SkyOcclusion0_8 (AutoDXT, 1024X512)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 1024X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 1024X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: SkyOcclusion0_9 (AutoDXT, 1024X512)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 1024X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 1024X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: SkyOcclusion0_10 (AutoDXT, 1024X512)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 1024X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 1024X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: SkyOcclusion0_11 (AutoDXT, 1024X512)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 1024X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 1024X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: SkyOcclusion0_12 (AutoDXT, 1024X512)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: HQ_Lightmap1_12 (AutoDXT, 1024X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (DXT1, 1024X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: SkyOcclusion0_13 (AutoDXT, 1024X512)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: HQ_Lightmap1_13 (AutoDXT, 1024X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (DXT1, 1024X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: SkyOcclusion0_14 (AutoDXT, 1024X512)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: HQ_Lightmap1_14 (AutoDXT, 1024X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (DXT1, 1024X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: SkyOcclusion0_15 (AutoDXT, 1024X512)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: HQ_Lightmap1_15 (AutoDXT, 1024X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (DXT1, 1024X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: SkyOcclusion0_16 (AutoDXT, 1024X512)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: HQ_Lightmap1_16 (AutoDXT, 1024X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: LQ_Lightmap_1_16 (DXT1, 1024X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: SkyOcclusion0_17 (AutoDXT, 1024X512)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: HQ_Lightmap1_17 (AutoDXT, 1024X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: LQ_Lightmap_1_17 (DXT1, 1024X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: SkyOcclusion0_18 (AutoDXT, 1024X512)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: HQ_Lightmap1_18 (AutoDXT, 1024X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: LQ_Lightmap_1_18 (DXT1, 1024X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: SkyOcclusion0_19 (AutoDXT, 1024X512)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: HQ_Lightmap1_19 (AutoDXT, 1024X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: LQ_Lightmap_1_19 (DXT1, 1024X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: SkyOcclusion0_20 (AutoDXT, 1024X512)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: HQ_Lightmap1_20 (AutoDXT, 1024X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: LQ_Lightmap_1_20 (DXT1, 1024X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: SkyOcclusion0_21 (AutoDXT, 1024X512)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: HQ_Lightmap1_21 (AutoDXT, 1024X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: LQ_Lightmap_1_21 (DXT1, 1024X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: SkyOcclusion0_22 (AutoDXT, 1024X512)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: HQ_Lightmap1_22 (AutoDXT, 1024X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: LQ_Lightmap_1_22 (DXT1, 1024X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: SkyOcclusion0_23 (AutoDXT, 1024X512)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: HQ_Lightmap1_23 (AutoDXT, 1024X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: LQ_Lightmap_1_23 (DXT1, 1024X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: SkyOcclusion0_24 (AutoDXT, 1024X512)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: HQ_Lightmap1_24 (AutoDXT, 1024X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: LQ_Lightmap_1_24 (DXT1, 1024X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: SkyOcclusion0_25 (AutoDXT, 1024X512)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: HQ_Lightmap1_25 (AutoDXT, 1024X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: LQ_Lightmap_1_25 (DXT1, 1024X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: SkyOcclusion0_26 (AutoDXT, 1024X512)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: HQ_Lightmap1_26 (AutoDXT, 1024X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: LQ_Lightmap_1_26 (DXT1, 1024X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: SkyOcclusion0_27 (AutoDXT, 1024X512)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: HQ_Lightmap1_27 (AutoDXT, 1024X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: LQ_Lightmap_1_27 (DXT1, 1024X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: SkyOcclusion0_28 (AutoDXT, 1024X512)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: HQ_Lightmap1_28 (AutoDXT, 1024X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: LQ_Lightmap_1_28 (DXT1, 1024X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: SkyOcclusion0_29 (AutoDXT, 1024X512)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: HQ_Lightmap1_29 (AutoDXT, 1024X1024)
+[2020.07.02-18.09.18:304][631]LogTexture: Display: Building textures: LQ_Lightmap_1_29 (DXT1, 1024X1024)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: SkyOcclusion0_30 (AutoDXT, 1024X512)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: HQ_Lightmap1_30 (AutoDXT, 1024X1024)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: LQ_Lightmap_1_30 (DXT1, 1024X1024)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: SkyOcclusion1_31 (AutoDXT, 1024X512)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: HQ_Lightmap1_31 (AutoDXT, 1024X1024)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: LQ_Lightmap_1_31 (DXT1, 1024X1024)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: SkyOcclusion1_32 (AutoDXT, 1024X512)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: HQ_Lightmap1_32 (AutoDXT, 1024X1024)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: LQ_Lightmap_1_32 (DXT1, 1024X1024)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: SkyOcclusion1_33 (AutoDXT, 1024X512)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: HQ_Lightmap1_33 (AutoDXT, 1024X1024)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: LQ_Lightmap_1_33 (DXT1, 1024X1024)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: SkyOcclusion1_34 (AutoDXT, 1024X512)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: HQ_Lightmap1_34 (AutoDXT, 1024X1024)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: LQ_Lightmap_1_34 (DXT1, 1024X1024)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: SkyOcclusion1_35 (AutoDXT, 1024X512)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: HQ_Lightmap1_35 (AutoDXT, 1024X1024)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: LQ_Lightmap_1_35 (DXT1, 1024X1024)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: SkyOcclusion1_36 (AutoDXT, 1024X512)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: HQ_Lightmap1_36 (AutoDXT, 1024X1024)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: LQ_Lightmap_1_36 (DXT1, 1024X1024)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: SkyOcclusion1_37 (AutoDXT, 1024X512)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: HQ_Lightmap1_37 (AutoDXT, 1024X1024)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: LQ_Lightmap_1_37 (DXT1, 1024X1024)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: SkyOcclusion1_38 (AutoDXT, 1024X512)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: HQ_Lightmap1_38 (AutoDXT, 1024X1024)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: LQ_Lightmap_1_38 (DXT1, 1024X1024)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: SkyOcclusion1_39 (AutoDXT, 1024X512)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: HQ_Lightmap1_39 (AutoDXT, 1024X1024)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: LQ_Lightmap_1_39 (DXT1, 1024X1024)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: SkyOcclusion1_40 (AutoDXT, 1024X512)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: HQ_Lightmap1_40 (AutoDXT, 1024X1024)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: LQ_Lightmap_1_40 (DXT1, 1024X1024)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: SkyOcclusion1_41 (AutoDXT, 1024X512)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: HQ_Lightmap1_41 (AutoDXT, 1024X1024)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: LQ_Lightmap_1_41 (DXT1, 1024X1024)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: SkyOcclusion1_42 (AutoDXT, 1024X512)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: HQ_Lightmap1_42 (AutoDXT, 1024X1024)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: LQ_Lightmap_1_42 (DXT1, 1024X1024)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: SkyOcclusion1_43 (AutoDXT, 1024X512)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: HQ_Lightmap1_43 (AutoDXT, 1024X1024)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: LQ_Lightmap_1_43 (DXT1, 1024X1024)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: SkyOcclusion1_44 (AutoDXT, 512X256)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: HQ_Lightmap1_44 (AutoDXT, 512X512)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: LQ_Lightmap_1_44 (DXT1, 512X512)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: SkyOcclusion1_45 (AutoDXT, 512X256)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: HQ_Lightmap1_45 (AutoDXT, 512X512)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: LQ_Lightmap_1_45 (DXT1, 512X512)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: SkyOcclusion1_46 (AutoDXT, 1024X512)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: HQ_Lightmap1_46 (AutoDXT, 1024X1024)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: LQ_Lightmap_1_46 (DXT1, 1024X1024)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: SkyOcclusion1_47 (AutoDXT, 1024X512)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: HQ_Lightmap1_47 (AutoDXT, 1024X1024)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: LQ_Lightmap_1_47 (DXT1, 1024X1024)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: SkyOcclusion1_48 (AutoDXT, 1024X512)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: HQ_Lightmap1_48 (AutoDXT, 1024X1024)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: LQ_Lightmap_1_48 (DXT1, 1024X1024)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: SkyOcclusion1_49 (AutoDXT, 1024X512)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: HQ_Lightmap1_49 (AutoDXT, 1024X1024)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: LQ_Lightmap_1_49 (DXT1, 1024X1024)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: SkyOcclusion1_50 (AutoDXT, 1024X512)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: HQ_Lightmap1_50 (AutoDXT, 1024X1024)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: LQ_Lightmap_1_50 (DXT1, 1024X1024)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: SkyOcclusion1_51 (AutoDXT, 1024X512)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: HQ_Lightmap1_51 (AutoDXT, 1024X1024)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: LQ_Lightmap_1_51 (DXT1, 1024X1024)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: SkyOcclusion0_52 (AutoDXT, 256X128)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: HQ_Lightmap0_52 (AutoDXT, 256X256)
+[2020.07.02-18.09.18:305][631]LogTexture: Display: Building textures: LQ_Lightmap_0_52 (DXT1, 256X256)
+[2020.07.02-18.09.18:705][631]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 1024X1024)
+[2020.07.02-18.09.18:705][631]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 1024X1024)
+[2020.07.02-18.09.18:705][631]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 1024X1024)
+[2020.07.02-18.09.18:705][631]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (BGRA8, 1024X1024)
+[2020.07.02-18.09.18:705][631]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 1024X1024)
+[2020.07.02-18.09.18:705][631]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X1024)
+[2020.07.02-18.09.18:705][631]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 1024X1024)
+[2020.07.02-18.09.18:705][631]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X1024)
+[2020.07.02-18.09.18:705][631]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 1024X1024)
+[2020.07.02-18.09.18:909][631]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 1024X1024)
+[2020.07.02-18.09.18:910][631]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (BGRA8, 1024X1024)
+[2020.07.02-18.09.18:910][631]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 1024X1024)
+[2020.07.02-18.09.18:910][631]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 1024X1024)
+[2020.07.02-18.09.18:910][631]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 1024X1024)
+[2020.07.02-18.09.18:910][631]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (G8, 1024X1024)
+[2020.07.02-18.09.18:910][631]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 1024X1024)
+[2020.07.02-18.09.19:110][631]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (G8, 1024X1024)
+[2020.07.02-18.09.19:110][631]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 1024X1024)
+[2020.07.02-18.09.19:110][631]LogTexture: Display: Building textures: ShadowMapTexture2D_23 (G8, 512X512)
+[2020.07.02-18.09.19:110][631]LogTexture: Display: Building textures: ShadowMapTexture2D_27 (G8, 1024X128)
+[2020.07.02-18.09.19:110][631]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (G8, 1024X512)
+[2020.07.02-18.09.19:110][631]LogTexture: Display: Building textures: ShadowMapTexture2D_28 (G8, 1024X128)
+[2020.07.02-18.09.19:110][631]LogTexture: Display: Building textures: ShadowMapTexture2D_62 (BGRA8, 256X64)
+[2020.07.02-18.09.19:110][631]LogTexture: Display: Building textures: ShadowMapTexture2D_22 (G8, 1024X512)
+[2020.07.02-18.09.19:110][631]LogTexture: Display: Building textures: ShadowMapTexture2D_64 (BGRA8, 64X32)
+[2020.07.02-18.09.19:110][631]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (G8, 1024X1024)
+[2020.07.02-18.09.19:110][631]LogTexture: Display: Building textures: ShadowMapTexture2D_26 (G8, 1024X512)
+[2020.07.02-18.09.19:110][631]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (G8, 1024X1024)
+[2020.07.02-18.09.19:110][631]LogTexture: Display: Building textures: ShadowMapTexture2D_63 (G8, 1024X256)
+[2020.07.02-18.09.19:110][631]LogTexture: Display: Building textures: ShadowMapTexture2D_24 (G8, 1024X1024)
+[2020.07.02-18.09.19:128][631]LogTexture: Display: Building textures: ShadowMapTexture2D_25 (BGRA8, 1024X1024)
+[2020.07.02-18.09.19:309][631]LogTexture: Display: Building textures: ShadowMapTexture2D_29 (BGRA8, 1024X1024)
+[2020.07.02-18.09.19:309][631]LogTexture: Display: Building textures: ShadowMapTexture2D_30 (BGRA8, 1024X1024)
+[2020.07.02-18.09.19:470][631]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 2048X2048)
+[2020.07.02-18.09.19:470][631]Lightmass on DESKTOP-GLJLR1B: 17:11 min total, 3.25 sec importing, 1.60 sec setup, 45.9 sec photons, 16:20 min processing, 0 ms extra exporting [3302/3302 mappings]. Threads: 2:59:45 hours total, 1:51:16 hours processing.
+[2020.07.02-18.09.19:567][631]LogStaticLightingSystem: FirstPersonExampleMap_BuiltData storing lightmap data for 1655 meshes in 156 LightmapResourceClusters (10.6 Meshes per cluster).
+[2020.07.02-18.09.19:673][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.07.02-18.09.19:831][631]LogStaticLightingSystem: Illumination: 17:44 min (15.8 sec encoding lightmaps, 1.09 sec encoding shadowmaps)
+[2020.07.02-18.09.19:831][631]LogStaticLightingSystem: Lightmap texture memory:  163.8 MB (163.8 MB streaming, 0.0 MB non-streaming), 104 textures
+[2020.07.02-18.09.19:831][631]LogStaticLightingSystem: Shadowmap texture memory: 94.8 MB (94.8 MB streaming, 0.0 MB non-streaming), 34 textures
+[2020.07.02-18.09.20:553][631]DumpUnbuiltLightIteractions
+[2020.07.02-18.09.20:553][631]Lights with unbuilt interactions: 0
+[2020.07.02-18.09.20:553][631]
+[2020.07.02-18.09.20:553][631]Primitives with unbuilt interactions: 0
+[2020.07.02-18.09.20:848][632]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.07.02-18.09.20:848][632]MapCheck: New page: FirstPersonExampleMap - 2 jul. 2020 22:09:20
+[2020.07.02-18.09.20:854][632]MapCheck: Warning: 3_Anim_12 /Game/Assets/Synthetic/Vehicles/Helicopter/3.3 : Large actor casts a shadow and will cause an extreme performance hit unless shadow casting is disabled 
+[2020.07.02-18.09.20:855][632]MapCheck: Warning: 3_Anim3 /Game/Assets/Synthetic/Vehicles/Helicopter/3.3 : Large actor casts a shadow and will cause an extreme performance hit unless shadow casting is disabled 
+[2020.07.02-18.09.20:855][632]MapCheck: Warning: 3_18 /Game/Assets/Synthetic/Vehicles/Helicopter/3.3 : Large actor casts a shadow and will cause an extreme performance hit unless shadow casting is disabled 
+[2020.07.02-18.09.20:855][632]MapCheck: Warning: 4 /Game/Assets/Synthetic/Vehicles/Helicopter/3.3 : Large actor casts a shadow and will cause an extreme performance hit unless shadow casting is disabled 
+[2020.07.02-18.09.20:855][632]MapCheck: Warning: WorldSettings_0 Duplicar información del nivel 
+[2020.07.02-18.09.20:855][632]MapCheck: Map check complete: 0 Error(s), 5 Warning(s), took 6,587ms to complete.
+[2020.07.02-18.12.13:324][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.07.02-18.12.13:873][146]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMap_Auto1B0F0094145BF8CB3AAFC86979BDF29ED.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2020.07.02-18.12.13:879][146]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.568
+[2020.07.02-18.12.13:879][146]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.568
+[2020.07.02-18.13.47:279][608]LogSlate: Window 'Registro del mensaje' being destroyed
+[2020.07.02-18.13.47:319][608]LogSlate: Window 'Registro del mensaje' being destroyed
+[2020.07.02-18.14.07:332][764]LogEditorViewport: Clicking on Actor (LMB): Landscape (TrickyLandscape)
+[2020.07.02-18.14.09:525][917]Cmd: DELETE
+[2020.07.02-18.14.09:525][917]Cmd: ACTOR DELETE
+[2020.07.02-18.14.09:552][917]LogEditorActor: Deleted Actor: Landscape
+[2020.07.02-18.14.09:567][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2020.07.02-18.14.09:581][917]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2020.07.02-18.14.30:170][329]MapCheck: New page: Revisión del mapa
+[2020.07.02-18.14.30:186][329]LightingResults: New page: Diseño de la iluminación - 2 jul. 2020 22:14:30
+[2020.07.02-18.14.30:210][329]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2020.07.02-18.14.30:210][329]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2020.07.02-18.14.30:210][329]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2020.07.02-18.14.30:210][329]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2020.07.02-18.14.30:210][329]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2020.07.02-18.14.30:214][329]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.07.02-18.14.30:217][329]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.07.02-18.14.30:217][329]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.07.02-18.14.30:218][329]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.07.02-18.14.30:218][329]LogSwarmInterface: [TryOpenConnection] Local Process ID is 14196
+[2020.07.02-18.14.34:783][329]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.07.02-18.14.34:783][329]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.07.02-18.14.34:783][329]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.07.02-18.14.34:783][329]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.07.02-18.14.34:783][329]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.07.02-18.14.34:993][329]LogEditorBuildUtils: Build time 0:04
+[2020.07.02-18.14.35:037][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.07.02-18.15.26:684][621]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.15.26:684][621]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.15.29:303][790]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.15.29:303][790]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.15.31:334][921]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.15.31:334][921]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.15.56:425][535]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.15.56:425][535]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.16.00:217][736]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.16.00:217][736]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.16.02:558][743]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.16.02:558][743]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.16.23:697][806]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.16.23:697][806]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.16.26:051][813]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.16.26:051][813]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.16.29:849][934]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.16.29:849][934]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.17.16:114][234]LogRenderer: Reallocating scene render targets to support 1816x972 Format 10 NumSamples 1 (Frame:22097).
+[2020.07.02-18.17.16:313][235]LogRenderer: Reallocating scene render targets to support 1920x1040 Format 10 NumSamples 1 (Frame:22100).
+[2020.07.02-18.17.25:452][748]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.17.25:452][748]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.17.28:278][985]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.17.28:278][985]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.17.31:679][294]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.17.31:679][294]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.17.36:921][771]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.17.36:921][771]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.17.37:024][780]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.17.37:024][780]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.17.41:626][124]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.17.41:626][124]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.17.44:946][346]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.17.44:946][346]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.17.45:080][355]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.17.45:080][355]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.19.07:575][799]LightingResults: Warning: 3_Plane_1 El objeto tiene UVs superpuestas.
+[2020.07.02-18.19.07:575][799]LightingResults: 3_Plane_1 Lightmap UV are overlapping by 25.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.19.07:901][800]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.19.07:901][800]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.19.10:245][807]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.19.10:245][807]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.19.12:941][815]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.19.12:941][815]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.20.10:367][986]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.20.10:367][986]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.20.13:388][995]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.20.13:388][995]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.20.55:333][120]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.20.55:333][120]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.20.57:349][126]LightingResults: Warning: bigplant_07 El objeto tiene UVs superpuestas.
+[2020.07.02-18.20.57:349][126]LightingResults: bigplant_07 Lightmap UV are overlapping by 15.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.20.58:016][128]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.20.58:016][128]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.21.07:774][157]LightingResults: Warning: 3_Plane_1 El objeto tiene UVs superpuestas.
+[2020.07.02-18.21.07:774][157]LightingResults: 3_Plane_1 Lightmap UV are overlapping by 25.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.21.09:449][162]LightingResults: Warning: 3_Plane_1 El objeto tiene UVs superpuestas.
+[2020.07.02-18.21.09:449][162]LightingResults: 3_Plane_1 Lightmap UV are overlapping by 25.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.21.11:798][169]LightingResults: Warning: 3_Plane_1 El objeto tiene UVs superpuestas.
+[2020.07.02-18.21.11:798][169]LightingResults: 3_Plane_1 Lightmap UV are overlapping by 25.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.21.20:529][195]LightingResults: Warning: 3_Plane_1 El objeto tiene UVs superpuestas.
+[2020.07.02-18.21.20:529][195]LightingResults: 3_Plane_1 Lightmap UV are overlapping by 25.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.21.22:557][201]LightingResults: Warning: 3_Plane_1 El objeto tiene UVs superpuestas.
+[2020.07.02-18.21.22:557][201]LightingResults: 3_Plane_1 Lightmap UV are overlapping by 25.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.21.33:958][235]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.21.33:958][235]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.21.39:323][251]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.21.39:323][251]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.21.42:005][259]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.21.42:005][259]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.21.52:753][291]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.21.52:753][291]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.22.14:278][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.07.02-18.22.15:100][372]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMap_Auto27A30CF994047946FEDA75EAC863A41F6.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2020.07.02-18.22.15:111][372]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.849
+[2020.07.02-18.22.15:111][372]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.849
+[2020.07.02-18.22.51:264][810]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2020.07.02-18.22.52:615][875]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.07.02-18.23.51:867][ 63]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.23.51:867][ 63]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.23.53:615][209]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.23.53:615][209]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.24.04:741][ 59]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.07.02-18.24.06:478][162]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.24.06:478][162]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.24.09:552][255]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.24.09:552][255]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.24.17:268][278]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.24.17:268][278]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.24.28:369][311]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.24.28:369][311]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.24.34:774][330]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.24.34:774][330]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.24.35:791][333]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.24.35:791][333]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.24.42:832][354]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.24.42:832][354]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.24.51:213][379]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.24.51:213][379]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.24.53:235][385]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.24.53:235][385]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.25.00:291][406]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.25.00:291][406]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.25.01:960][411]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.25.01:960][411]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.25.05:673][422]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.25.05:674][422]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.25.06:669][425]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.25.06:669][425]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.25.12:397][442]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.25.12:397][442]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.25.15:761][452]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.25.15:761][452]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.25.17:441][457]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.25.17:441][457]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.25.20:120][465]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.25.20:120][465]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.25.20:791][467]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.25.20:791][467]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.25.23:834][476]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.25.23:834][476]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.25.26:200][483]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.25.26:200][483]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.25.27:877][488]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.25.27:877][488]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.25.29:877][494]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.25.29:877][494]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.25.32:569][502]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.25.32:569][502]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.25.33:915][506]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.25.33:915][506]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.25.38:297][519]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.25.38:297][519]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.25.38:964][521]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.25.38:964][521]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.25.42:658][532]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.25.42:658][532]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.25.47:019][545]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.25.47:019][545]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.25.51:373][558]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.25.51:373][558]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.25.52:385][561]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.25.52:385][561]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.25.56:746][574]LightingResults: Warning: bigplant_05 El objeto tiene UVs superpuestas.
+[2020.07.02-18.25.56:746][574]LightingResults: bigplant_05 Lightmap UV are overlapping by 74.4%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.25.58:425][579]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.25.58:425][579]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.25.58:768][580]LightingResults: Warning: bigplant_05 El objeto tiene UVs superpuestas.
+[2020.07.02-18.25.58:768][580]LightingResults: bigplant_05 Lightmap UV are overlapping by 74.4%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.26.01:129][587]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.26.01:129][587]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.26.03:481][594]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.26.03:481][594]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.26.06:524][603]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.26.06:524][603]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.26.11:537][618]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.26.11:537][618]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.26.13:906][625]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.26.13:906][625]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.26.15:245][629]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.26.15:245][629]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.26.19:717][729]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.07.02-18.26.20:119][750]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.26.20:119][750]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.26.22:738][967]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.26.22:738][967]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.26.25:787][227]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.26.25:787][227]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.26.27:998][404]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.26.27:998][404]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.26.31:279][649]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.26.31:279][649]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.26.34:115][742]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.26.34:115][742]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.26.37:814][852]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.26.37:814][852]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.26.39:824][858]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.26.39:824][858]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.26.47:572][881]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.26.47:572][881]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.26.50:253][889]LightingResults: Warning: 21_scene_mesh_ El objeto tiene UVs superpuestas.
+[2020.07.02-18.26.50:253][889]LightingResults: 21_scene_mesh_ Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.26.51:254][892]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.26.51:254][892]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.26.57:292][910]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.26.57:292][910]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.26.59:297][916]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.26.59:297][916]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.27.06:040][936]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.27.06:040][936]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.27.10:421][949]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.27.10:421][949]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.27.15:465][964]LightingResults: Warning: 12_scene_mesh_ El objeto tiene UVs superpuestas.
+[2020.07.02-18.27.15:465][964]LightingResults: 12_scene_mesh_ Lightmap UV are overlapping by 66.7%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.27.18:133][972]LightingResults: Warning: 11_scene_mesh_ El objeto tiene UVs superpuestas.
+[2020.07.02-18.27.18:133][972]LightingResults: 11_scene_mesh_ Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.27.49:030][ 64]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.27.49:030][ 64]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.27.51:047][ 70]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.27.51:047][ 70]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.27.56:394][277]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.27.56:394][277]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.28.01:270][595]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.28.01:270][595]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.28.05:234][848]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.28.05:234][848]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.28.07:508][997]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.28.07:508][997]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.28.12:147][343]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.28.12:147][343]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.28.19:065][790]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.07.02-18.28.19:128][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.07.02-18.28.19:912][790]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMap2A93188941D539CE4F4BB4AE024E5EF7.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.07.02-18.28.19:989][790]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.877
+[2020.07.02-18.28.25:574][790]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMap_BuiltDataE81999744CDE7A2CF6C2BDB6850097AC.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.07.02-18.28.25:642][790]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.02-18.28.25:642][790]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.07.02-18.28.25:642][790]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.07.02-18.28.25:647][790]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.28.25:648][790]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.28.32:958][279]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.28.32:958][279]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.28.36:799][473]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.28.36:799][473]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.28.54:593][526]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.28.54:593][526]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.29.20:473][603]LightingResults: Warning: 17_Handle_0 El objeto tiene UVs superpuestas.
+[2020.07.02-18.29.20:473][603]LightingResults: 17_Handle_0 Lightmap UV are overlapping by 33.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.29.20:798][604]LightingResults: Warning: 2_scene_mesh_ El objeto tiene UVs superpuestas.
+[2020.07.02-18.29.20:798][604]LightingResults: 2_scene_mesh_ Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.29.31:895][637]LightingResults: Warning: SM_Soul_Rock_01 El objeto tiene UVs envolventes.
+[2020.07.02-18.29.33:570][642]LightingResults: Warning: SM_Soul_Rock_01 El objeto tiene UVs envolventes.
+[2020.07.02-18.29.34:246][644]LightingResults: Warning: SM_Soul_Rock_01 El objeto tiene UVs envolventes.
+[2020.07.02-18.29.35:922][649]LightingResults: Warning: SM_Soul_Rock_01 El objeto tiene UVs envolventes.
+[2020.07.02-18.30.11:166][754]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.30.11:166][754]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.30.29:279][808]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.30.29:279][808]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.30.37:999][834]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.30.37:999][834]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.30.38:669][836]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.30.38:669][836]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.30.39:012][837]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.30.39:012][837]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.30.48:073][864]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.30.48:073][864]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.30.53:766][881]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.30.53:766][881]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.30.58:138][894]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.30.58:138][894]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.30.58:482][895]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.30.58:482][895]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.31.14:933][944]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.31.14:933][944]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.31.15:933][947]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.31.15:933][947]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.31.18:627][955]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.31.18:627][955]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.31.22:974][968]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.31.22:974][968]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.31.23:642][970]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.31.23:642][970]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.31.30:367][990]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.31.30:367][990]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.31.33:051][998]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.31.33:051][998]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.31.39:098][ 16]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.31.39:098][ 16]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.31.43:124][ 28]LightingResults: Warning: 17_Handle_0 El objeto tiene UVs superpuestas.
+[2020.07.02-18.31.43:124][ 28]LightingResults: 17_Handle_0 Lightmap UV are overlapping by 33.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.31.49:845][ 48]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.31.49:845][ 48]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.32.00:264][ 79]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.32.00:264][ 79]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.32.03:287][ 88]LightingResults: Warning: concrete_block_wall_without_proxy_concrete_block_wall_large_messy El objeto tiene UVs superpuestas.
+[2020.07.02-18.32.03:287][ 88]LightingResults: concrete_block_wall_without_proxy_concrete_block_wall_large_messy Lightmap UV are overlapping by 34.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.32.04:966][ 93]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.32.04:966][ 93]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.32.09:653][107]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.32.09:653][107]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.32.11:329][112]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.32.11:329][112]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.32.18:069][132]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.32.18:069][132]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.32.20:755][140]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.32.20:755][140]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.32.27:808][161]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.32.27:808][161]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.32.28:145][162]LightingResults: Warning: 7_scene_mesh_ El objeto tiene UVs superpuestas.
+[2020.07.02-18.32.28:145][162]LightingResults: 7_scene_mesh_ Lightmap UV are overlapping by 11.1%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.32.33:506][178]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.32.33:506][178]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.32.38:196][192]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.32.38:196][192]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.32.47:593][220]LightingResults: Warning: Barrier_Large_Box001 El objeto tiene UVs superpuestas.
+[2020.07.02-18.32.47:593][220]LightingResults: Barrier_Large_Box001 Lightmap UV are overlapping by 46.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.07.02-18.32.51:270][231]Job is a success!
+[2020.07.02-18.32.51:861][232]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.013s
+[2020.07.02-18.32.51:861][232]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.07.02-18.32.51:861][232]LogVolumetricLightmapImport:      BrickData (all levels) 0.4Mb
+[2020.07.02-18.32.51:861][232]LogVolumetricLightmapImport:      Bricks at depth
+[2020.07.02-18.32.51:861][232]LogVolumetricLightmapImport:          0: 1.3% covering 100.0% of volume
+[2020.07.02-18.32.51:861][232]LogVolumetricLightmapImport:          1: 5.2% covering 6.2% of volume
+[2020.07.02-18.32.51:861][232]LogVolumetricLightmapImport:          2: 93.5% covering 1.8% of volume
+[2020.07.02-18.32.51:861][232]LogVolumetricLightmapImport:      Bricks in each level
+[2020.07.02-18.32.51:861][232]LogVolumetricLightmapImport:          FirstPersonExampleMap 			 77 bricks 	 100.0% (Persistent Level)
+[2020.07.02-18.33.11:253][232]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 2048X1024)
+[2020.07.02-18.33.11:253][232]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2020.07.02-18.33.11:253][232]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2020.07.02-18.33.11:253][232]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 2048X1024)
+[2020.07.02-18.33.11:253][232]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 2048X2048)
+[2020.07.02-18.33.11:253][232]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 2048X2048)
+[2020.07.02-18.33.11:253][232]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 2048X1024)
+[2020.07.02-18.33.11:253][232]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 2048X2048)
+[2020.07.02-18.33.11:253][232]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 2048X2048)
+[2020.07.02-18.33.11:253][232]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 1024X512)
+[2020.07.02-18.33.11:253][232]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2020.07.02-18.33.11:253][232]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2020.07.02-18.33.11:253][232]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 1024X512)
+[2020.07.02-18.33.11:253][232]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2020.07.02-18.33.11:253][232]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2020.07.02-18.33.11:253][232]LogTexture: Display: Building textures: SkyOcclusion1_6 (AutoDXT, 1024X512)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 1024X1024)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 1024X1024)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: SkyOcclusion1_7 (AutoDXT, 1024X512)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 1024X1024)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 1024X1024)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: SkyOcclusion1_8 (AutoDXT, 1024X512)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 1024X1024)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 1024X1024)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: SkyOcclusion1_9 (AutoDXT, 1024X512)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 1024X1024)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 1024X1024)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: SkyOcclusion1_10 (AutoDXT, 1024X512)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 1024X1024)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 1024X1024)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: SkyOcclusion1_11 (AutoDXT, 1024X512)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 1024X1024)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 1024X1024)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: SkyOcclusion1_12 (AutoDXT, 1024X512)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 1024X1024)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 1024X1024)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: SkyOcclusion1_13 (AutoDXT, 1024X512)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 1024X1024)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 1024X1024)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: SkyOcclusion1_14 (AutoDXT, 1024X512)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 1024X1024)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 1024X1024)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: SkyOcclusion1_15 (AutoDXT, 1024X512)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 1024X1024)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 1024X1024)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: SkyOcclusion1_16 (AutoDXT, 1024X512)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 1024X1024)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 1024X1024)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: SkyOcclusion1_17 (AutoDXT, 1024X512)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 1024X1024)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 1024X1024)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: SkyOcclusion1_18 (AutoDXT, 1024X512)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: HQ_Lightmap0_18 (AutoDXT, 1024X1024)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (DXT1, 1024X1024)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: SkyOcclusion1_19 (AutoDXT, 1024X512)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: HQ_Lightmap0_19 (AutoDXT, 1024X1024)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (DXT1, 1024X1024)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: SkyOcclusion1_20 (AutoDXT, 1024X512)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: HQ_Lightmap0_20 (AutoDXT, 1024X1024)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (DXT1, 1024X1024)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: SkyOcclusion1_21 (AutoDXT, 1024X512)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: HQ_Lightmap0_21 (AutoDXT, 1024X1024)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: LQ_Lightmap_0_21 (DXT1, 1024X1024)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: SkyOcclusion1_22 (AutoDXT, 1024X512)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: HQ_Lightmap0_22 (AutoDXT, 1024X1024)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: LQ_Lightmap_0_22 (DXT1, 1024X1024)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: SkyOcclusion1_23 (AutoDXT, 1024X512)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: HQ_Lightmap0_23 (AutoDXT, 1024X1024)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: LQ_Lightmap_0_23 (DXT1, 1024X1024)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: SkyOcclusion1_24 (AutoDXT, 1024X512)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: HQ_Lightmap0_24 (AutoDXT, 1024X1024)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: LQ_Lightmap_0_24 (DXT1, 1024X1024)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: SkyOcclusion1_25 (AutoDXT, 1024X512)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: HQ_Lightmap0_25 (AutoDXT, 1024X1024)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: LQ_Lightmap_0_25 (DXT1, 1024X1024)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: SkyOcclusion1_26 (AutoDXT, 1024X512)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: HQ_Lightmap0_26 (AutoDXT, 1024X1024)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: LQ_Lightmap_0_26 (DXT1, 1024X1024)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: SkyOcclusion1_27 (AutoDXT, 1024X512)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: HQ_Lightmap0_27 (AutoDXT, 1024X1024)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: LQ_Lightmap_0_27 (DXT1, 1024X1024)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: SkyOcclusion1_28 (AutoDXT, 1024X512)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: HQ_Lightmap0_28 (AutoDXT, 1024X1024)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: LQ_Lightmap_0_28 (DXT1, 1024X1024)
+[2020.07.02-18.33.11:254][232]LogTexture: Display: Building textures: SkyOcclusion1_29 (AutoDXT, 1024X512)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: HQ_Lightmap0_29 (AutoDXT, 1024X1024)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: LQ_Lightmap_0_29 (DXT1, 1024X1024)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: SkyOcclusion1_30 (AutoDXT, 1024X512)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: HQ_Lightmap0_30 (AutoDXT, 1024X1024)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: LQ_Lightmap_0_30 (DXT1, 1024X1024)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: SkyOcclusion0_31 (AutoDXT, 1024X512)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: HQ_Lightmap0_31 (AutoDXT, 1024X1024)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: LQ_Lightmap_0_31 (DXT1, 1024X1024)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: SkyOcclusion0_32 (AutoDXT, 1024X512)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: HQ_Lightmap0_32 (AutoDXT, 1024X1024)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: LQ_Lightmap_0_32 (DXT1, 1024X1024)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: SkyOcclusion0_33 (AutoDXT, 1024X512)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: HQ_Lightmap0_33 (AutoDXT, 1024X1024)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: LQ_Lightmap_0_33 (DXT1, 1024X1024)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: SkyOcclusion0_34 (AutoDXT, 1024X512)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: HQ_Lightmap0_34 (AutoDXT, 1024X1024)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: LQ_Lightmap_0_34 (DXT1, 1024X1024)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: SkyOcclusion0_35 (AutoDXT, 1024X512)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: HQ_Lightmap0_35 (AutoDXT, 1024X1024)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: LQ_Lightmap_0_35 (DXT1, 1024X1024)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: SkyOcclusion0_36 (AutoDXT, 1024X512)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: HQ_Lightmap0_36 (AutoDXT, 1024X1024)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: LQ_Lightmap_0_36 (DXT1, 1024X1024)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: SkyOcclusion0_37 (AutoDXT, 1024X512)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: HQ_Lightmap0_37 (AutoDXT, 1024X1024)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: LQ_Lightmap_0_37 (DXT1, 1024X1024)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: SkyOcclusion0_38 (AutoDXT, 1024X512)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: HQ_Lightmap0_38 (AutoDXT, 1024X1024)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: LQ_Lightmap_0_38 (DXT1, 1024X1024)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: SkyOcclusion0_39 (AutoDXT, 1024X512)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: HQ_Lightmap0_39 (AutoDXT, 1024X1024)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: LQ_Lightmap_0_39 (DXT1, 1024X1024)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: SkyOcclusion0_40 (AutoDXT, 1024X512)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: HQ_Lightmap0_40 (AutoDXT, 1024X1024)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: LQ_Lightmap_0_40 (DXT1, 1024X1024)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: SkyOcclusion0_41 (AutoDXT, 1024X512)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: HQ_Lightmap0_41 (AutoDXT, 1024X1024)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: LQ_Lightmap_0_41 (DXT1, 1024X1024)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: SkyOcclusion0_42 (AutoDXT, 1024X512)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: HQ_Lightmap0_42 (AutoDXT, 1024X1024)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: LQ_Lightmap_0_42 (DXT1, 1024X1024)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: SkyOcclusion0_43 (AutoDXT, 1024X512)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: HQ_Lightmap0_43 (AutoDXT, 1024X1024)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: LQ_Lightmap_0_43 (DXT1, 1024X1024)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: SkyOcclusion0_44 (AutoDXT, 512X256)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: HQ_Lightmap0_44 (AutoDXT, 512X512)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: LQ_Lightmap_0_44 (DXT1, 512X512)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: SkyOcclusion0_45 (AutoDXT, 512X256)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: HQ_Lightmap0_45 (AutoDXT, 512X512)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: LQ_Lightmap_0_45 (DXT1, 512X512)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: SkyOcclusion0_46 (AutoDXT, 1024X512)
+[2020.07.02-18.33.11:255][232]LogTexture: Display: Building textures: HQ_Lightmap0_46 (AutoDXT, 1024X1024)
+[2020.07.02-18.33.11:256][232]LogTexture: Display: Building textures: LQ_Lightmap_0_46 (DXT1, 1024X1024)
+[2020.07.02-18.33.11:256][232]LogTexture: Display: Building textures: SkyOcclusion0_47 (AutoDXT, 1024X512)
+[2020.07.02-18.33.11:256][232]LogTexture: Display: Building textures: HQ_Lightmap0_47 (AutoDXT, 1024X1024)
+[2020.07.02-18.33.11:256][232]LogTexture: Display: Building textures: LQ_Lightmap_0_47 (DXT1, 1024X1024)
+[2020.07.02-18.33.11:256][232]LogTexture: Display: Building textures: SkyOcclusion0_48 (AutoDXT, 1024X512)
+[2020.07.02-18.33.11:256][232]LogTexture: Display: Building textures: HQ_Lightmap0_48 (AutoDXT, 1024X1024)
+[2020.07.02-18.33.11:256][232]LogTexture: Display: Building textures: LQ_Lightmap_0_48 (DXT1, 1024X1024)
+[2020.07.02-18.33.11:256][232]LogTexture: Display: Building textures: SkyOcclusion0_49 (AutoDXT, 1024X512)
+[2020.07.02-18.33.11:256][232]LogTexture: Display: Building textures: HQ_Lightmap0_49 (AutoDXT, 1024X1024)
+[2020.07.02-18.33.11:256][232]LogTexture: Display: Building textures: LQ_Lightmap_0_49 (DXT1, 1024X1024)
+[2020.07.02-18.33.11:256][232]LogTexture: Display: Building textures: SkyOcclusion0_50 (AutoDXT, 512X256)
+[2020.07.02-18.33.11:256][232]LogTexture: Display: Building textures: HQ_Lightmap0_50 (AutoDXT, 512X512)
+[2020.07.02-18.33.11:256][232]LogTexture: Display: Building textures: LQ_Lightmap_0_50 (DXT1, 512X512)
+[2020.07.02-18.33.11:256][232]LogTexture: Display: Building textures: SkyOcclusion0_51 (AutoDXT, 1024X512)
+[2020.07.02-18.33.11:256][232]LogTexture: Display: Building textures: HQ_Lightmap0_51 (AutoDXT, 1024X1024)
+[2020.07.02-18.33.11:256][232]LogTexture: Display: Building textures: LQ_Lightmap_0_51 (DXT1, 1024X1024)
+[2020.07.02-18.33.11:256][232]LogTexture: Display: Building textures: SkyOcclusion1_52 (AutoDXT, 1024X512)
+[2020.07.02-18.33.11:256][232]LogTexture: Display: Building textures: HQ_Lightmap1_52 (AutoDXT, 1024X1024)
+[2020.07.02-18.33.11:256][232]LogTexture: Display: Building textures: LQ_Lightmap_1_52 (DXT1, 1024X1024)
+[2020.07.02-18.33.11:256][232]LogTexture: Display: Building textures: SkyOcclusion0_53 (AutoDXT, 1024X512)
+[2020.07.02-18.33.11:256][232]LogTexture: Display: Building textures: HQ_Lightmap0_53 (AutoDXT, 1024X1024)
+[2020.07.02-18.33.11:256][232]LogTexture: Display: Building textures: LQ_Lightmap_0_53 (DXT1, 1024X1024)
+[2020.07.02-18.33.11:256][232]LogTexture: Display: Building textures: SkyOcclusion0_54 (AutoDXT, 64X32)
+[2020.07.02-18.33.11:256][232]LogTexture: Display: Building textures: HQ_Lightmap0_54 (AutoDXT, 64X64)
+[2020.07.02-18.33.11:256][232]LogTexture: Display: Building textures: LQ_Lightmap_0_54 (DXT1, 64X64)
+[2020.07.02-18.33.11:654][232]LogTexture: Display: Building textures: ShadowMapTexture2D_73 (G8, 1024X1024)
+[2020.07.02-18.33.11:655][232]LogTexture: Display: Building textures: ShadowMapTexture2D_72 (G8, 1024X1024)
+[2020.07.02-18.33.11:655][232]LogTexture: Display: Building textures: ShadowMapTexture2D_74 (G8, 1024X1024)
+[2020.07.02-18.33.11:655][232]LogTexture: Display: Building textures: ShadowMapTexture2D_71 (G8, 1024X1024)
+[2020.07.02-18.33.11:655][232]LogTexture: Display: Building textures: ShadowMapTexture2D_67 (BGRA8, 1024X1024)
+[2020.07.02-18.33.11:655][232]LogTexture: Display: Building textures: ShadowMapTexture2D_68 (BGRA8, 1024X1024)
+[2020.07.02-18.33.11:655][232]LogTexture: Display: Building textures: ShadowMapTexture2D_66 (BGRA8, 1024X1024)
+[2020.07.02-18.33.11:655][232]LogTexture: Display: Building textures: ShadowMapTexture2D_70 (BGRA8, 1024X1024)
+[2020.07.02-18.33.11:655][232]LogTexture: Display: Building textures: ShadowMapTexture2D_69 (BGRA8, 1024X1024)
+[2020.07.02-18.33.11:872][232]LogTexture: Display: Building textures: ShadowMapTexture2D_79 (G8, 1024X1024)
+[2020.07.02-18.33.11:877][232]LogTexture: Display: Building textures: ShadowMapTexture2D_75 (G8, 1024X1024)
+[2020.07.02-18.33.11:877][232]LogTexture: Display: Building textures: ShadowMapTexture2D_78 (G8, 1024X1024)
+[2020.07.02-18.33.11:877][232]LogTexture: Display: Building textures: ShadowMapTexture2D_77 (G8, 1024X1024)
+[2020.07.02-18.33.11:877][232]LogTexture: Display: Building textures: ShadowMapTexture2D_76 (BGRA8, 1024X1024)
+[2020.07.02-18.33.11:877][232]LogTexture: Display: Building textures: ShadowMapTexture2D_80 (G8, 1024X1024)
+[2020.07.02-18.33.11:877][232]LogTexture: Display: Building textures: ShadowMapTexture2D_83 (G8, 1024X1024)
+[2020.07.02-18.33.11:877][232]LogTexture: Display: Building textures: ShadowMapTexture2D_81 (G8, 1024X1024)
+[2020.07.02-18.33.11:877][232]LogTexture: Display: Building textures: ShadowMapTexture2D_82 (G8, 1024X1024)
+[2020.07.02-18.33.12:074][232]LogTexture: Display: Building textures: ShadowMapTexture2D_89 (G8, 512X512)
+[2020.07.02-18.33.12:074][232]LogTexture: Display: Building textures: ShadowMapTexture2D_93 (G8, 1024X128)
+[2020.07.02-18.33.12:074][232]LogTexture: Display: Building textures: ShadowMapTexture2D_87 (G8, 1024X512)
+[2020.07.02-18.33.12:074][232]LogTexture: Display: Building textures: ShadowMapTexture2D_94 (G8, 1024X128)
+[2020.07.02-18.33.12:074][232]LogTexture: Display: Building textures: ShadowMapTexture2D_92 (G8, 1024X512)
+[2020.07.02-18.33.12:074][232]LogTexture: Display: Building textures: ShadowMapTexture2D_96 (BGRA8, 1024X256)
+[2020.07.02-18.33.12:074][232]LogTexture: Display: Building textures: ShadowMapTexture2D_86 (G8, 1024X1024)
+[2020.07.02-18.33.12:074][232]LogTexture: Display: Building textures: ShadowMapTexture2D_84 (G8, 1024X1024)
+[2020.07.02-18.33.12:074][232]LogTexture: Display: Building textures: ShadowMapTexture2D_100 (G8, 64X32)
+[2020.07.02-18.33.12:074][232]LogTexture: Display: Building textures: ShadowMapTexture2D_98 (G8, 128X64)
+[2020.07.02-18.33.12:074][232]LogTexture: Display: Building textures: ShadowMapTexture2D_99 (G8, 256X64)
+[2020.07.02-18.33.12:074][232]LogTexture: Display: Building textures: ShadowMapTexture2D_85 (G8, 1024X1024)
+[2020.07.02-18.33.12:074][232]LogTexture: Display: Building textures: ShadowMapTexture2D_97 (BGRA8, 1024X256)
+[2020.07.02-18.33.12:074][232]LogTexture: Display: Building textures: ShadowMapTexture2D_88 (BGRA8, 1024X1024)
+[2020.07.02-18.33.12:269][232]LogTexture: Display: Building textures: ShadowMapTexture2D_91 (BGRA8, 1024X1024)
+[2020.07.02-18.33.12:269][232]LogTexture: Display: Building textures: ShadowMapTexture2D_90 (BGRA8, 1024X1024)
+[2020.07.02-18.33.12:269][232]LogTexture: Display: Building textures: ShadowMapTexture2D_95 (BGRA8, 1024X1024)
+[2020.07.02-18.33.12:408][232]LogTexture: Display: Building textures: ShadowMapTexture2D_65 (BGRA8, 2048X2048)
+[2020.07.02-18.33.12:408][232]Lightmass on DESKTOP-GLJLR1B: 18:36 min total, 1.79 sec importing, 1.71 sec setup, 46.5 sec photons, 17:46 min processing, 0 ms extra exporting [3293/3293 mappings]. Threads: 3:15:29 hours total, 2:00:41 hours processing.
+[2020.07.02-18.33.12:432][232]LogStaticLightingSystem: FirstPersonExampleMap_BuiltData storing lightmap data for 1646 meshes in 180 LightmapResourceClusters (9.1 Meshes per cluster).
+[2020.07.02-18.33.12:553][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.07.02-18.33.12:678][232]LogStaticLightingSystem: Illumination: 18:42 min (15.6 sec encoding lightmaps, 1.09 sec encoding shadowmaps)
+[2020.07.02-18.33.12:678][232]LogStaticLightingSystem: Lightmap texture memory:  167.2 MB (167.2 MB streaming, 0.0 MB non-streaming), 108 textures
+[2020.07.02-18.33.12:678][232]LogStaticLightingSystem: Shadowmap texture memory: 101.8 MB (101.8 MB streaming, 0.0 MB non-streaming), 36 textures
+[2020.07.02-18.33.12:715][232]DumpUnbuiltLightIteractions
+[2020.07.02-18.33.12:715][232]Lights with unbuilt interactions: 0
+[2020.07.02-18.33.12:715][232]
+[2020.07.02-18.33.12:715][232]Primitives with unbuilt interactions: 0
+[2020.07.02-18.33.12:936][233]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.07.02-18.33.12:936][233]MapCheck: New page: FirstPersonExampleMap - 2 jul. 2020 22:33:12
+[2020.07.02-18.33.12:943][233]MapCheck: Warning: 3_Anim_12 /Game/Assets/Synthetic/Vehicles/Helicopter/3.3 : Large actor casts a shadow and will cause an extreme performance hit unless shadow casting is disabled 
+[2020.07.02-18.33.12:943][233]MapCheck: Warning: 3_Anim3 /Game/Assets/Synthetic/Vehicles/Helicopter/3.3 : Large actor casts a shadow and will cause an extreme performance hit unless shadow casting is disabled 
+[2020.07.02-18.33.12:943][233]MapCheck: Warning: 3_18 /Game/Assets/Synthetic/Vehicles/Helicopter/3.3 : Large actor casts a shadow and will cause an extreme performance hit unless shadow casting is disabled 
+[2020.07.02-18.33.12:943][233]MapCheck: Warning: 4 /Game/Assets/Synthetic/Vehicles/Helicopter/3.3 : Large actor casts a shadow and will cause an extreme performance hit unless shadow casting is disabled 
+[2020.07.02-18.33.12:943][233]MapCheck: Warning: WorldSettings_0 Duplicar información del nivel 
+[2020.07.02-18.33.12:943][233]MapCheck: Map check complete: 0 Error(s), 5 Warning(s), took 6,665ms to complete.
+[2020.07.02-18.38.40:585][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2020.07.02-18.38.40:589][210]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.016
+[2020.07.02-18.48.41:122][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.07.02-18.48.41:124][  2]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.014
+[2020.07.02-18.53.50:407][344]LogSlate: Window 'Registro del mensaje' being destroyed
+[2020.07.02-18.53.50:441][344]LogSlate: Window 'Registro del mensaje' being destroyed
+[2020.07.02-18.53.57:719][914]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.07.02-18.55.41:025][715]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.02-18.55.56:878][606]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.02-18.56.48:881][650]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.07.02-18.58.26:991][834]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.02-18.58.33:849][377]LogSlate: WidgetSwitcher ('None') active index changed to 2
+[2020.07.02-18.58.46:426][320]Cmd: TRANSACTION UNDO
+[2020.07.02-18.58.46:426][320]LogEditorTransaction: Undo Edición del terreno: Pintura
+[2020.07.02-18.58.49:999][643]Cmd: TRANSACTION UNDO
+[2020.07.02-18.58.49:999][643]LogEditorTransaction: Undo Edición del terreno: Pintura
+[2020.07.02-18.59.16:127][274]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube24)
+[2020.07.02-18.59.29:885][127]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.07.02-19.00.41:457][260]Cmd: TRANSACTION UNDO
+[2020.07.02-19.00.41:458][260]LogEditorTransaction: Undo Move Actors
+[2020.07.02-19.01.32:725][149]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.07.02-19.01.37:711][499]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube30)
+[2020.07.02-19.01.44:002][954]Cmd: TRANSACTION UNDO
+[2020.07.02-19.01.44:002][954]LogEditorTransaction: Undo Scale Actors
+[2020.07.02-19.02.01:483][242]Cmd: TRANSACTION UNDO
+[2020.07.02-19.02.01:483][242]LogEditorTransaction: Undo Move Actors
+[2020.07.02-19.02.23:254][708]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.07.02-19.02.34:483][281]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.07.02-19.02.43:388][827]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.07.02-19.03.06:628][317]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater)
+[2020.07.02-19.03.17:068][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.07.02-19.03.17:131][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2020.07.02-19.03.17:683][884]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMap26407B8744927D4EA1AC35917855A07C.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.07.02-19.03.17:727][884]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.615
+[2020.07.02-19.03.22:150][884]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMap_BuiltData674922614CB3699208D516832702D076.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.07.02-19.03.22:210][884]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.02-19.03.22:210][884]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.07.02-19.03.22:210][884]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.07.02-19.04.30:219][134]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.07.02-19.04.34:784][386]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.07.02-19.04.35:705][434]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.07.02-19.04.38:653][596]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.07.02-19.04.39:197][623]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater)
+[2020.07.02-19.05.31:516][579]LogClient: Captura de pantalla de alta resolución guardada como C:/Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Screenshots/Windows/HighresScreenshot00019.png
+[2020.07.02-19.05.44:666][767]LogSlate: Window 'Captura de pantalla de alta resolución' being destroyed
+[2020.07.02-19.06.07:501][958]LogEditorViewport: Clicking on Actor (LMB): BP_TranslucentWater_C (BP_TranslucentWater)
+[2020.07.02-19.06.40:799][701]Cmd: TRANSACTION UNDO
+[2020.07.02-19.06.40:799][701]LogEditorTransaction: Undo Editar Variation Amount
+[2020.07.02-19.06.49:413][170]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/WaterPlane/Translucent/Materials/M_TranslucentWater.M_TranslucentWater
+[2020.07.02-19.06.49:417][170]LogMaterial: Display: Missing cached shader map for material M_TranslucentWater, compiling. 
+[2020.07.02-19.06.49:554][170]LogMaterial: Display: Missing cached shader map for material M_TranslucentWater, compiling. 
+[2020.07.02-19.06.49:571][170]LogMaterial: Display: Missing cached shader map for material M_TranslucentWater, compiling. 
+[2020.07.02-19.06.49:591][170]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2020.07.02-19.06.49:591][170]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2020.07.02-19.06.49:591][170]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2020.07.02-19.06.49:591][170]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2020.07.02-19.06.49:591][170]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2020.07.02-19.06.49:591][170]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2020.07.02-19.06.49:591][170]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2020.07.02-19.06.49:591][170]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2020.07.02-19.06.49:594][170]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2020.07.02-19.06.49:597][170]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_5, compiling. 
+[2020.07.02-19.06.49:600][170]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObjectParameter_8, compiling. 
+[2020.07.02-19.06.49:602][170]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObjectParameter_9, compiling. 
+[2020.07.02-19.06.49:605][170]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_4, compiling. 
+[2020.07.02-19.06.49:607][170]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObjectParameter_10, compiling. 
+[2020.07.02-19.06.49:610][170]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObjectParameter_11, compiling. 
+[2020.07.02-19.06.49:613][170]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_6, compiling. 
+[2020.07.02-19.06.49:615][170]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_7, compiling. 
+[2020.07.02-19.06.49:618][170]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterCube_0, compiling. 
+[2020.07.02-19.06.50:380][193]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 59
+[2020.07.02-19.06.50:415][194]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 58
+[2020.07.02-19.06.50:646][202]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 57
+[2020.07.02-19.06.50:865][210]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 56
+[2020.07.02-19.06.50:885][211]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 55
+[2020.07.02-19.06.51:019][217]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 54
+[2020.07.02-19.06.51:341][231]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 53
+[2020.07.02-19.06.51:382][233]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 52
+[2020.07.02-19.06.52:324][276]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 51
+[2020.07.02-19.06.52:461][283]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 50
+[2020.07.02-19.06.52:560][288]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 49
+[2020.07.02-19.06.52:560][288]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 48
+[2020.07.02-19.06.52:655][293]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 47
+[2020.07.02-19.06.52:694][295]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 46
+[2020.07.02-19.06.53:180][318]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 45
+[2020.07.02-19.06.53:200][319]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 44
+[2020.07.02-19.06.53:260][322]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 43
+[2020.07.02-19.06.53:354][327]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 42
+[2020.07.02-19.06.53:625][338]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 41
+[2020.07.02-19.06.53:681][340]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 40
+[2020.07.02-19.06.53:735][342]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 39
+[2020.07.02-19.06.54:024][354]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 38
+[2020.07.02-19.06.54:097][357]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 37
+[2020.07.02-19.06.54:170][360]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 36
+[2020.07.02-19.06.54:253][363]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 35
+[2020.07.02-19.06.54:479][370]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 34
+[2020.07.02-19.06.54:479][370]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 33
+[2020.07.02-19.06.54:560][373]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 32
+[2020.07.02-19.06.54:672][377]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 31
+[2020.07.02-19.06.54:846][383]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 30
+[2020.07.02-19.06.54:875][384]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 29
+[2020.07.02-19.06.54:904][385]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 28
+[2020.07.02-19.06.54:958][387]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 27
+[2020.07.02-19.06.55:043][390]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 26
+[2020.07.02-19.06.55:107][392]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 25
+[2020.07.02-19.06.55:249][397]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 24
+[2020.07.02-19.06.55:309][399]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 23
+[2020.07.02-19.06.55:309][399]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2020.07.02-19.06.55:419][403]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2020.07.02-19.06.55:443][404]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 20
+[2020.07.02-19.06.55:473][405]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 19
+[2020.07.02-19.06.55:509][406]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 18
+[2020.07.02-19.06.55:509][406]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 17
+[2020.07.02-19.06.55:547][406]MaterialEditorStats: Base pass shader: 516 instructions
+[2020.07.02-19.06.55:547][406]MaterialEditorStats: Base pass shader with Surface Lightmap: 557 instructions
+[2020.07.02-19.06.55:547][406]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 602 instructions
+[2020.07.02-19.06.55:547][406]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2020.07.02-19.06.55:547][406]MaterialEditorStats: Texture samplers: 12/16
+[2020.07.02-19.06.55:547][406]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(19)
+[2020.07.02-19.06.55:595][408]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 16
+[2020.07.02-19.06.55:707][412]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 15
+[2020.07.02-19.06.55:759][414]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2020.07.02-19.06.55:806][416]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2020.07.02-19.06.55:855][418]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2020.07.02-19.06.55:894][420]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2020.07.02-19.06.55:942][422]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2020.07.02-19.06.55:942][422]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2020.07.02-19.06.56:016][425]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2020.07.02-19.06.56:171][431]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2020.07.02-19.06.56:222][433]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2020.07.02-19.06.56:222][433]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.07.02-19.06.56:250][434]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2020.07.02-19.06.56:340][438]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2020.07.02-19.06.56:366][439]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2020.07.02-19.06.56:422][441]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2020.07.02-19.07.42:867][214]LogMaterial: Display: Missing cached shader map for material M_TranslucentWater, compiling. 
+[2020.07.02-19.07.42:885][214]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2020.07.02-19.07.42:885][214]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2020.07.02-19.07.42:886][214]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2020.07.02-19.07.42:886][214]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2020.07.02-19.07.42:886][214]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2020.07.02-19.07.42:886][214]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2020.07.02-19.07.42:886][214]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2020.07.02-19.07.42:886][214]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2020.07.02-19.07.42:887][214]LogMaterial: Display: Missing cached shader map for material M_TranslucentWater, compiling. 
+[2020.07.02-19.07.43:349][238]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 27
+[2020.07.02-19.07.43:379][239]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 26
+[2020.07.02-19.07.43:565][246]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 25
+[2020.07.02-19.07.43:658][250]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 24
+[2020.07.02-19.07.43:873][259]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 23
+[2020.07.02-19.07.44:197][273]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 22
+[2020.07.02-19.07.44:450][284]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 21
+[2020.07.02-19.07.44:907][304]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 20
+[2020.07.02-19.07.45:318][322]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 19
+[2020.07.02-19.07.45:454][328]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2020.07.02-19.07.45:519][331]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2020.07.02-19.07.45:711][339]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 16
+[2020.07.02-19.07.45:737][340]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 15
+[2020.07.02-19.07.45:796][343]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 14
+[2020.07.02-19.07.45:950][350]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2020.07.02-19.07.46:039][354]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2020.07.02-19.07.46:085][356]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2020.07.02-19.07.46:212][362]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2020.07.02-19.07.46:332][367]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.07.02-19.07.46:332][367]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2020.07.02-19.07.47:004][397]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2020.07.02-19.07.47:086][401]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2020.07.02-19.07.47:283][410]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.07.02-19.07.47:575][423]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2020.07.02-19.07.47:617][425]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2020.07.02-19.07.48:027][443]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.07.02-19.07.48:071][445]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2020.07.02-19.07.49:381][515]MaterialEditorStats: Base pass shader: 516 instructions
+[2020.07.02-19.07.49:381][515]MaterialEditorStats: Base pass shader with Surface Lightmap: 557 instructions
+[2020.07.02-19.07.49:381][515]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 602 instructions
+[2020.07.02-19.07.49:381][515]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2020.07.02-19.07.49:381][515]MaterialEditorStats: Texture samplers: 12/16
+[2020.07.02-19.07.49:381][515]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(19)
+[2020.07.02-19.07.50:761][598]LogMaterialEditor: Saving and Compiling material M_TranslucentWater
+[2020.07.02-19.07.51:242][598]LogMaterial: Display: Missing cached shader map for material M_TranslucentWater, compiling. 
+[2020.07.02-19.07.51:300][598]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2020.07.02-19.07.51:300][598]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2020.07.02-19.07.51:300][598]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2020.07.02-19.07.51:300][598]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2020.07.02-19.07.51:300][598]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2020.07.02-19.07.51:300][598]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2020.07.02-19.07.51:300][598]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2020.07.02-19.07.51:300][598]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2020.07.02-19.07.51:338][598]LogMaterial: Display: Missing cached shader map for material M_TranslucentWater, compiling. 
+[2020.07.02-19.07.51:477][598]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2020.07.02-19.07.51:504][598]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.07.02-19.07.52:071][598]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 71
+[2020.07.02-19.07.52:071][598]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 70
+[2020.07.02-19.07.52:071][598]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 69
+[2020.07.02-19.07.52:071][598]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 68
+[2020.07.02-19.07.52:071][598]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 67
+[2020.07.02-19.07.52:633][598]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 66
+[2020.07.02-19.07.52:633][598]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 65
+[2020.07.02-19.07.52:633][598]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 64
+[2020.07.02-19.07.53:194][598]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 63
+[2020.07.02-19.07.53:194][598]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 62
+[2020.07.02-19.07.53:194][598]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 61
+[2020.07.02-19.07.53:194][598]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 60
+[2020.07.02-19.07.53:755][598]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 59
+[2020.07.02-19.07.53:755][598]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 58
+[2020.07.02-19.07.53:755][598]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 57
+[2020.07.02-19.07.54:302][598]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 56
+[2020.07.02-19.07.54:302][598]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 55
+[2020.07.02-19.07.54:302][598]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 54
+[2020.07.02-19.07.54:302][598]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 53
+[2020.07.02-19.07.54:302][598]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 52
+[2020.07.02-19.07.54:302][598]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 51
+[2020.07.02-19.07.54:626][598]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 50
+[2020.07.02-19.07.54:626][598]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 43
+[2020.07.02-19.07.54:626][598]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 37
+[2020.07.02-19.07.54:626][598]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 32
+[2020.07.02-19.07.54:632][598]TextureStreamingBuild: Display: Compiling optional shaders took 3.132 seconds.
+[2020.07.02-19.07.54:651][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.07.02-19.07.55:283][598]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2020.07.02-19.07.55:283][598]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 23
+[2020.07.02-19.07.55:844][598]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2020.07.02-19.07.55:844][598]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2020.07.02-19.07.56:406][598]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2020.07.02-19.07.57:528][598]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2020.07.02-19.07.58:651][598]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2020.07.02-19.07.58:651][598]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2020.07.02-19.07.59:213][598]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2020.07.02-19.07.59:774][598]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.07.02-19.07.59:774][598]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2020.07.02-19.07.59:774][598]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2020.07.02-19.07.59:774][598]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2020.07.02-19.08.00:336][598]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2020.07.02-19.08.00:687][598]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/M_TranslucentWater93C2C4EB497311AF5F79658235CDC163.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/WaterPlane/Translucent/Materials/M_TranslucentWater.uasset'
+[2020.07.02-19.08.00:715][598]AssetCheck: New page: Asset Save: M_TranslucentWater
+[2020.07.02-19.08.00:715][598]LogContentValidation: Display: Validating Material /Game/WaterPlane/Translucent/Materials/M_TranslucentWater.M_TranslucentWater
+[2020.07.02-19.08.09:404][177]Cmd: TRANSACTION UNDO
+[2020.07.02-19.08.09:404][177]LogEditorTransaction: Undo Editar Valor predeterminado
+[2020.07.02-19.08.09:422][177]LogMaterial: Display: Missing cached shader map for material M_TranslucentWater, compiling. 
+[2020.07.02-19.08.09:444][177]LogMaterial: Display: Missing cached shader map for material M_TranslucentWater, compiling. 
+[2020.07.02-19.08.09:476][177]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2020.07.02-19.08.09:476][177]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2020.07.02-19.08.09:476][177]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2020.07.02-19.08.09:476][177]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2020.07.02-19.08.09:476][177]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2020.07.02-19.08.09:476][177]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2020.07.02-19.08.09:476][177]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2020.07.02-19.08.09:476][177]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2020.07.02-19.08.09:717][180]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 19
+[2020.07.02-19.08.09:784][182]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 18
+[2020.07.02-19.08.09:980][186]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 17
+[2020.07.02-19.08.10:205][196]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 16
+[2020.07.02-19.08.10:246][198]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2020.07.02-19.08.10:374][204]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2020.07.02-19.08.10:597][213]LogMaterialEditor: Saving and Compiling material M_TranslucentWater
+[2020.07.02-19.08.11:495][213]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2020.07.02-19.08.11:495][213]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2020.07.02-19.08.11:495][213]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2020.07.02-19.08.11:514][213]LogMaterial: Display: Missing cached shader map for material M_TranslucentWater, compiling. 
+[2020.07.02-19.08.11:584][213]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 27
+[2020.07.02-19.08.11:584][213]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 26
+[2020.07.02-19.08.11:584][213]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 25
+[2020.07.02-19.08.11:651][213]LogMaterial: Display: Missing cached shader map for material M_TranslucentWater, compiling. 
+[2020.07.02-19.08.11:726][213]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2020.07.02-19.08.11:762][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.07.02-19.08.11:782][213]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 73
+[2020.07.02-19.08.11:782][213]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.07.02-19.08.12:349][213]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 74
+[2020.07.02-19.08.12:349][213]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 73
+[2020.07.02-19.08.12:349][213]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 72
+[2020.07.02-19.08.12:349][213]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 71
+[2020.07.02-19.08.12:911][213]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 70
+[2020.07.02-19.08.12:911][213]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 69
+[2020.07.02-19.08.12:911][213]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 68
+[2020.07.02-19.08.12:911][213]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 67
+[2020.07.02-19.08.13:473][213]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 66
+[2020.07.02-19.08.13:473][213]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 65
+[2020.07.02-19.08.13:473][213]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 64
+[2020.07.02-19.08.13:473][213]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 63
+[2020.07.02-19.08.13:473][213]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 62
+[2020.07.02-19.08.14:034][213]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 61
+[2020.07.02-19.08.14:034][213]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 60
+[2020.07.02-19.08.14:596][213]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 59
+[2020.07.02-19.08.14:596][213]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 58
+[2020.07.02-19.08.14:596][213]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 57
+[2020.07.02-19.08.14:596][213]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 56
+[2020.07.02-19.08.14:596][213]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 55
+[2020.07.02-19.08.14:596][213]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 54
+[2020.07.02-19.08.15:157][213]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 53
+[2020.07.02-19.08.15:157][213]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 52
+[2020.07.02-19.08.15:157][213]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 51
+[2020.07.02-19.08.15:157][213]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 50
+[2020.07.02-19.08.15:157][213]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 43
+[2020.07.02-19.08.15:259][213]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 37
+[2020.07.02-19.08.15:259][213]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 32
+[2020.07.02-19.08.15:271][213]TextureStreamingBuild: Display: Compiling optional shaders took 3.493 seconds.
+[2020.07.02-19.08.15:288][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.07.02-19.08.15:913][213]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 27
+[2020.07.02-19.08.15:913][213]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 23
+[2020.07.02-19.08.15:913][213]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 20
+[2020.07.02-19.08.16:474][213]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2020.07.02-19.08.17:597][213]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2020.07.02-19.08.18:158][213]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2020.07.02-19.08.18:710][213]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2020.07.02-19.08.18:710][213]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2020.07.02-19.08.19:272][213]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2020.07.02-19.08.20:395][213]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.07.02-19.08.20:395][213]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2020.07.02-19.08.20:395][213]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2020.07.02-19.08.20:395][213]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2020.07.02-19.08.20:954][213]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.07.02-19.08.21:309][213]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/M_TranslucentWaterFB6B99D84199649CA51BCB8C7E7A2021.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/WaterPlane/Translucent/Materials/M_TranslucentWater.uasset'
+[2020.07.02-19.08.21:331][213]AssetCheck: New page: Asset Save: M_TranslucentWater
+[2020.07.02-19.08.21:331][213]LogContentValidation: Display: Validating Material /Game/WaterPlane/Translucent/Materials/M_TranslucentWater.M_TranslucentWater
+[2020.07.02-19.08.21:332][213]MaterialEditorStats: Base pass shader: 516 instructions
+[2020.07.02-19.08.21:332][213]MaterialEditorStats: Base pass shader with Surface Lightmap: 557 instructions
+[2020.07.02-19.08.21:332][213]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 602 instructions
+[2020.07.02-19.08.21:332][213]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2020.07.02-19.08.21:332][213]MaterialEditorStats: Texture samplers: 12/16
+[2020.07.02-19.08.21:332][213]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(19)
+[2020.07.02-19.08.25:226][442]LogStaticMesh: Warning: C:\Users\Marc\Documents\GitHub\H-Hour\H_Hour\Content\FirstPersonBP\Maps\FirstPersonExampleMap.umap: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BP_TranslucentWater_5.WaterSurface
+Current: 2070.000000,-6930.000000,-570.000000|0.000000,0.000000,0.000000|706.666687,700.000000,1.000000 Cached: 2070.000000,-6930.000000,-570.000000|0.000000,0.000000,0.000000|700.000000,700.000000,1.000000
+[2020.07.02-19.08.49:954][  3]Cmd: TRANSACTION UNDO
+[2020.07.02-19.08.49:954][  3]LogEditorTransaction: Undo Editar Water Scale Y
+[2020.07.02-19.08.49:980][  3]LogMaterial: Display: Missing cached shader map for material M_TranslucentWater, compiling. 
+[2020.07.02-19.08.50:012][  3]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2020.07.02-19.08.50:012][  3]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2020.07.02-19.08.50:012][  3]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2020.07.02-19.08.50:012][  3]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2020.07.02-19.08.50:012][  3]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2020.07.02-19.08.50:012][  3]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2020.07.02-19.08.50:012][  3]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2020.07.02-19.08.50:012][  3]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2020.07.02-19.08.50:458][ 15]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 19
+[2020.07.02-19.08.50:486][ 17]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 18
+[2020.07.02-19.08.50:693][ 30]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 17
+[2020.07.02-19.08.50:779][ 35]Cmd: TRANSACTION UNDO
+[2020.07.02-19.08.50:779][ 35]LogEditorTransaction: Undo Editar Water Scale X
+[2020.07.02-19.08.50:799][ 35]LogMaterial: Display: Missing cached shader map for material M_TranslucentWater, compiling. 
+[2020.07.02-19.08.50:920][ 40]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 27
+[2020.07.02-19.08.50:990][ 45]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 26
+[2020.07.02-19.08.51:093][ 51]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 25
+[2020.07.02-19.08.51:210][ 58]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 24
+[2020.07.02-19.08.51:420][ 67]Cmd: TRANSACTION UNDO
+[2020.07.02-19.08.51:420][ 67]LogEditorTransaction: Undo Editar Water Scale Y
+[2020.07.02-19.08.51:444][ 67]LogMaterial: Display: Missing cached shader map for material M_TranslucentWater, compiling. 
+[2020.07.02-19.08.51:953][ 95]Cmd: TRANSACTION UNDO
+[2020.07.02-19.08.51:953][ 95]LogEditorTransaction: Undo Editar Water Scale X
+[2020.07.02-19.08.51:975][ 95]LogMaterial: Display: Missing cached shader map for material M_TranslucentWater, compiling. 
+[2020.07.02-19.08.51:992][ 95]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 27
+[2020.07.02-19.08.52:292][113]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 26
+[2020.07.02-19.08.52:374][116]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 25
+[2020.07.02-19.08.52:523][124]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 24
+[2020.07.02-19.08.52:649][131]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 23
+[2020.07.02-19.08.52:784][137]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 22
+[2020.07.02-19.08.52:891][142]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 21
+[2020.07.02-19.08.53:005][146]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 20
+[2020.07.02-19.08.53:326][158]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 19
+[2020.07.02-19.08.53:386][160]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 18
+[2020.07.02-19.08.53:528][165]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 17
+[2020.07.02-19.08.53:578][168]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 16
+[2020.07.02-19.08.53:764][179]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 15
+[2020.07.02-19.08.53:985][192]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 14
+[2020.07.02-19.08.54:253][208]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2020.07.02-19.08.54:307][210]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2020.07.02-19.08.54:748][234]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2020.07.02-19.08.54:831][240]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2020.07.02-19.08.54:970][245]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2020.07.02-19.08.54:981][245]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2020.07.02-19.08.55:600][269]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2020.07.02-19.08.55:652][272]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2020.07.02-19.08.55:675][272]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2020.07.02-19.08.55:761][276]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2020.07.02-19.08.55:985][286]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2020.07.02-19.08.56:158][292]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2020.07.02-19.08.56:488][308]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2020.07.02-19.08.57:721][373]MaterialEditorStats: Base pass shader: 516 instructions
+[2020.07.02-19.08.57:721][373]MaterialEditorStats: Base pass shader with Surface Lightmap: 557 instructions
+[2020.07.02-19.08.57:721][373]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 602 instructions
+[2020.07.02-19.08.57:721][373]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2020.07.02-19.08.57:721][373]MaterialEditorStats: Texture samplers: 12/16
+[2020.07.02-19.08.57:721][373]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(19)
+[2020.07.02-19.10.14:124][681]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.07.02-19.11.06:639][256]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.07.02-19.11.09:665][400]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cave_Rock_Medium6)
+[2020.07.02-19.11.11:562][487]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.07.02-19.11.12:589][534]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.07.02-19.11.16:533][727]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.07.02-19.11.17:091][750]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.07.02-19.11.17:570][769]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.07.02-19.11.22:222][980]LogClient: Captura de pantalla de alta resolución guardada como C:/Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Screenshots/Windows/HighresScreenshot00019.png
+[2020.07.02-19.12.29:271][861]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.07.02-19.12.41:687][452]LogClient: Captura de pantalla de alta resolución guardada como C:/Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Screenshots/Windows/HighresScreenshot00019.png
+[2020.07.02-19.13.16:617][992]LogClient: Captura de pantalla de alta resolución guardada como C:/Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Screenshots/Windows/HighresScreenshot00020.png
+[2020.07.02-19.13.38:555][166]LogClient: Captura de pantalla de alta resolución guardada como C:/Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Screenshots/Windows/HighresScreenshot00021.png
+[2020.07.02-19.14.06:263][523]LogClient: Captura de pantalla de alta resolución guardada como C:/Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Screenshots/Windows/HighresScreenshot00022.png
+[2020.07.02-19.14.16:023][960]LogClient: Captura de pantalla de alta resolución guardada como C:/Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Screenshots/Windows/HighresScreenshot00023.png
+[2020.07.02-19.14.52:154][643]LogClient: Captura de pantalla de alta resolución guardada como C:/Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Screenshots/Windows/HighresScreenshot00024.png
+[2020.07.02-19.15.08:519][394]LogClient: Captura de pantalla de alta resolución guardada como C:/Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Screenshots/Windows/HighresScreenshot00025.png
+[2020.07.02-19.15.15:407][698]LogClient: Captura de pantalla de alta resolución guardada como C:/Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Screenshots/Windows/HighresScreenshot00026.png
+[2020.07.02-19.15.54:125][639]LogClient: Captura de pantalla de alta resolución guardada como C:/Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Screenshots/Windows/HighresScreenshot00027.png
+[2020.07.02-19.16.16:318][655]LogClient: Captura de pantalla de alta resolución guardada como C:/Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Screenshots/Windows/HighresScreenshot00028.png
+[2020.07.02-19.16.52:240][ 41]LogClient: Captura de pantalla de alta resolución guardada como C:/Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Screenshots/Windows/HighresScreenshot00029.png
+[2020.07.02-19.16.55:837][198]LogClient: Captura de pantalla de alta resolución guardada como C:/Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Screenshots/Windows/HighresScreenshot00030.png
+[2020.07.02-19.17.11:253][  7]LogClient: Captura de pantalla de alta resolución guardada como C:/Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Screenshots/Windows/HighresScreenshot00031.png
+[2020.07.02-19.17.36:250][259]LogClient: Captura de pantalla de alta resolución guardada como C:/Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Screenshots/Windows/HighresScreenshot00032.png
+[2020.07.02-19.17.42:310][539]LogClient: Captura de pantalla de alta resolución guardada como C:/Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Screenshots/Windows/HighresScreenshot00033.png
+[2020.07.02-19.17.55:619][364]LogClient: Captura de pantalla de alta resolución guardada como C:/Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Screenshots/Windows/HighresScreenshot00034.png
+[2020.07.02-19.18.11:005][ 20]LogClient: Captura de pantalla de alta resolución guardada como C:/Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Screenshots/Windows/HighresScreenshot00035.png
+[2020.07.02-19.18.35:243][131]LogClient: Captura de pantalla de alta resolución guardada como C:/Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Screenshots/Windows/HighresScreenshot00036.png
+[2020.07.02-19.19.26:311][615]LogClient: Captura de pantalla de alta resolución guardada como C:/Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Screenshots/Windows/HighresScreenshot00037.png
+[2020.07.02-19.20.20:458][124]LogClient: Captura de pantalla de alta resolución guardada como C:/Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Screenshots/Windows/HighresScreenshot00038.png
+[2020.07.02-19.20.59:837][193]LogClient: Captura de pantalla de alta resolución guardada como C:/Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Screenshots/Windows/HighresScreenshot00039.png
+[2020.07.02-19.21.21:274][235]LogClient: Captura de pantalla de alta resolución guardada como C:/Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Screenshots/Windows/HighresScreenshot00040.png
+[2020.07.02-19.21.44:392][303]LogClient: Captura de pantalla de alta resolución guardada como C:/Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Screenshots/Windows/HighresScreenshot00041.png
+[2020.07.02-19.22.06:095][306]LogClient: Captura de pantalla de alta resolución guardada como C:/Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Screenshots/Windows/HighresScreenshot00042.png
+[2020.07.02-19.22.08:591][424]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Cave_Rock_Small29)
+[2020.07.02-19.22.53:646][602]LogClient: Captura de pantalla de alta resolución guardada como C:/Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/Screenshots/Windows/HighresScreenshot00043.png
+[2020.07.02-19.23.30:548][709]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.07.02-19.23.30:603][709]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2020.07.02-19.23.31:157][709]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMap6EB049F942BD28874350A0A7A6D72DB6.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.07.02-19.23.31:197][709]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.608
+[2020.07.02-19.23.35:687][709]LogSavePackage: Moving '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Saved/FirstPersonExampleMap_BuiltDataB79AF61640ABFEB4FB439CB21E4CB1C5.tmp' to '../../../../../../Users/Marc/Documents/GitHub/H-Hour/H_Hour/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.07.02-19.23.35:740][709]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.02-19.23.35:740][709]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.07.02-19.23.35:740][709]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.07.02-19.23.38:099][780]LogSlate: Window 'Mensaje' being destroyed
+[2020.07.02-19.23.38:104][780]Message dialog closed, result: Yes, title: Mensaje, text: ¿Quiere aplicar los cambios a este material?
+/Game/WaterPlane/Translucent/Materials/M_TranslucentWater.M_TranslucentWater
+(¡No se perderán todos lo cambios!)
+[2020.07.02-19.23.38:545][780]LogMaterial: Display: Missing cached shader map for material M_TranslucentWater, compiling. 
+[2020.07.02-19.23.38:605][780]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2020.07.02-19.23.38:605][780]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2020.07.02-19.23.38:605][780]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2020.07.02-19.23.38:605][780]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2020.07.02-19.23.38:605][780]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2020.07.02-19.23.38:605][780]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2020.07.02-19.23.38:605][780]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2020.07.02-19.23.38:605][780]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2020.07.02-19.23.38:640][780]LogMaterial: Display: Missing cached shader map for material M_TranslucentWater, compiling. 
+[2020.07.02-19.23.38:740][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.07.02-19.23.38:746][780]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.07.02-19.23.39:313][780]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 71
+[2020.07.02-19.23.39:313][780]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 70
+[2020.07.02-19.23.39:313][780]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 69
+[2020.07.02-19.23.39:874][780]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 68
+[2020.07.02-19.23.39:874][780]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 67
+[2020.07.02-19.23.39:874][780]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 66
+[2020.07.02-19.23.39:874][780]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 65
+[2020.07.02-19.23.39:874][780]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 64
+[2020.07.02-19.23.40:997][780]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 63
+[2020.07.02-19.23.40:997][780]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 62
+[2020.07.02-19.23.40:997][780]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 61
+[2020.07.02-19.23.40:997][780]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 60
+[2020.07.02-19.23.40:997][780]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 59
+[2020.07.02-19.23.40:997][780]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 58
+[2020.07.02-19.23.41:559][780]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 57
+[2020.07.02-19.23.41:559][780]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 56
+[2020.07.02-19.23.41:559][780]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 55
+[2020.07.02-19.23.41:559][780]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 54
+[2020.07.02-19.23.42:120][780]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 53
+[2020.07.02-19.23.42:120][780]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 52
+[2020.07.02-19.23.42:120][780]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 51
+[2020.07.02-19.23.42:120][780]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 50
+[2020.07.02-19.23.42:120][780]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 43
+[2020.07.02-19.23.42:288][780]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 37
+[2020.07.02-19.23.42:288][780]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 32
+[2020.07.02-19.23.42:294][780]TextureStreamingBuild: Display: Compiling optional shaders took 3.553 seconds.
+[2020.07.02-19.23.42:318][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.07.02-19.23.42:365][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.07.02-19.23.42:599][780]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 27
+[2020.07.02-19.23.42:770][780]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 23
+[2020.07.02-19.23.43:167][780]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2020.07.02-19.23.43:184][780]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 17
+[2020.07.02-19.23.44:194][780]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 14
+[2020.07.02-19.23.45:158][780]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2020.07.02-19.23.46:294][780]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 10
+[2020.07.02-19.23.46:379][780]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2020.07.02-19.23.47:117][780]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2020.07.02-19.23.47:547][780]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2020.07.02-19.23.47:717][780]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2020.07.02-19.23.47:940][780]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2020.07.02-19.23.48:076][780]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2020.07.02-19.23.48:110][780]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
